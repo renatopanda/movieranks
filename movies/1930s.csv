@@ -1,0 +1,51 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,1,"Modern Times",1936,http://www.icheckmovies.com/movies/modern+times/,27753,2475,73,29,697,,http://www.imdb.com/title/tt0027977/,"2018-01-10 16:55:31",no,no,no,no
+2,-1,"City Lights",1931,http://www.icheckmovies.com/movies/city+lights/,19538,2291,66,31,740,,http://www.imdb.com/title/tt0021749/,"2018-01-10 16:55:28",no,no,no,yes
+3,0,"M - Eine Stadt sucht einen Mörder",1931,http://www.icheckmovies.com/movies/m+-+eine+stadt+sucht+einen+morder/,18921,2564,80,34,896,M,http://www.imdb.com/title/tt0022100/,"2018-04-26 21:26:57",no,no,no,yes
+4,3,"Mr. Smith Goes to Washington",1939,http://www.icheckmovies.com/movies/mr.+smith+goes+to+washington/,16792,1387,78,16,526,,http://www.imdb.com/title/tt0031679/,"2018-04-26 21:27:48",no,no,no,no
+5,1,"Gone with the Wind",1939,http://www.icheckmovies.com/movies/gone+with+the+wind/,40913,2690,395,30,823,,http://www.imdb.com/title/tt0031381/,"2018-01-10 16:58:26",no,no,no,no
+6,-1,"Make Way for Tomorrow",1937,http://www.icheckmovies.com/movies/make+way+for+tomorrow/,2224,342,16,15,275,,http://www.imdb.com/title/tt0029192/,"2018-10-30 01:08:09",no,no,no,no
+7,-3,"Trouble in Paradise",1932,http://www.icheckmovies.com/movies/trouble+in+paradise/,3731,439,30,18,362,,http://www.imdb.com/title/tt0023622/,"2018-06-11 13:14:15",no,no,no,no
+8,8,"La règle du jeu",1939,http://www.icheckmovies.com/movies/la+regle+du+jeu/,6780,755,79,24,627,"The Rules of the Game",http://www.imdb.com/title/tt0031885/,"2018-04-26 21:28:05",no,no,no,no
+9,6,"La grande illusion",1937,http://www.icheckmovies.com/movies/la+grande+illusion/,7196,801,31,28,580,"The Grand Illusion",http://www.imdb.com/title/tt0028950/,"2018-04-26 21:27:36",no,no,no,no
+10,4,"My Man Godfrey",1936,http://www.icheckmovies.com/movies/my+man+godfrey/,4310,451,19,12,314,,http://www.imdb.com/title/tt0028010/,"2018-10-17 22:29:53",no,no,no,no
+11,2,Dodsworth,1936,http://www.icheckmovies.com/movies/dodsworth/,1701,148,9,9,209,,http://www.imdb.com/title/tt0027532/,"2018-12-01 09:30:42",no,no,no,no
+12,0,"The Thin Man",1934,http://www.icheckmovies.com/movies/the+thin+man/,5431,591,29,12,339,,http://www.imdb.com/title/tt0025878/,"2018-04-26 21:27:20",no,no,no,no
+13,-2,"Les misérables",1934,http://www.icheckmovies.com/movies/les+miserables-1934-1/,563,65,2,4,106,,http://www.imdb.com/title/tt0025509/,no,no,no,no,no
+14,-4,"It Happened One Night",1934,http://www.icheckmovies.com/movies/it+happened+one+night/,13559,1427,55,26,649,,http://www.imdb.com/title/tt0025316/,"2018-04-26 21:27:19",no,no,no,yes
+15,-6,"I Am a Fugitive from a Chain Gang",1932,http://www.icheckmovies.com/movies/i+am+a+fugitive+from+a+chain+gang/,2588,304,9,12,316,"I Am a Fugitive from the Chain Gang",http://www.imdb.com/title/tt0023042/,"2018-10-17 22:13:41",no,no,no,no
+16,-8,"All Quiet on the Western Front",1930,http://www.icheckmovies.com/movies/all+quiet+on+the+western+front/,12673,696,62,17,485,,http://www.imdb.com/title/tt0020629/,"2018-04-26 21:26:45",no,no,no,yes
+17,13,"The Women",1939,http://www.icheckmovies.com/movies/the+women/,1775,143,34,6,178,,http://www.imdb.com/title/tt0032143/,"2018-04-28 23:13:07",no,no,no,no
+18,11,"The Wizard of Oz",1939,http://www.icheckmovies.com/movies/the+wizard+of+oz/,85355,3570,342,31,921,,http://www.imdb.com/title/tt0032138/,"2018-04-26 21:27:53",no,no,no,no
+19,9,Ninotchka,1939,http://www.icheckmovies.com/movies/ninotchka/,3938,383,28,17,314,,http://www.imdb.com/title/tt0031725/,"2018-10-17 22:31:29",no,no,no,no
+20,7,"You Can't Take It with You",1938,http://www.icheckmovies.com/movies/you+cant+take+it+with+you/,3289,277,19,5,209,,http://www.imdb.com/title/tt0030993/,"2018-10-17 22:46:22",no,no,no,no
+21,5,"Bringing Up Baby",1938,http://www.icheckmovies.com/movies/bringing+up+baby/,10590,1096,122,21,525,,http://www.imdb.com/title/tt0029947/,"2018-04-28 16:06:52",no,no,no,no
+22,3,"Angels with Dirty Faces",1938,http://www.icheckmovies.com/movies/angels+with+dirty+faces/,3724,257,22,5,233,,http://www.imdb.com/title/tt0029870/,"2018-10-17 21:52:36",no,no,no,no
+23,1,"The Adventures of Robin Hood",1938,http://www.icheckmovies.com/movies/the+adventures+of+robin+hood/,13599,648,46,16,439,,http://www.imdb.com/title/tt0029843/,"2018-04-26 21:27:42",no,no,no,no
+24,-1,"Captains Courageous",1937,http://www.icheckmovies.com/movies/captains+courageous/,1630,122,9,6,190,,http://www.imdb.com/title/tt0028691/,"2018-06-11 12:58:11",no,no,no,no
+25,-3,"Mr. Deeds Goes to Town",1936,http://www.icheckmovies.com/movies/mr.+deeds+goes+to+town/,4387,258,24,10,256,,http://www.imdb.com/title/tt0027996/,"2018-06-11 13:07:06",no,no,no,no
+26,-5,"A Night at the Opera",1935,http://www.icheckmovies.com/movies/a+night+at+the+opera/,7049,500,39,15,332,,http://www.imdb.com/title/tt0026778/,"2018-10-17 22:31:11",no,no,no,no
+27,-7,"Gold Diggers of 1933",1933,http://www.icheckmovies.com/movies/gold+diggers+of+1933/,2480,208,17,11,271,,http://www.imdb.com/title/tt0024069/,"2018-11-19 18:08:37",no,no,no,no
+28,-9,"Duck Soup",1933,http://www.icheckmovies.com/movies/duck+soup/,13817,1220,183,23,574,,http://www.imdb.com/title/tt0023969/,"2018-04-26 21:27:09",no,no,no,yes
+29,-11,"Otona no miru ehon - Umarete wa mita keredo",1932,http://www.icheckmovies.com/movies/otona+no+miru+ehon+-+umarete+wa+mita+keredo/,1150,126,2,12,229,"I Was Born, But...",http://www.imdb.com/title/tt0023634/,"2018-11-08 00:21:48",no,no,no,no
+30,-13,"One Way Passage",1932,http://www.icheckmovies.com/movies/one+way+passage/,527,40,5,2,91,,http://www.imdb.com/title/tt0023305/,"2018-11-25 23:46:53",no,no,no,no
+31,16,"Zangiku monogatari",1939,http://www.icheckmovies.com/movies/zangiku+monogatari/,976,105,4,11,226,"The Story of the Last Chrysanthemum",http://www.imdb.com/title/tt0032156/,"2018-11-19 21:31:43",no,no,no,no
+32,14,Stagecoach,1939,http://www.icheckmovies.com/movies/stagecoach/,8275,513,46,20,542,,http://www.imdb.com/title/tt0031971/,"2018-04-26 21:27:47",no,no,no,no
+33,12,"The Roaring Twenties",1939,http://www.icheckmovies.com/movies/the+roaring+twenties/,1716,156,7,6,174,,http://www.imdb.com/title/tt0031867/,"2018-10-17 22:36:01",no,no,no,no
+34,10,Midnight,1939,http://www.icheckmovies.com/movies/midnight/,934,100,6,6,149,,http://www.imdb.com/title/tt0031647/,"2018-06-11 13:06:56",no,no,no,no
+35,8,"The Hunchback of Notre Dame",1939,http://www.icheckmovies.com/movies/the+hunchback+of+notre+dame/,2737,101,9,6,169,,http://www.imdb.com/title/tt0031455/,"2018-10-17 22:13:26",no,no,no,no
+36,6,Pygmalion,1938,http://www.icheckmovies.com/movies/pygmalion/,2013,164,10,7,169,,http://www.imdb.com/title/tt0030637/,"2018-06-11 13:09:48",no,no,no,no
+37,4,"The Lady Vanishes",1938,http://www.icheckmovies.com/movies/the+lady+vanishes/,8550,732,35,13,353,,http://www.imdb.com/title/tt0030341/,"2018-04-26 21:27:57",no,no,no,no
+38,2,"The Awful Truth",1937,http://www.icheckmovies.com/movies/the+awful+truth/,3775,331,19,14,299,,http://www.imdb.com/title/tt0028597/,"2018-11-08 00:21:15",no,no,no,no
+39,0,"Hitori musuko",1936,http://www.icheckmovies.com/movies/hitori+musuko/,779,92,1,6,173,"The Only Son",http://www.imdb.com/title/tt0027752/,no,no,no,no,no
+40,-2,Fury,1936,http://www.icheckmovies.com/movies/fury/,2123,207,9,10,233,,http://www.imdb.com/title/tt0027652/,"2018-06-11 13:02:31",no,no,no,no
+41,-4,"Bride of Frankenstein",1935,http://www.icheckmovies.com/movies/bride+of+frankenstein/,11312,665,58,18,593,,http://www.imdb.com/title/tt0026138/,"2018-04-28 11:43:25",no,no,no,no
+42,-6,"Ukikusa monogatari",1934,http://www.icheckmovies.com/movies/ukikusa+monogatari/,753,60,3,6,117,"A Story of Floating Weeds",http://www.imdb.com/title/tt0025929/,no,no,no,no,no
+43,-8,"King Kong",1933,http://www.icheckmovies.com/movies/king+kong/,26046,938,98,28,698,"The Eighth Wonder",http://www.imdb.com/title/tt0024216/,"2018-04-26 21:27:11",no,no,no,yes
+44,-10,"Das Testament des Dr. Mabuse",1933,http://www.icheckmovies.com/movies/das+testament+des+dr.+mabuse/,2532,274,12,10,275,"The Testament of Dr. Mabuse",http://www.imdb.com/title/tt0023563/,"2018-04-28 23:17:51",no,no,no,no
+45,-12,Freaks,1932,http://www.icheckmovies.com/movies/freaks/,10789,1044,51,16,518,"The Monster Show",http://www.imdb.com/title/tt0022913/,"2018-10-17 22:09:43",no,no,no,no
+46,-14,Frankenstein,1931,http://www.icheckmovies.com/movies/frankenstein/,18420,705,66,19,592,,http://www.imdb.com/title/tt0021884/,"2018-04-26 21:26:48",no,no,no,yes
+47,-16,"City Girl",1930,http://www.icheckmovies.com/movies/city+girl/,849,107,1,5,168,"Our Daily Bread",http://www.imdb.com/title/tt0020768/,"2018-12-02 21:51:50",no,no,no,no
+48,,"Shen nu",1934,http://www.icheckmovies.com/movies/shen+nu/,586,60,1,9,146,"The Goddess",http://www.imdb.com/title/tt0195256/,"2018-12-04 15:10:58",no,no,no,no
+49,,"Of Mice and Men",1939,http://www.icheckmovies.com/movies/of+mice+and+men/,1916,65,3,4,94,,http://www.imdb.com/title/tt0031742/,no,no,no,no,no
+50,,"Le jour se lève",1939,http://www.icheckmovies.com/movies/le+jour+se+leve/,1578,130,12,13,255,Daybreak,http://www.imdb.com/title/tt0031514/,"2018-04-26 21:28:00",no,no,no,no

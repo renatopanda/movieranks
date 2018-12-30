@@ -1,0 +1,65 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,0,"La barraca",1945,http://www.icheckmovies.com/movies/la+barraca/,14,1,0,1,18,,http://www.imdb.com/title/tt0036627/,no,no,no,no,no
+2,0,Enamorada,1946,http://www.icheckmovies.com/movies/enamorada/,145,5,0,3,36,,http://www.imdb.com/title/tt0038510/,no,no,no,no,no
+3,0,"La perla",1947,http://www.icheckmovies.com/movies/la+perla/,210,14,0,5,88,"The Pearl",http://www.imdb.com/title/tt0037981/,"2018-12-01 10:07:29",no,no,no,no
+4,0,"Río Escondido",1948,http://www.icheckmovies.com/movies/rio+escondido/,37,0,1,1,16,"Hidden River",http://www.imdb.com/title/tt0039793/,no,no,no,no,no
+5,0,"Una familia de tantas",1949,http://www.icheckmovies.com/movies/una+familia+de+tantas/,38,5,0,2,27,,http://www.imdb.com/title/tt0040341/,no,no,no,no,no
+6,0,"Los olvidados",1950,http://www.icheckmovies.com/movies/los+olvidados/,3720,502,28,23,373,"The Young and the Damned",http://www.imdb.com/title/tt0042804/,"2018-06-11 13:08:24",no,no,no,no
+7,0,"En la palma de tu mano",1951,http://www.icheckmovies.com/movies/en+la+palma+de+tu+mano/,47,1,0,1,20,"In the Palm of Your Hand",http://www.imdb.com/title/tt0042434/,no,no,no,no,no
+8,0,"El niño y la niebla",1953,http://www.icheckmovies.com/movies/el+nino+y+la+niebla/,16,0,0,1,13,"The Boy and the Fog",http://www.imdb.com/title/tt0046129/,no,no,no,no,no
+9,0,"Los Fernández de Peralvillo",1954,http://www.icheckmovies.com/movies/los+fernandez+de+peralvillo/,23,0,0,1,12,,http://www.imdb.com/title/tt0045762/,no,no,no,no,no
+10,0,"Robinson Crusoe",1954,http://www.icheckmovies.com/movies/robinson+crusoe/,752,12,4,3,93,,http://www.imdb.com/title/tt0044386/,no,no,no,no,no
+11,0,"El camino de la vida",1956,http://www.icheckmovies.com/movies/el+camino+de+la+vida/,16,1,0,1,12,"The Road of Life",http://www.imdb.com/title/tt0134421/,no,no,no,no,no
+12,0,Tizoc,1957,http://www.icheckmovies.com/movies/tizoc/,143,3,0,1,13,,http://www.imdb.com/title/tt0051090/,no,no,no,no,no
+13,0,"El águila descalza",1971,http://www.icheckmovies.com/movies/el+aguila+descalza/,23,0,2,1,15,"The Barefoot Eagle",http://www.imdb.com/title/tt0065259/,no,no,no,no,no
+14,0,"Tú, yo, nosotros",1972,http://www.icheckmovies.com/movies/tu+yo+nosotros/,9,0,1,1,12,,http://www.imdb.com/title/tt0135019/,no,no,no,no,no
+15,0,"Las puertas del paraíso",1971,http://www.icheckmovies.com/movies/las+puertas+del+paraiso/,11,0,0,1,13,"The Gates of Paradise",http://www.imdb.com/title/tt0134917/,no,no,no,no,no
+16,0,"Reed, México insurgente",1973,http://www.icheckmovies.com/movies/reed+mexico+insurgente/,79,1,1,4,40,"Reed: Insurgent Mexico",http://www.imdb.com/title/tt0069168/,no,no,no,no,no
+17,0,"Mecánica nacional",1972,http://www.icheckmovies.com/movies/mecanica+nacional/,56,5,1,1,25,"National Mechanics",http://www.imdb.com/title/tt0134817/,no,no,no,no,no
+18,0,"El castillo de la pureza",1973,http://www.icheckmovies.com/movies/el+castillo+de+la+pureza/,190,20,1,3,56,"The Castle of Purity",http://www.imdb.com/title/tt0068348/,no,no,no,no,no
+19,0,"El principio",1973,http://www.icheckmovies.com/movies/el+principio/,15,0,1,1,12,,http://www.imdb.com/title/tt0134907/,no,no,no,no,no
+20,0,"La otra virginidad",1975,http://www.icheckmovies.com/movies/la+otra+virginidad/,21,0,2,1,15,,http://www.imdb.com/title/tt0134875/,no,no,no,no,no
+21,0,"La choca",1974,http://www.icheckmovies.com/movies/la+choca/,26,1,1,1,14,,http://www.imdb.com/title/tt0069876/,no,no,no,no,no
+22,0,"Actas de Marusia",1975,http://www.icheckmovies.com/movies/actas+de+marusia/,68,3,0,2,43,"Letters from Marusia",http://www.imdb.com/title/tt0072601/,no,no,no,no,no
+23,0,"La pasión según Berenice",1976,http://www.icheckmovies.com/movies/la+pasion+segun+berenice/,63,4,2,2,31,"The Passion of Berenice",http://www.imdb.com/title/tt0073520/,no,no,no,no,no
+24,0,Naufragio,1978,http://www.icheckmovies.com/movies/naufragio/,29,2,0,1,20,,http://www.imdb.com/title/tt0076441/,no,no,no,no,no
+25,0,"El lugar sin límites",1978,http://www.icheckmovies.com/movies/el+lugar+sin+limites/,162,13,1,3,57,"Hell Without Limits",http://www.imdb.com/title/tt0076336/,no,no,no,no,no
+26,0,"Cadena perpetua",1979,http://www.icheckmovies.com/movies/cadena+perpetua/,56,3,1,2,33,"Life Sentence",http://www.imdb.com/title/tt0077287/,no,no,no,no,no
+27,0,"El año de la peste",1979,http://www.icheckmovies.com/movies/el+ano+de+la+peste/,18,0,1,1,22,,http://www.imdb.com/title/tt0077195/,no,no,no,no,no
+28,0,"Las grandes aguas",1980,http://www.icheckmovies.com/movies/las+grandes+aguas/,5,0,1,1,11,,http://www.imdb.com/title/tt0134695/,no,no,no,no,no
+29,0,"Ora sí tenemos que ganar",1981,http://www.icheckmovies.com/movies/ora+si+tenemos+que+ganar/,10,0,0,1,11,,http://www.imdb.com/title/tt0134872/,no,no,no,no,no
+30,0,"Bajo la metralla",1983,http://www.icheckmovies.com/movies/bajo+la+metralla/,18,1,1,1,16,,http://www.imdb.com/title/tt0083381/,no,no,no,no,no
+31,0,"Frida, naturaleza viva",1983,http://www.icheckmovies.com/movies/frida+naturaleza+viva/,129,2,0,2,44,"Frida Still Life",http://www.imdb.com/title/tt0087297/,no,no,no,no,no
+32,0,"Veneno para las hadas",1984,http://www.icheckmovies.com/movies/veneno+para+las+hadas/,184,18,0,1,35,"Poison for the Fairies",http://www.imdb.com/title/tt0135033/,no,no,no,no,no
+33,0,"El imperio de la fortuna",1986,http://www.icheckmovies.com/movies/el+imperio+de+la+fortuna/,64,2,1,1,34,"The Realm of Fortune",http://www.imdb.com/title/tt0091261/,no,no,no,no,no
+34,0,"Mariana, Mariana",1987,http://www.icheckmovies.com/movies/mariana+mariana/,41,0,0,1,9,,http://www.imdb.com/title/tt0093497/,no,no,no,no,no
+35,0,Esperanza,1988,http://www.icheckmovies.com/movies/esperanza/,16,0,0,1,10,,http://www.imdb.com/title/tt0095114/,no,no,no,no,no
+36,0,"Goitia, un dios para sí mismo",1989,http://www.icheckmovies.com/movies/goitia+un+dios+para+si+mismo/,15,2,1,1,15,,http://www.imdb.com/title/tt0134692/,no,no,no,no,no
+37,0,"Rojo amanecer",1989,http://www.icheckmovies.com/movies/rojo+amanecer/,250,13,0,1,23,"Red Dawn",http://www.imdb.com/title/tt0098214/,no,no,no,no,no
+38,0,"Como agua para chocolate",1992,http://www.icheckmovies.com/movies/como+agua+para+chocolate/,2215,118,32,5,121,"Like Water for Chocolate",http://www.imdb.com/title/tt0103994/,"2018-12-01 10:13:37",no,no,no,no
+39,0,Cronos,1993,http://www.icheckmovies.com/movies/cronos/,4106,165,47,5,183,Chronos,http://www.imdb.com/title/tt0104029/,"2018-04-28 22:52:22",no,no,no,no
+40,0,"Principio y fin",1993,http://www.icheckmovies.com/movies/principio+y+fin/,37,1,1,1,35,"The Beginning and the End",http://www.imdb.com/title/tt0110894/,no,no,no,no,no
+41,0,"El Callejón de los Milagros",1995,http://www.icheckmovies.com/movies/el+callejon+de+los+milagros/,230,9,0,2,51,"Midaq Alley",http://www.imdb.com/title/tt0112619/,no,no,no,no,no
+42,0,"Sin remitente",1995,http://www.icheckmovies.com/movies/sin+remitente/,27,2,1,1,14,"Sender Unknown",http://www.imdb.com/title/tt0111198/,no,no,no,no,no
+43,0,"Cilantro y perejil",1998,http://www.icheckmovies.com/movies/cilantro+y+perejil/,101,1,3,1,16,"Recipes to Stay Together",http://www.imdb.com/title/tt0112675/,no,no,no,no,no
+44,0,"Por si no te vuelvo a ver",1997,http://www.icheckmovies.com/movies/por+si+no+te+vuelvo+a+ver/,38,0,0,1,17,,http://www.imdb.com/title/tt0158855/,no,no,no,no,no
+45,0,"Bajo California: El límite del tiempo",1998,http://www.icheckmovies.com/movies/bajo+california+el+limite+del+tiempo/,55,2,1,1,21,,http://www.imdb.com/title/tt0168047/,no,no,no,no,no
+46,0,"La ley de Herodes",1999,http://www.icheckmovies.com/movies/la+ley+de+herodes/,401,34,1,2,47,"Herod's Law",http://www.imdb.com/title/tt0221344/,no,no,no,no,no
+47,0,"Amores perros",2000,http://www.icheckmovies.com/movies/amores+perros/,23100,2181,138,15,458,"Love's a Bitch",http://www.imdb.com/title/tt0245712/,"2018-04-26 21:50:30",no,no,no,no
+48,0,"Cuentos de hadas para dormir cocodrilos",2002,http://www.icheckmovies.com/movies/cuentos+de+hadas+para+dormir+cocodrilos/,59,2,1,1,19,"Bedtime Fairy Tales for Crocodiles",http://www.imdb.com/title/tt0318380/,no,no,no,no,no
+49,0,"El crimen del Padre Amaro",2002,http://www.icheckmovies.com/movies/el+crimen+del+padre+amaro/,1610,40,21,4,63,"The Crime of Father Amaro",http://www.imdb.com/title/tt0313196/,"2018-12-13 09:34:39",no,no,no,no
+50,0,"El misterio del Trinidad",2003,http://www.icheckmovies.com/movies/el+misterio+del+trinidad/,25,0,0,1,17,,http://www.imdb.com/title/tt0278293/,no,no,no,no,no
+51,0,"Temporada de patos",2004,http://www.icheckmovies.com/movies/temporada+de+patos/,583,45,11,2,54,"Duck Season",http://www.imdb.com/title/tt0407246/,no,no,no,no,no
+52,0,Mezcal,2006,http://www.icheckmovies.com/movies/mezcal/,18,0,0,1,14,,http://www.imdb.com/title/tt0419963/,no,no,no,no,no
+53,0,"El laberinto del fauno",2006,http://www.icheckmovies.com/movies/el+laberinto+del+fauno/,70260,7814,498,29,1016,"Pan's Labyrinth",http://www.imdb.com/title/tt0457430/,"2018-04-26 21:52:00",no,no,no,no
+54,0,"Stellet Licht",2007,http://www.icheckmovies.com/movies/stellet+licht/,1188,127,23,6,161,"Silent Light",http://www.imdb.com/title/tt0841925/,"2018-10-17 22:39:28",no,no,no,no
+55,0,"Lake Tahoe",2008,http://www.icheckmovies.com/movies/lake+tahoe/,317,23,8,2,72,,http://www.imdb.com/title/tt1101675/,no,no,no,no,no
+56,0,"Cinco días sin Nora",2008,http://www.icheckmovies.com/movies/cinco+dias+sin+nora/,126,8,0,1,26,"Nora's Will",http://www.imdb.com/title/tt1143148/,no,no,no,no,no
+57,0,"El infierno",2010,http://www.icheckmovies.com/movies/el+infierno/,449,29,7,1,58,"El Narco",http://www.imdb.com/title/tt1692190/,no,no,no,no,no
+58,0,Pastorela,2011,http://www.icheckmovies.com/movies/pastorela/,110,4,6,1,24,,http://www.imdb.com/title/tt2011183/,no,no,no,no,no
+59,0,"El premio",2011,http://www.icheckmovies.com/movies/el+premio/,55,0,1,1,20,"The Prize",http://www.imdb.com/title/tt1525346/,no,no,no,no,no
+60,0,"La jaula de oro",2013,http://www.icheckmovies.com/movies/la+jaula+de+oro-2013/,280,39,2,2,82,"The Golden Dream",http://www.imdb.com/title/tt2042583/,no,no,no,no,no
+61,0,Güeros,2014,http://www.icheckmovies.com/movies/gueros/,218,36,1,1,41,,http://www.imdb.com/title/tt3499048/,no,no,no,no,no
+62,0,"Las elegidas",2015,http://www.icheckmovies.com/movies/las+elegidas/,103,4,0,1,35,"The Chosen Ones",http://www.imdb.com/title/tt4636042/,no,no,no,no,no
+63,0,"La 4ª Compañía",2016,http://www.icheckmovies.com/movies/la+4a+compania/,28,0,1,1,6,,http://www.imdb.com/title/tt2197926/,no,no,no,no,no
+64,,"Sueño en otro idioma",2017,http://www.icheckmovies.com/movies/sueno+en+otro+idioma/,58,9,1,1,18,"I Dream in Another Language",http://www.imdb.com/title/tt3278224/,no,no,no,no,no

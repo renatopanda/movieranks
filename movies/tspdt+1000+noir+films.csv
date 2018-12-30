@@ -1,0 +1,791 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,0,"Stranger on the Third Floor",1940,http://www.icheckmovies.com/movies/stranger+on+the+third+floor/,566,27,4,2,78,,http://www.imdb.com/title/tt0033107/,"2018-11-08 00:27:34",no,no,no,no
+2,0,"High Sierra",1941,http://www.icheckmovies.com/movies/high+sierra/,2476,114,15,7,164,,http://www.imdb.com/title/tt0033717/,"2018-04-26 21:28:30",no,no,no,no
+3,0,"I Wake Up Screaming",1941,http://www.icheckmovies.com/movies/i+wake+up+screaming/,513,36,2,2,69,"Hot Spot",http://www.imdb.com/title/tt0033740/,"2018-11-08 00:26:20",no,no,no,no
+4,0,"The Maltese Falcon",1941,http://www.icheckmovies.com/movies/the+maltese+falcon/,22522,1774,111,26,725,,http://www.imdb.com/title/tt0033870/,"2018-04-26 21:28:21",no,no,no,no
+5,0,"The Glass Key",1942,http://www.icheckmovies.com/movies/the+glass+key/,770,40,7,2,80,,http://www.imdb.com/title/tt0034798/,"2018-11-08 00:27:57",no,no,no,no
+6,0,"This Gun for Hire",1942,http://www.icheckmovies.com/movies/this+gun+for+hire/,1268,82,6,4,120,,http://www.imdb.com/title/tt0035432/,"2018-10-17 22:40:54",no,no,no,no
+7,0,"Shadow of a Doubt",1943,http://www.icheckmovies.com/movies/shadow+of+a+doubt/,9387,801,34,11,440,,http://www.imdb.com/title/tt0036342/,"2018-04-26 21:28:54",no,no,no,no
+8,0,"Double Indemnity",1944,http://www.icheckmovies.com/movies/double+indemnity/,18862,2288,57,31,800,,http://www.imdb.com/title/tt0036775/,"2018-04-26 21:29:13",no,no,no,no
+9,0,Laura,1944,http://www.icheckmovies.com/movies/laura/,7239,693,32,20,456,,http://www.imdb.com/title/tt0037008/,"2018-04-26 21:29:13",no,no,no,no
+10,0,"Murder, My Sweet",1944,http://www.icheckmovies.com/movies/murder+my+sweet/,2305,123,6,5,179,"Farewell My Lovely",http://www.imdb.com/title/tt0037101/,"2018-10-17 22:29:37",no,no,no,no
+11,0,"Phantom Lady",1944,http://www.icheckmovies.com/movies/phantom+lady/,599,44,2,4,119,,http://www.imdb.com/title/tt0036260/,no,no,no,no,no
+12,0,"The Woman in the Window",1944,http://www.icheckmovies.com/movies/the+woman+in+the+window/,2014,140,13,6,160,,http://www.imdb.com/title/tt0037469/,no,no,no,no,no
+13,0,Detour,1945,http://www.icheckmovies.com/movies/detour/,3176,235,21,12,256,,http://www.imdb.com/title/tt0037638/,"2018-10-17 22:06:10",no,no,no,no
+14,0,"Fallen Angel",1945,http://www.icheckmovies.com/movies/fallen+angel/,738,39,3,2,93,,http://www.imdb.com/title/tt0037691/,"2018-11-08 00:25:53",no,no,no,no
+15,0,"Leave Her to Heaven",1945,http://www.icheckmovies.com/movies/leave+her+to+heaven/,1946,172,13,9,220,,http://www.imdb.com/title/tt0037865/,"2018-04-28 23:21:24",no,no,no,no
+16,0,"Mildred Pierce",1945,http://www.icheckmovies.com/movies/mildred+pierce/,4535,371,19,14,363,,http://www.imdb.com/title/tt0037913/,"2018-04-26 21:29:13",no,no,no,no
+17,0,"Scarlet Street",1945,http://www.icheckmovies.com/movies/scarlet+street/,2469,269,16,9,238,,http://www.imdb.com/title/tt0038057/,"2018-11-08 00:22:01",no,no,no,no
+18,0,"The Big Sleep",1946,http://www.icheckmovies.com/movies/the+big+sleep/,13071,1059,82,19,537,,http://www.imdb.com/title/tt0038355/,"2018-04-26 21:29:33",no,no,no,no
+19,0,"Black Angel",1946,http://www.icheckmovies.com/movies/black+angel/,393,11,1,2,58,,http://www.imdb.com/title/tt0038360/,"2018-11-08 00:25:18",no,no,no,no
+20,0,"The Blue Dahlia",1946,http://www.icheckmovies.com/movies/the+blue+dahlia/,1015,43,10,3,105,,http://www.imdb.com/title/tt0038369/,no,no,no,no,no
+21,0,"The Dark Corner",1946,http://www.icheckmovies.com/movies/the+dark+corner/,480,32,3,2,64,,http://www.imdb.com/title/tt0038453/,"2018-11-08 00:27:49",no,no,no,no
+22,0,"The Dark Mirror",1946,http://www.icheckmovies.com/movies/the+dark+mirror/,545,28,1,2,74,,http://www.imdb.com/title/tt0038455/,no,no,no,no,no
+23,0,Gilda,1946,http://www.icheckmovies.com/movies/gilda/,5173,434,23,12,278,,http://www.imdb.com/title/tt0038559/,"2018-04-26 21:29:51",no,no,no,no
+24,0,"The Killers",1946,http://www.icheckmovies.com/movies/the+killers/,3878,269,15,13,323,"A Man Alone",http://www.imdb.com/title/tt0038669/,"2018-04-26 21:29:34",no,no,no,no
+25,0,Notorious,1946,http://www.icheckmovies.com/movies/notorious/,14389,1300,68,22,541,,http://www.imdb.com/title/tt0038787/,"2018-04-26 21:29:43",no,no,no,no
+26,0,"The Postman Always Rings Twice",1946,http://www.icheckmovies.com/movies/the+postman+always+rings+twice/,4107,195,18,9,233,,http://www.imdb.com/title/tt0038854/,"2018-04-26 21:29:27",no,no,no,no
+27,0,"The Strange Love of Martha Ivers",1946,http://www.icheckmovies.com/movies/the+strange+love+of+martha+ivers/,978,74,3,3,109,,http://www.imdb.com/title/tt0038988/,"2018-11-08 00:22:27",no,no,no,no
+28,0,"The Stranger",1946,http://www.icheckmovies.com/movies/the+stranger/,2469,152,12,2,172,,http://www.imdb.com/title/tt0038991/,"2018-04-26 21:29:29",no,no,no,no
+29,0,"Body and Soul",1947,http://www.icheckmovies.com/movies/body+and+soul/,981,61,6,6,153,"An Affair of the Heart",http://www.imdb.com/title/tt0039204/,"2018-10-17 21:56:33",no,no,no,no
+30,0,"Born to Kill",1947,http://www.icheckmovies.com/movies/born+to+kill/,650,35,6,2,62,"Lady of Deceit",http://www.imdb.com/title/tt0039211/,"2018-11-08 00:25:24",no,no,no,no
+31,0,"Brute Force",1947,http://www.icheckmovies.com/movies/brute+force/,1583,121,3,5,160,,http://www.imdb.com/title/tt0039224/,"2018-10-17 21:57:35",no,no,no,no
+32,0,Crossfire,1947,http://www.icheckmovies.com/movies/crossfire/,1152,49,8,7,155,,http://www.imdb.com/title/tt0039286/,"2018-04-28 22:52:23",no,no,no,no
+33,0,"Dark Passage",1947,http://www.icheckmovies.com/movies/dark+passage/,2018,135,10,4,148,,http://www.imdb.com/title/tt0039302/,"2018-10-17 22:02:51",no,no,no,no
+34,0,"Dead Reckoning",1947,http://www.icheckmovies.com/movies/dead+reckoning/,723,37,6,2,66,,http://www.imdb.com/title/tt0039305/,"2018-11-08 00:25:39",no,no,no,no
+35,0,Desperate,1947,http://www.icheckmovies.com/movies/desperate/,314,8,0,2,55,,http://www.imdb.com/title/tt0039313/,"2018-11-08 00:25:41",no,no,no,no
+36,0,"Kiss of Death",1947,http://www.icheckmovies.com/movies/kiss+of+death/,937,50,8,4,113,,http://www.imdb.com/title/tt0039536/,"2018-10-17 22:19:30",no,no,no,no
+37,0,"The Lady from Shanghai",1947,http://www.icheckmovies.com/movies/the+lady+from+shanghai/,5104,415,22,9,318,,http://www.imdb.com/title/tt0040525/,"2018-10-17 22:20:03",no,no,no,no
+38,0,"Lady in the Lake",1947,http://www.icheckmovies.com/movies/lady+in+the+lake/,747,14,19,2,85,,http://www.imdb.com/title/tt0039545/,"2018-11-08 00:26:38",no,no,no,no
+39,0,"Nightmare Alley",1947,http://www.icheckmovies.com/movies/nightmare+alley/,1230,113,6,6,155,,http://www.imdb.com/title/tt0039661/,"2018-10-17 22:31:24",no,no,no,no
+40,0,"Out of the Past",1947,http://www.icheckmovies.com/movies/out+of+the+past/,5088,601,19,16,452,"Build My Gallows High",http://www.imdb.com/title/tt0039689/,"2018-04-26 21:29:53",no,no,no,no
+41,0,"Ride the Pink Horse",1947,http://www.icheckmovies.com/movies/ride+the+pink+horse/,481,39,4,4,129,,http://www.imdb.com/title/tt0039768/,"2018-10-17 22:35:42",no,no,no,no
+42,0,T-Men,1947,http://www.icheckmovies.com/movies/t-men/,550,28,4,3,92,,http://www.imdb.com/title/tt0039881/,"2018-11-08 00:22:27",no,no,no,no
+43,0,"The Big Clock",1948,http://www.icheckmovies.com/movies/the+big+clock/,1220,93,5,4,100,,http://www.imdb.com/title/tt0040160/,"2018-06-11 12:56:57",no,no,no,no
+44,0,"Call Northside 777",1948,http://www.icheckmovies.com/movies/call+northside+777/,928,44,6,2,85,"Calling Northside 777",http://www.imdb.com/title/tt0040202/,"2018-11-08 00:25:35",no,no,no,no
+45,0,"Cry of the City",1948,http://www.icheckmovies.com/movies/cry+of+the+city/,327,16,1,2,67,,http://www.imdb.com/title/tt0040257/,"2018-11-08 00:25:37",no,no,no,no
+46,0,"Force of Evil",1948,http://www.icheckmovies.com/movies/force+of+evil/,1542,79,10,11,199,,http://www.imdb.com/title/tt0040366/,"2018-04-28 22:54:46",no,no,no,no
+47,0,"He Walked by Night",1948,http://www.icheckmovies.com/movies/he+walked+by+night/,599,27,3,2,79,,http://www.imdb.com/title/tt0040427/,"2018-11-08 00:26:09",no,no,no,no
+48,0,"Hollow Triumph",1948,http://www.icheckmovies.com/movies/hollow+triumph/,330,16,3,2,85,"The Scar",http://www.imdb.com/title/tt0040444/,no,no,no,no,no
+49,0,"Key Largo",1948,http://www.icheckmovies.com/movies/key+largo/,4627,281,15,5,225,,http://www.imdb.com/title/tt0040506/,"2018-10-17 22:18:59",no,no,no,no
+50,0,"The Naked City",1948,http://www.icheckmovies.com/movies/the+naked+city/,2597,177,13,8,191,,http://www.imdb.com/title/tt0040636/,"2018-10-17 22:30:08",no,no,no,no
+51,0,Pitfall,1948,http://www.icheckmovies.com/movies/pitfall/,374,22,2,2,64,,http://www.imdb.com/title/tt0040695/,no,no,no,no,no
+52,0,"Raw Deal",1948,http://www.icheckmovies.com/movies/raw+deal/,852,50,6,5,115,,http://www.imdb.com/title/tt0040723/,no,no,no,no,no
+53,0,"Road House",1948,http://www.icheckmovies.com/movies/road+house/,342,20,1,2,54,,http://www.imdb.com/title/tt0040740/,"2018-11-08 00:27:19",no,no,no,no
+54,0,"Sorry, Wrong Number",1948,http://www.icheckmovies.com/movies/sorry+wrong+number/,1062,69,8,2,97,,http://www.imdb.com/title/tt0040823/,"2018-11-08 00:23:59",no,no,no,no
+55,0,"The Street with No Name",1948,http://www.icheckmovies.com/movies/the+street+with+no+name/,365,17,1,2,60,,http://www.imdb.com/title/tt0040843/,"2018-11-08 00:28:24",no,no,no,no
+56,0,"They Live by Night",1948,http://www.icheckmovies.com/movies/they+live+by+night/,1619,135,7,11,202,"The Twisted Road",http://www.imdb.com/title/tt0040872/,"2018-04-28 23:10:56",no,no,no,no
+57,0,"Act of Violence",1949,http://www.icheckmovies.com/movies/act+of+violence/,731,56,3,3,118,,http://www.imdb.com/title/tt0041088/,"2018-04-28 23:22:10",no,no,no,no
+58,0,"Border Incident",1949,http://www.icheckmovies.com/movies/border+incident/,434,14,0,2,68,,http://www.imdb.com/title/tt0041198/,"2018-11-08 00:25:21",no,no,no,no
+59,0,"Criss Cross",1949,http://www.icheckmovies.com/movies/criss+cross/,978,77,5,5,125,,http://www.imdb.com/title/tt0041268/,"2018-10-17 22:02:14",no,no,no,no
+60,0,"The Reckless Moment",1949,http://www.icheckmovies.com/movies/the+reckless+moment/,1062,62,6,7,139,,http://www.imdb.com/title/tt0041786/,"2018-10-17 22:35:24",no,no,no,no
+61,0,"The Set-Up",1949,http://www.icheckmovies.com/movies/the+set-up/,1554,145,9,9,178,,http://www.imdb.com/title/tt0041859/,"2018-04-28 23:09:20",no,no,no,no
+62,0,"Side Street",1949,http://www.icheckmovies.com/movies/side+street/,450,21,1,2,67,,http://www.imdb.com/title/tt0042960/,"2018-11-08 00:27:31",no,no,no,no
+63,0,"Thieves' Highway",1949,http://www.icheckmovies.com/movies/thieves+highway/,1208,94,8,6,137,Collision,http://www.imdb.com/title/tt0041958/,no,no,no,no,no
+64,0,"The Third Man",1949,http://www.icheckmovies.com/movies/the+third+man/,19891,2449,94,33,906,,http://www.imdb.com/title/tt0041959/,"2018-04-26 21:30:23",no,no,no,no
+65,0,"White Heat",1949,http://www.icheckmovies.com/movies/white+heat/,5169,526,13,15,412,,http://www.imdb.com/title/tt0042041/,"2018-04-26 21:30:22",no,no,no,no
+66,0,"The Asphalt Jungle",1950,http://www.icheckmovies.com/movies/the+asphalt+jungle/,4745,340,21,15,341,,http://www.imdb.com/title/tt0042208/,"2018-04-26 21:30:32",no,no,no,no
+67,0,D.O.A.,1950,http://www.icheckmovies.com/movies/d.o.a./,1731,94,11,5,136,,http://www.imdb.com/title/tt0042369/,"2018-10-17 22:02:31",no,no,no,no
+68,0,"The File on Thelma Jordon",1950,http://www.icheckmovies.com/movies/the+file+on+thelma+jordon/,334,14,5,2,47,,http://www.imdb.com/title/tt0041368/,no,no,no,no,no
+69,0,"Gun Crazy",1950,http://www.icheckmovies.com/movies/gun+crazy/,2507,261,15,14,296,"Gun Crazy",http://www.imdb.com/title/tt0042530/,"2018-04-26 21:30:11",no,no,no,no
+70,0,"In a Lonely Place",1950,http://www.icheckmovies.com/movies/in+a+lonely+place/,4404,623,19,15,375,,http://www.imdb.com/title/tt0042593/,"2018-10-17 22:16:34",no,no,no,no
+71,0,"Night and the City",1950,http://www.icheckmovies.com/movies/night+and+the+city/,2506,257,13,10,231,,http://www.imdb.com/title/tt0042788/,"2018-04-28 23:05:36",no,no,no,no
+72,0,"Panic in the Streets",1950,http://www.icheckmovies.com/movies/panic+in+the+streets/,992,52,4,5,114,,http://www.imdb.com/title/tt0042832/,no,no,no,no,no
+73,0,"Sunset Blvd.",1950,http://www.icheckmovies.com/movies/sunset+blvd./,24570,3497,87,32,991,"Sunset Boulevard",http://www.imdb.com/title/tt0043014/,"2018-04-26 21:30:38",no,no,no,no
+74,0,"Where Danger Lives",1950,http://www.icheckmovies.com/movies/where+danger+lives/,372,12,2,2,51,,http://www.imdb.com/title/tt0043131/,"2018-11-08 00:28:37",no,no,no,no
+75,0,"Where the Sidewalk Ends",1950,http://www.icheckmovies.com/movies/where+the+sidewalk+ends/,1284,82,4,3,115,,http://www.imdb.com/title/tt0043132/,"2018-11-08 00:22:17",no,no,no,no
+76,0,"Ace in the Hole",1951,http://www.icheckmovies.com/movies/ace+in+the+hole/,5663,782,24,18,393,,http://www.imdb.com/title/tt0043338/,"2018-04-26 21:30:45",no,no,no,no
+77,0,"On Dangerous Ground",1951,http://www.icheckmovies.com/movies/on+dangerous+ground/,916,81,6,2,154,,http://www.imdb.com/title/tt0043879/,"2018-11-08 00:27:04",no,no,no,no
+78,0,"The Prowler",1951,http://www.icheckmovies.com/movies/the+prowler/,553,34,2,5,123,,http://www.imdb.com/title/tt0043938/,no,no,no,no,no
+79,0,"Strangers on a Train",1951,http://www.icheckmovies.com/movies/strangers+on+a+train/,18684,1563,45,15,553,,http://www.imdb.com/title/tt0044079/,"2018-04-26 21:30:48",no,no,no,no
+80,0,"Clash by Night",1952,http://www.icheckmovies.com/movies/clash+by+night/,891,49,4,3,89,,http://www.imdb.com/title/tt0044502/,"2018-11-08 00:22:19",no,no,no,no
+81,0,"Kansas City Confidential",1952,http://www.icheckmovies.com/movies/kansas+city+confidential/,873,58,4,3,104,"The Secret Four",http://www.imdb.com/title/tt0044789/,"2018-10-17 22:18:32",no,no,no,no
+82,0,"The Narrow Margin",1952,http://www.icheckmovies.com/movies/the+narrow+margin/,1279,117,7,7,160,,http://www.imdb.com/title/tt0044954/,"2018-10-17 22:30:23",no,no,no,no
+83,0,"Sudden Fear",1952,http://www.icheckmovies.com/movies/sudden+fear/,540,42,3,2,115,,http://www.imdb.com/title/tt0045205/,"2018-11-08 00:27:36",no,no,no,no
+84,0,"Angel Face",1953,http://www.icheckmovies.com/movies/angel+face/,1300,70,14,4,135,,http://www.imdb.com/title/tt0044357/,no,no,no,no,no
+85,0,"The Big Heat",1953,http://www.icheckmovies.com/movies/the+big+heat/,5000,431,16,16,331,,http://www.imdb.com/title/tt0045555/,"2018-04-26 21:31:43",no,no,no,no
+86,0,"The Blue Gardenia",1953,http://www.icheckmovies.com/movies/the+blue+gardenia/,604,22,0,2,60,,http://www.imdb.com/title/tt0045564/,no,no,no,no,no
+87,0,"The Hitch-Hiker",1953,http://www.icheckmovies.com/movies/the+hitch-hiker/,1134,52,13,4,116,,http://www.imdb.com/title/tt0045877/,"2018-10-17 22:12:47",no,no,no,no
+88,0,Niagara,1953,http://www.icheckmovies.com/movies/niagara/,1477,71,13,3,95,,http://www.imdb.com/title/tt0046126/,"2018-11-08 00:22:16",no,no,no,no
+89,0,"Pickup on South Street",1953,http://www.icheckmovies.com/movies/pickup+on+south+street/,2912,269,19,13,256,,http://www.imdb.com/title/tt0046187/,"2018-06-11 13:09:17",no,no,no,no
+90,0,"Human Desire",1954,http://www.icheckmovies.com/movies/human+desire/,513,21,4,3,65,,http://www.imdb.com/title/tt0047101/,"2018-11-08 00:26:17",no,no,no,no
+91,0,"The Big Combo",1955,http://www.icheckmovies.com/movies/the+big+combo/,1138,88,6,6,151,,http://www.imdb.com/title/tt0047878/,"2018-04-28 23:24:03",no,no,no,no
+92,0,"Kiss Me Deadly",1955,http://www.icheckmovies.com/movies/kiss+me+deadly/,4303,402,38,19,382,,http://www.imdb.com/title/tt0048261/,"2018-04-26 21:32:19",no,no,no,no
+93,0,"The Night of the Hunter",1955,http://www.icheckmovies.com/movies/the+night+of+the+hunter/,13179,1781,113,29,779,,http://www.imdb.com/title/tt0048424/,"2018-04-26 21:32:28",no,no,no,no
+94,0,"The Killing",1956,http://www.icheckmovies.com/movies/the+killing/,11255,1101,28,13,428,,http://www.imdb.com/title/tt0049406/,"2018-04-28 11:49:44",no,no,no,no
+95,0,"While the City Sleeps",1956,http://www.icheckmovies.com/movies/while+the+city+sleeps/,866,33,12,4,113,,http://www.imdb.com/title/tt0049949/,"2018-10-17 22:45:49",no,no,no,no
+96,0,"The Wrong Man",1956,http://www.icheckmovies.com/movies/the+wrong+man/,4003,189,24,7,207,,http://www.imdb.com/title/tt0051207/,"2018-04-26 21:32:47",no,no,no,no
+97,0,"Sweet Smell of Success",1957,http://www.icheckmovies.com/movies/sweet+smell+of+success/,5515,742,29,20,454,,http://www.imdb.com/title/tt0051036/,"2018-04-26 21:33:19",no,no,no,no
+98,0,"Touch of Evil",1958,http://www.icheckmovies.com/movies/touch+of+evil/,13917,1456,77,28,702,,http://www.imdb.com/title/tt0052311/,"2018-04-26 21:33:21",no,no,no,no
+99,0,"Odds Against Tomorrow",1959,http://www.icheckmovies.com/movies/odds+against+tomorrow/,506,35,2,3,125,,http://www.imdb.com/title/tt0053133/,no,no,no,no,no
+100,0,Chinatown,1974,http://www.icheckmovies.com/movies/chinatown/,33689,3314,166,28,985,,http://www.imdb.com/title/tt0071315/,"2018-04-28 11:43:51",no,no,no,no
+101,0,"Too Late for Tears",1949,http://www.icheckmovies.com/movies/too+late+for+tears/,379,30,1,1,89,,http://www.imdb.com/title/tt0041968/,no,no,no,no,no
+102,0,"Beyond a Reasonable Doubt",1956,http://www.icheckmovies.com/movies/beyond+a+reasonable+doubt/,853,34,8,2,107,,http://www.imdb.com/title/tt0049006/,"2018-11-08 00:25:16",no,no,no,no
+103,0,"The Chase",1946,http://www.icheckmovies.com/movies/the+chase/,311,6,6,3,68,,http://www.imdb.com/title/tt0038409/,"2018-11-19 21:32:26",no,no,no,no
+104,0,"Journey Into Fear",1942,http://www.icheckmovies.com/movies/journey+into+fear/,571,12,12,2,79,,http://www.imdb.com/title/tt0034922/,"2018-11-08 00:26:32",no,no,no,no
+105,0,"The Window",1949,http://www.icheckmovies.com/movies/the+window/,438,26,4,2,98,,http://www.imdb.com/title/tt0042046/,"2018-11-08 00:28:28",no,no,no,no
+106,0,"L.A. Confidential",1997,http://www.icheckmovies.com/movies/l.a.+confidential/,43332,3625,174,24,698,,http://www.imdb.com/title/tt0119488/,"2018-01-10 16:57:21",no,no,no,no
+107,0,"Body Heat",1981,http://www.icheckmovies.com/movies/body+heat/,4886,248,36,7,215,,http://www.imdb.com/title/tt0082089/,"2018-04-26 21:42:02",no,no,no,no
+108,0,Caught,1949,http://www.icheckmovies.com/movies/caught/,605,43,4,2,95,,http://www.imdb.com/title/tt0040221/,no,no,no,no,no
+109,0,Cornered,1945,http://www.icheckmovies.com/movies/cornered/,305,7,5,1,57,,http://www.imdb.com/title/tt0037615/,"2018-11-08 01:03:56",no,no,no,no
+110,0,"The Locket",1946,http://www.icheckmovies.com/movies/the+locket/,352,26,1,1,64,,http://www.imdb.com/title/tt0038700/,no,no,no,no,no
+111,0,"The Lost Weekend",1945,http://www.icheckmovies.com/movies/the+lost+weekend/,5471,493,31,16,377,,http://www.imdb.com/title/tt0037884/,"2018-04-26 21:29:16",no,no,no,no
+112,0,"Secret Beyond the Door...",1947,http://www.icheckmovies.com/movies/secret+beyond+the+door.../,904,37,10,2,108,,http://www.imdb.com/title/tt0040766/,no,no,no,no,no
+113,0,"Somewhere in the Night",1946,http://www.icheckmovies.com/movies/somewhere+in+the+night/,314,15,2,1,53,,http://www.imdb.com/title/tt0038965/,"2018-11-08 01:04:02",no,no,no,no
+114,0,"They Won't Believe Me",1947,http://www.icheckmovies.com/movies/they+wont+believe+me/,217,8,2,1,52,,http://www.imdb.com/title/tt0039896/,no,no,no,no,no
+115,0,"99 River Street",1953,http://www.icheckmovies.com/movies/99+river+street/,447,29,1,2,88,Crosstown,http://www.imdb.com/title/tt0045465/,"2018-11-19 21:32:41",no,no,no,no
+116,0,"Blade Runner",1982,http://www.icheckmovies.com/movies/blade+runner/,67283,7104,602,30,1261,,http://www.imdb.com/title/tt0083658/,"2018-01-10 16:58:10",no,no,no,no
+117,0,"Blood Simple.",1984,http://www.icheckmovies.com/movies/blood+simple./,9958,881,49,7,339,,http://www.imdb.com/title/tt0086979/,"2018-04-28 16:00:02",no,no,no,no
+118,0,"The Brasher Doubloon",1947,http://www.icheckmovies.com/movies/the+brasher+doubloon/,179,2,0,1,37,"The High Window",http://www.imdb.com/title/tt0039217/,no,no,no,no,no
+119,0,"Dark City",1950,http://www.icheckmovies.com/movies/dark+city-1950-1/,334,7,3,1,40,,http://www.imdb.com/title/tt0042379/,"2018-11-08 01:06:20",no,no,no,no
+120,0,"Fear in the Night",1947,http://www.icheckmovies.com/movies/fear+in+the+night/,250,3,3,1,43,,http://www.imdb.com/title/tt0039372/,no,no,no,no,no
+121,0,"Follow Me Quietly",1949,http://www.icheckmovies.com/movies/follow+me+quietly/,262,9,4,1,54,,http://www.imdb.com/title/tt0041378/,"2018-11-08 01:05:57",no,no,no,no
+122,0,"The Lineup",1958,http://www.icheckmovies.com/movies/the+lineup/,395,34,2,3,105,,http://www.imdb.com/title/tt0051866/,"2018-10-17 22:24:29",no,no,no,no
+123,0,"The Long Goodbye",1973,http://www.icheckmovies.com/movies/the+long+goodbye/,4924,535,34,12,329,,http://www.imdb.com/title/tt0070334/,"2018-04-26 21:38:54",no,no,no,no
+124,0,"Ministry of Fear",1944,http://www.icheckmovies.com/movies/ministry+of+fear/,1054,57,9,3,103,,http://www.imdb.com/title/tt0037075/,no,no,no,no,no
+125,0,"Du rififi chez les hommes",1955,http://www.icheckmovies.com/movies/du+rififi+chez+les+hommes/,4347,701,17,17,416,Rififi,http://www.imdb.com/title/tt0048021/,"2018-04-28 11:44:57",no,no,no,no
+126,0,"Scandal Sheet",1952,http://www.icheckmovies.com/movies/scandal+sheet/,293,22,1,3,90,"The Dark Page",http://www.imdb.com/title/tt0045124/,no,no,no,no,no
+127,0,"The Sniper",1952,http://www.icheckmovies.com/movies/the+sniper/,388,22,2,1,109,,http://www.imdb.com/title/tt0045161/,"2018-11-08 01:07:03",no,no,no,no
+128,0,Whirlpool,1949,http://www.icheckmovies.com/movies/whirlpool/,522,16,4,1,62,,http://www.imdb.com/title/tt0042039/,"2018-11-08 01:06:10",no,no,no,no
+129,0,"Woman on the Run",1950,http://www.icheckmovies.com/movies/woman+on+the+run/,390,27,0,3,92,,http://www.imdb.com/title/tt0043142/,no,no,no,no,no
+130,0,"Christmas Holiday",1944,http://www.icheckmovies.com/movies/christmas+holiday/,283,13,4,1,72,,http://www.imdb.com/title/tt0036711/,no,no,no,no,no
+131,0,"City That Never Sleeps",1953,http://www.icheckmovies.com/movies/city+that+never+sleeps/,244,6,2,2,54,,http://www.imdb.com/title/tt0045631/,no,no,no,no,no
+132,0,Conflict,1945,http://www.icheckmovies.com/movies/conflict/,338,15,2,1,55,,http://www.imdb.com/title/tt0037611/,"2018-11-08 01:03:56",no,no,no,no
+133,0,"Crime Wave",1953,http://www.icheckmovies.com/movies/crime+wave/,543,39,3,2,93,"The City Is Dark",http://www.imdb.com/title/tt0046878/,"2018-11-08 00:25:37",no,no,no,no
+134,0,"Cry Danger",1951,http://www.icheckmovies.com/movies/cry+danger/,268,15,2,1,56,,http://www.imdb.com/title/tt0043435/,no,no,no,no,no
+135,0,"Deadline at Dawn",1946,http://www.icheckmovies.com/movies/deadline+at+dawn/,259,5,0,1,46,,http://www.imdb.com/title/tt0038458/,"2018-11-08 01:03:57",no,no,no,no
+136,0,"The House on 92nd Street",1945,http://www.icheckmovies.com/movies/the+house+on+92nd+street/,364,6,10,2,93,,http://www.imdb.com/title/tt0037795/,no,no,no,no,no
+137,0,"Killer's Kiss",1955,http://www.icheckmovies.com/movies/killers+kiss/,2896,76,24,3,101,,http://www.imdb.com/title/tt0048254/,no,no,no,no,no
+138,0,Boomerang!,1947,http://www.icheckmovies.com/movies/boomerangexclamation/,616,25,6,3,96,,http://www.imdb.com/title/tt0039208/,"2018-10-17 21:56:52",no,no,no,no
+139,0,"The Crimson Kimono",1959,http://www.icheckmovies.com/movies/the+crimson+kimono/,461,26,7,1,72,,http://www.imdb.com/title/tt0052713/,no,no,no,no,no
+140,0,"Detective Story",1951,http://www.icheckmovies.com/movies/detective+story/,878,73,10,1,113,,http://www.imdb.com/title/tt0043465/,"2018-11-08 01:06:30",no,no,no,no
+141,0,"Union Station",1950,http://www.icheckmovies.com/movies/union+station/,318,11,4,1,48,,http://www.imdb.com/title/tt0043090/,"2018-11-08 01:06:31",no,no,no,no
+142,0,"The Mask of Dimitrios",1944,http://www.icheckmovies.com/movies/the+mask+of+dimitrios/,344,19,3,1,60,,http://www.imdb.com/title/tt0037055/,no,no,no,no,no
+143,0,"The Naked Kiss",1964,http://www.icheckmovies.com/movies/the+naked+kiss/,1630,127,15,4,166,"The Iron Kiss",http://www.imdb.com/title/tt0058390/,"2018-10-17 22:30:14",no,no,no,no
+144,0,"The Phenix City Story",1955,http://www.icheckmovies.com/movies/the+phenix+city+story/,708,37,6,6,121,,http://www.imdb.com/title/tt0048488/,"2018-04-26 21:32:24",no,no,no,no
+145,0,"Hangover Square",1945,http://www.icheckmovies.com/movies/hangover+square/,448,36,0,2,125,,http://www.imdb.com/title/tt0037761/,"2018-11-08 00:26:12",no,no,no,no
+146,0,"The Enforcer",1951,http://www.icheckmovies.com/movies/the+enforcer/,502,27,1,2,71,"Murder, Inc.",http://www.imdb.com/title/tt0043503/,"2018-11-08 00:27:51",no,no,no,no
+147,0,"The Man Who Cheated Himself",1950,http://www.icheckmovies.com/movies/the+man+who+cheated+himself/,208,7,1,1,46,,http://www.imdb.com/title/tt0042707/,no,no,no,no,no
+148,0,"My Name Is Julia Ross",1945,http://www.icheckmovies.com/movies/my+name+is+julia+ross/,339,23,1,1,91,,http://www.imdb.com/title/tt0037932/,"2018-11-08 01:03:56",no,no,no,no
+149,0,Nightfall,1956,http://www.icheckmovies.com/movies/nightfall/,406,26,2,1,67,,http://www.imdb.com/title/tt0049552/,"2018-11-08 01:07:59",no,no,no,no
+150,0,Possessed,1947,http://www.icheckmovies.com/movies/possessed/,575,33,6,2,101,,http://www.imdb.com/title/tt0039725/,"2018-11-08 00:27:12",no,no,no,no
+151,0,"Armored Car Robbery",1950,http://www.icheckmovies.com/movies/armored+car+robbery/,409,14,3,1,62,"Armoured Car Robbery",http://www.imdb.com/title/tt0042206/,"2018-11-08 01:06:13",no,no,no,no
+152,0,Crack-Up,1946,http://www.icheckmovies.com/movies/crack-up/,209,5,0,1,40,,http://www.imdb.com/title/tt0038429/,"2018-11-08 01:03:56",no,no,no,no
+153,0,"The Dark Past",1948,http://www.icheckmovies.com/movies/the+dark+past/,176,1,3,1,36,,http://www.imdb.com/title/tt0040270/,"2018-11-08 01:05:42",no,no,no,no
+154,0,"He Ran All the Way",1951,http://www.icheckmovies.com/movies/he+ran+all+the+way/,254,10,1,1,64,,http://www.imdb.com/title/tt0043625/,no,no,no,no,no
+155,0,"His Kind of Woman",1951,http://www.icheckmovies.com/movies/his+kind+of+woman/,458,34,1,1,73,,http://www.imdb.com/title/tt0043643/,"2018-11-08 01:06:32",no,no,no,no
+156,0,"House of Strangers",1949,http://www.icheckmovies.com/movies/house+of+strangers/,349,21,4,1,69,,http://www.imdb.com/title/tt0041487/,"2018-11-08 01:05:58",no,no,no,no
+157,0,"The Woman on Pier 13",1949,http://www.icheckmovies.com/movies/the+woman+on+pier+13/,182,6,11,1,51,,http://www.imdb.com/title/tt0041495/,no,no,no,no,no
+158,0,"I Walk Alone",1948,http://www.icheckmovies.com/movies/i+walk+alone/,316,14,3,2,57,,http://www.imdb.com/title/tt0039482/,no,no,no,no,no
+159,0,"The Letter",1940,http://www.icheckmovies.com/movies/the+letter/,1742,103,11,6,157,,http://www.imdb.com/title/tt0032701/,"2018-06-11 13:05:31",no,no,no,no
+160,0,Moonrise,1948,http://www.icheckmovies.com/movies/moonrise/,487,29,3,5,104,,http://www.imdb.com/title/tt0040607/,no,no,no,no,no
+161,0,"Night Has a Thousand Eyes",1948,http://www.icheckmovies.com/movies/night+has+a+thousand+eyes/,193,9,0,1,39,,http://www.imdb.com/title/tt0040643/,no,no,no,no,no
+162,0,Nocturne,1946,http://www.icheckmovies.com/movies/nocturne/,185,7,1,1,38,,http://www.imdb.com/title/tt0038782/,no,no,no,no,no
+163,0,Pushover,1954,http://www.icheckmovies.com/movies/pushover/,264,14,1,1,60,,http://www.imdb.com/title/tt0047377/,"2018-11-08 01:07:28",no,no,no,no
+164,0,Railroaded!,1947,http://www.icheckmovies.com/movies/railroadedexclamation/,289,9,0,1,49,,http://www.imdb.com/title/tt0039748/,"2018-11-08 01:05:33",no,no,no,no
+165,0,Roadblock,1951,http://www.icheckmovies.com/movies/roadblock/,164,3,0,1,35,,http://www.imdb.com/title/tt0043973/,no,no,no,no,no
+166,0,"The Second Woman",1950,http://www.icheckmovies.com/movies/the+second+woman/,149,1,3,1,29,Ellen,http://www.imdb.com/title/tt0044013/,no,no,no,no,no
+167,0,"The Shanghai Gesture",1941,http://www.icheckmovies.com/movies/the+shanghai+gesture/,517,26,11,2,95,,http://www.imdb.com/title/tt0034175/,no,no,no,no,no
+168,0,Suddenly,1954,http://www.icheckmovies.com/movies/suddenly/,698,25,12,2,79,,http://www.imdb.com/title/tt0047542/,no,no,no,no,no
+169,0,Vertigo,1958,http://www.icheckmovies.com/movies/vertigo/,42253,4595,183,43,1190,,http://www.imdb.com/title/tt0052357/,"2018-01-10 16:56:26",no,no,no,no
+170,0,"The Big Knife",1955,http://www.icheckmovies.com/movies/the+big+knife/,543,20,13,3,83,,http://www.imdb.com/title/tt0047880/,"2018-10-17 21:55:41",no,no,no,no
+171,0,Spellbound,1945,http://www.icheckmovies.com/movies/spellbound-1945/,6042,344,45,7,244,,http://www.imdb.com/title/tt0038109/,"2018-06-11 13:12:08",no,no,no,no
+172,0,"The Breaking Point",1950,http://www.icheckmovies.com/movies/the+breaking+point/,391,37,1,3,96,,http://www.imdb.com/title/tt0042281/,"2018-11-19 21:32:40",no,no,no,no
+173,0,Caged,1950,http://www.icheckmovies.com/movies/caged/,369,30,5,2,102,,http://www.imdb.com/title/tt0042296/,"2018-11-08 00:25:29",no,no,no,no
+174,0,"Cape Fear",1962,http://www.icheckmovies.com/movies/cape+fear/,5758,286,15,5,204,,http://www.imdb.com/title/tt0055824/,"2018-04-28 23:26:00",no,no,no,no
+175,0,"House of Bamboo",1955,http://www.icheckmovies.com/movies/house+of+bamboo/,392,10,2,2,71,,http://www.imdb.com/title/tt0048182/,no,no,no,no,no
+176,0,Impact,1949,http://www.icheckmovies.com/movies/impact/,286,7,0,1,62,,http://www.imdb.com/title/tt0041503/,no,no,no,no,no
+177,0,"Kiss the Blood Off My Hands",1948,http://www.icheckmovies.com/movies/kiss+the+blood+off+my+hands/,163,5,0,1,37,"Blood on My Hands",http://www.imdb.com/title/tt0040512/,no,no,no,no,no
+178,0,"Kiss Tomorrow Goodbye",1950,http://www.icheckmovies.com/movies/kiss+tomorrow+goodbye/,220,7,1,1,48,,http://www.imdb.com/title/tt0042648/,no,no,no,no,no
+179,0,"The Lodger",1944,http://www.icheckmovies.com/movies/the+lodger/,626,22,1,2,93,,http://www.imdb.com/title/tt0037024/,"2018-11-08 00:28:15",no,no,no,no
+180,0,"So Dark the Night",1946,http://www.icheckmovies.com/movies/so+dark+the+night/,152,4,2,1,38,,http://www.imdb.com/title/tt0038958/,no,no,no,no,no
+181,0,"Plunder Road",1957,http://www.icheckmovies.com/movies/plunder+road/,194,8,3,1,52,,http://www.imdb.com/title/tt0050847/,no,no,no,no,no
+182,0,"The Spiral Staircase",1946,http://www.icheckmovies.com/movies/the+spiral+staircase/,1328,108,7,5,173,,http://www.imdb.com/title/tt0038975/,"2018-11-08 00:22:06",no,no,no,no
+183,0,"The Strange Affair of Uncle Harry",1945,http://www.icheckmovies.com/movies/the+strange+affair+of+uncle+harry/,261,11,2,2,51,,http://www.imdb.com/title/tt0038123/,no,no,no,no,no
+184,0,"The Thief",1952,http://www.icheckmovies.com/movies/the+thief/,245,10,6,1,53,,http://www.imdb.com/title/tt0045230/,"2018-11-08 01:07:06",no,no,no,no
+185,0,"Underworld U.S.A.",1961,http://www.icheckmovies.com/movies/underworld+u.s.a./,523,38,0,2,104,,http://www.imdb.com/title/tt0055571/,"2018-04-28 23:25:56",no,no,no,no
+186,0,"M - Eine Stadt sucht einen Mörder",1931,http://www.icheckmovies.com/movies/m+-+eine+stadt+sucht+einen+morder/,18921,2564,80,34,896,M,http://www.imdb.com/title/tt0022100/,"2018-04-26 21:26:57",no,no,no,yes
+187,0,"Behind Locked Doors",1948,http://www.icheckmovies.com/movies/behind+locked+doors/,261,7,0,1,43,"Hinter verschlossenen Türen",http://www.imdb.com/title/tt0040153/,"2018-11-08 01:05:37",no,no,no,no
+188,0,"Beware, My Lovely",1952,http://www.icheckmovies.com/movies/beware+my+lovely/,279,10,2,1,53,,http://www.imdb.com/title/tt0044417/,no,no,no,no,no
+189,0,"Crime of Passion",1957,http://www.icheckmovies.com/movies/crime+of+passion/,327,9,6,1,40,,http://www.imdb.com/title/tt0050271/,"2018-11-08 01:08:18",no,no,no,no
+190,0,Decoy,1946,http://www.icheckmovies.com/movies/decoy/,224,10,0,1,46,,http://www.imdb.com/title/tt0038462/,"2018-11-08 01:03:59",no,no,no,no
+191,0,"High Wall",1947,http://www.icheckmovies.com/movies/high+wall/,191,6,3,1,46,,http://www.imdb.com/title/tt0039464/,"2018-11-08 01:05:31",no,no,no,no
+192,0,"Johnny O'Clock",1947,http://www.icheckmovies.com/movies/johnny+oclock/,195,5,0,1,42,,http://www.imdb.com/title/tt0039515/,no,no,no,no,no
+193,0,Macao,1952,http://www.icheckmovies.com/movies/macao/,426,22,3,1,53,,http://www.imdb.com/title/tt0044863/,"2018-11-08 01:07:01",no,no,no,no
+194,0,"Murder by Contract",1958,http://www.icheckmovies.com/movies/murder+by+contract/,611,72,2,4,121,,http://www.imdb.com/title/tt0051959/,"2018-10-17 22:29:34",no,no,no,no
+195,0,"Mystery Street",1950,http://www.icheckmovies.com/movies/mystery+street/,342,18,1,1,72,"Murder at Harvard",http://www.imdb.com/title/tt0042771/,"2018-11-08 01:06:24",no,no,no,no
+196,0,"Nora Prentiss",1947,http://www.icheckmovies.com/movies/nora+prentiss/,189,7,0,1,40,,http://www.imdb.com/title/tt0039666/,no,no,no,no,no
+197,0,"Point Blank",1967,http://www.icheckmovies.com/movies/point+blank/,3898,303,31,13,278,,http://www.imdb.com/title/tt0062138/,"2018-04-28 23:07:49",no,no,no,no
+198,0,Suspense,1946,http://www.icheckmovies.com/movies/suspense/,111,0,1,1,34,,http://www.imdb.com/title/tt0039000/,no,no,no,no,no
+199,0,"The Sound of Fury",1950,http://www.icheckmovies.com/movies/the+sound+of+fury/,272,11,3,2,69,,http://www.imdb.com/title/tt0043075/,no,no,no,no,no
+200,0,"The Undercover Man",1949,http://www.icheckmovies.com/movies/the+undercover+man/,128,2,0,1,36,,http://www.imdb.com/title/tt0042006/,"2018-11-08 01:06:09",no,no,no,no
+201,0,Undercurrent,1946,http://www.icheckmovies.com/movies/undercurrent/,349,10,4,1,58,,http://www.imdb.com/title/tt0039066/,no,no,no,no,no
+202,0,"The Unsuspected",1947,http://www.icheckmovies.com/movies/the+unsuspected/,298,18,2,2,54,,http://www.imdb.com/title/tt0039941/,"2018-11-08 00:28:27",no,no,no,no
+203,0,"When Strangers Marry",1944,http://www.icheckmovies.com/movies/when+strangers+marry/,235,4,2,2,61,,http://www.imdb.com/title/tt0037458/,no,no,no,no,no
+204,0,"You Only Live Once",1937,http://www.icheckmovies.com/movies/you+only+live+once/,1163,62,7,7,131,,http://www.imdb.com/title/tt0029808/,"2018-06-11 13:15:49",no,no,no,no
+205,0,"711 Ocean Drive",1950,http://www.icheckmovies.com/movies/711+ocean+drive/,168,6,0,1,36,,http://www.imdb.com/title/tt0042176/,no,no,no,no,no
+206,0,"Beyond the Forest",1949,http://www.icheckmovies.com/movies/beyond+the+forest/,288,12,3,1,73,,http://www.imdb.com/title/tt0041172/,"2018-11-08 01:05:46",no,no,no,no
+207,0,"The Big Steal",1949,http://www.icheckmovies.com/movies/the+big+steal/,404,21,2,1,63,,http://www.imdb.com/title/tt0041178/,"2018-11-08 01:05:47",no,no,no,no
+208,0,"The Captive City",1952,http://www.icheckmovies.com/movies/the+captive+city/,178,7,1,1,35,,http://www.imdb.com/title/tt0044476/,"2018-11-08 01:06:55",no,no,no,no
+209,0,Champion,1949,http://www.icheckmovies.com/movies/champion/,497,23,3,1,92,,http://www.imdb.com/title/tt0041239/,"2018-11-08 01:05:49",no,no,no,no
+210,0,"A Double Life",1947,http://www.icheckmovies.com/movies/a+double+life/,317,11,2,1,95,,http://www.imdb.com/title/tt0039335/,no,no,no,no,no
+211,0,"Edge of Doom",1950,http://www.icheckmovies.com/movies/edge+of+doom/,131,1,1,1,30,"Stronger Than Fear",http://www.imdb.com/title/tt0042428/,no,no,no,no,no
+212,0,"Witness to Murder",1954,http://www.icheckmovies.com/movies/witness+to+murder/,360,6,4,1,43,,http://www.imdb.com/title/tt0047679/,no,no,no,no,no
+213,0,"The Gangster",1947,http://www.icheckmovies.com/movies/the+gangster/,83,1,0,1,38,,http://www.imdb.com/title/tt0039410/,"2018-11-08 01:05:28",no,no,no,no
+214,0,"The Guilty",1947,http://www.icheckmovies.com/movies/the+guilty-1947/,61,0,0,1,25,,http://www.imdb.com/title/tt0039439/,no,no,no,no,no
+215,0,"Street of Chance",1942,http://www.icheckmovies.com/movies/street+of+chance/,101,3,3,1,31,,http://www.imdb.com/title/tt0035388/,no,no,no,no,no
+216,0,"The Woman on the Beach",1947,http://www.icheckmovies.com/movies/the+woman+on+the+beach/,419,14,6,3,87,,http://www.imdb.com/title/tt0040000/,no,no,no,no,no
+217,0,"Knock on Any Door",1949,http://www.icheckmovies.com/movies/knock+on+any+door/,260,11,2,1,46,,http://www.imdb.com/title/tt0041555/,"2018-11-08 01:05:59",no,no,no,no
+218,0,Suspicion,1941,http://www.icheckmovies.com/movies/suspicion/,4062,191,27,4,197,,http://www.imdb.com/title/tt0034248/,"2018-06-11 13:12:51",no,no,no,no
+219,0,"Nobody Lives Forever",1946,http://www.icheckmovies.com/movies/nobody+lives+forever/,161,6,0,1,44,,http://www.imdb.com/title/tt0038780/,no,no,no,no,no
+220,0,Shock,1946,http://www.icheckmovies.com/movies/shock/,329,9,4,1,47,,http://www.imdb.com/title/tt0038937/,no,no,no,no,no
+221,0,"Taxi Driver",1976,http://www.icheckmovies.com/movies/taxi+driver/,66370,6938,287,32,1276,,http://www.imdb.com/title/tt0075314/,"2018-01-10 16:56:48",no,no,no,no
+222,0,"The Two Mrs. Carrolls",1947,http://www.icheckmovies.com/movies/the+two+mrs.+carrolls/,283,8,2,1,52,,http://www.imdb.com/title/tt0039926/,no,no,no,no,no
+223,0,"The Web",1947,http://www.icheckmovies.com/movies/the+web/,135,7,0,1,37,,http://www.imdb.com/title/tt0039973/,no,no,no,no,no
+224,0,"Sleep, My Love",1948,http://www.icheckmovies.com/movies/sleep+my+love/,200,8,0,1,43,,http://www.imdb.com/title/tt0040798/,no,no,no,no,no
+225,0,Ruthless,1948,http://www.icheckmovies.com/movies/ruthless/,209,7,0,1,42,,http://www.imdb.com/title/tt0040751/,no,no,no,no,no
+226,0,"Party Girl",1958,http://www.icheckmovies.com/movies/party+girl/,578,17,8,3,100,,http://www.imdb.com/title/tt0052050/,no,no,no,no,no
+227,0,"House by the River",1950,http://www.icheckmovies.com/movies/house+by+the+river/,491,20,3,1,76,,http://www.imdb.com/title/tt0042579/,"2018-11-08 01:06:23",no,no,no,no
+228,0,"The Crooked Way",1949,http://www.icheckmovies.com/movies/the+crooked+way/,126,2,2,1,37,,http://www.imdb.com/title/tt0041269/,"2018-11-08 01:05:54",no,no,no,no
+229,0,"The Damned Don't Cry",1950,http://www.icheckmovies.com/movies/the+damned+dont+cry/,314,12,1,1,50,,http://www.imdb.com/title/tt0042376/,"2018-11-08 01:06:22",no,no,no,no
+230,0,"Private Hell 36",1954,http://www.icheckmovies.com/movies/private+hell+36/,238,8,1,1,39,,http://www.imdb.com/title/tt0047370/,"2018-11-08 01:07:26",no,no,no,no
+231,0,"The Long Night",1947,http://www.icheckmovies.com/movies/the+long+night/,229,5,3,1,53,,http://www.imdb.com/title/tt0039581/,no,no,no,no,no
+232,0,"Night Moves",1975,http://www.icheckmovies.com/movies/night+moves/,1614,124,7,6,176,,http://www.imdb.com/title/tt0073453/,no,no,no,no,no
+233,0,"The Grifters",1990,http://www.icheckmovies.com/movies/the+grifters/,2902,121,41,6,149,,http://www.imdb.com/title/tt0099703/,"2018-06-11 13:03:16",no,no,no,no
+234,0,"Guilty Bystander",1950,http://www.icheckmovies.com/movies/guilty+bystander/,82,1,2,1,23,,http://www.imdb.com/title/tt0042529/,no,no,no,no,no
+235,0,"The Racket",1951,http://www.icheckmovies.com/movies/the+racket/,339,7,5,1,56,,http://www.imdb.com/title/tt0043955/,"2018-11-08 01:06:51",no,no,no,no
+236,0,Tension,1949,http://www.icheckmovies.com/movies/tension/,309,12,1,1,60,,http://www.imdb.com/title/tt0041954/,"2018-11-08 01:06:14",no,no,no,no
+237,0,"Mr. Arkadin",1955,http://www.icheckmovies.com/movies/mr.+arkadin/,1331,86,12,6,147,"Confidential Report",http://www.imdb.com/title/tt0048393/,no,no,no,no,no
+238,0,Quicksand,1950,http://www.icheckmovies.com/movies/quicksand-1950/,181,7,5,1,48,,http://www.imdb.com/title/tt0042869/,"2018-11-08 01:06:25",no,no,no,no
+239,0,"Berlin Express",1948,http://www.icheckmovies.com/movies/berlin+express/,444,23,4,1,71,,http://www.imdb.com/title/tt0040155/,no,no,no,no,no
+240,0,"Ascenseur pour l'échafaud",1958,http://www.icheckmovies.com/movies/ascenseur+pour+lechafaud/,3013,437,15,9,277,"Elevator to the Gallows",http://www.imdb.com/title/tt0051378/,"2018-11-19 21:31:55",no,no,no,no
+241,0,"Cause for Alarm!",1951,http://www.icheckmovies.com/movies/cause+for+alarmexclamation/,252,10,2,1,44,,http://www.imdb.com/title/tt0043390/,no,no,no,no,no
+242,0,"The Devil Thumbs a Ride",1947,http://www.icheckmovies.com/movies/the+devil+thumbs+a+ride/,148,7,1,2,45,,http://www.imdb.com/title/tt0039317/,no,no,no,no,no
+243,0,"Blue Velvet",1986,http://www.icheckmovies.com/movies/blue+velvet/,24836,2626,190,23,830,,http://www.imdb.com/title/tt0090756/,"2018-04-26 21:44:09",no,no,no,no
+244,0,"The Fallen Sparrow",1943,http://www.icheckmovies.com/movies/the+fallen+sparrow/,129,2,0,1,43,,http://www.imdb.com/title/tt0035860/,no,no,no,no,no
+245,0,"The Desperate Hours",1955,http://www.icheckmovies.com/movies/the+desperate+hours/,884,49,5,2,77,,http://www.imdb.com/title/tt0047985/,"2018-11-08 00:23:51",no,no,no,no
+246,0,Framed,1947,http://www.icheckmovies.com/movies/framed/,173,5,1,1,39,Paula,http://www.imdb.com/title/tt0039396/,no,no,no,no,no
+247,0,Nightmare,1956,http://www.icheckmovies.com/movies/nightmare/,116,1,2,1,31,,http://www.imdb.com/title/tt0049553/,no,no,no,no,no
+248,0,M,1951,http://www.icheckmovies.com/movies/m-1951-1/,766,45,7,2,54,,http://www.imdb.com/title/tt0043766/,no,no,no,no,no
+249,0,"The Burglar",1957,http://www.icheckmovies.com/movies/the+burglar/,214,9,4,2,59,,http://www.imdb.com/title/tt0049035/,"2018-11-08 00:27:44",no,no,no,no
+250,0,"World for Ransom",1954,http://www.icheckmovies.com/movies/world+for+ransom/,132,1,1,1,27,,http://www.imdb.com/title/tt0047681/,no,no,no,no,no
+251,0,"No Man of Her Own",1950,http://www.icheckmovies.com/movies/no+man+of+her+own/,321,26,0,3,70,,http://www.imdb.com/title/tt0041694/,no,no,no,no,no
+252,0,Jeopardy,1953,http://www.icheckmovies.com/movies/jeopardy/,269,9,4,1,51,,http://www.imdb.com/title/tt0045932/,no,no,no,no,no
+253,0,"Chicago Deadline",1949,http://www.icheckmovies.com/movies/chicago+deadline/,45,2,0,1,27,,http://www.imdb.com/title/tt0041243/,no,no,no,no,no
+254,0,"Le samouraï",1967,http://www.icheckmovies.com/movies/le+samourai/,7309,1207,32,18,483,"Le Samouraï",http://www.imdb.com/title/tt0062229/,"2018-04-26 21:37:01",no,no,no,no
+255,0,"The Turning Point",1952,http://www.icheckmovies.com/movies/the+turning+point/,170,4,0,1,36,,http://www.imdb.com/title/tt0045267/,no,no,no,no,no
+256,0,"Night Editor",1946,http://www.icheckmovies.com/movies/night+editor/,94,2,0,1,29,,http://www.imdb.com/title/tt0038774/,no,no,no,no,no
+257,0,"Rogue Cop",1954,http://www.icheckmovies.com/movies/rogue+cop/,139,2,3,1,40,,http://www.imdb.com/title/tt0047424/,no,no,no,no,no
+258,0,"The Bribe",1949,http://www.icheckmovies.com/movies/the+bribe/,180,12,0,1,59,,http://www.imdb.com/title/tt0041207/,"2018-11-08 01:05:49",no,no,no,no
+259,0,"The Brothers Rico",1957,http://www.icheckmovies.com/movies/the+brothers+rico/,127,1,0,1,40,,http://www.imdb.com/title/tt0050213/,"2018-11-08 01:08:16",no,no,no,no
+260,0,"The Sleeping City",1950,http://www.icheckmovies.com/movies/the+sleeping+city/,96,3,0,1,25,"Web of the City",http://www.imdb.com/title/tt0042976/,no,no,no,no,no
+261,0,"The House on Telegraph Hill",1951,http://www.icheckmovies.com/movies/the+house+on+telegraph+hill/,294,14,1,1,57,,http://www.imdb.com/title/tt0043660/,no,no,no,no,no
+262,0,"Dark Waters",1944,http://www.icheckmovies.com/movies/dark+waters/,223,8,0,1,30,,http://www.imdb.com/title/tt0036745/,no,no,no,no,no
+263,0,"The Accused",1949,http://www.icheckmovies.com/movies/the+accused/,267,6,0,1,42,,http://www.imdb.com/title/tt0040071/,no,no,no,no,no
+264,0,"The Killer Is Loose",1956,http://www.icheckmovies.com/movies/the+killer+is+loose/,313,7,1,2,57,,http://www.imdb.com/title/tt0049405/,"2018-11-08 00:28:09",no,no,no,no
+265,0,"Slightly Scarlet",1956,http://www.icheckmovies.com/movies/slightly+scarlet/,177,6,4,1,50,,http://www.imdb.com/title/tt0049769/,"2018-11-08 01:08:03",no,no,no,no
+266,0,"One Way Street",1950,http://www.icheckmovies.com/movies/one+way+street/,115,5,1,2,39,,http://www.imdb.com/title/tt0042809/,no,no,no,no,no
+267,0,"The Killer That Stalked New York",1950,http://www.icheckmovies.com/movies/the+killer+that+stalked+new+york/,165,6,0,1,45,"Frightened City",http://www.imdb.com/title/tt0042643/,no,no,no,no,no
+268,0,Manhandled,1949,http://www.icheckmovies.com/movies/manhandled-1949-1/,52,1,0,1,28,,http://www.imdb.com/title/tt0041631/,no,no,no,no,no
+269,0,Abandoned,1949,http://www.icheckmovies.com/movies/abandoned-1949-1/,57,1,0,1,24,,http://www.imdb.com/title/tt0041084/,no,no,no,no,no
+270,0,"The Suspect",1944,http://www.icheckmovies.com/movies/the+suspect/,228,17,0,2,74,,http://www.imdb.com/title/tt0037330/,"2018-11-08 01:03:47",no,no,no,no
+271,0,"The Mob",1951,http://www.icheckmovies.com/movies/the+mob/,147,3,1,1,33,"Remember That Face",http://www.imdb.com/title/tt0043812/,"2018-11-08 01:06:52",no,no,no,no
+272,0,"Mulholland Dr.",2001,http://www.icheckmovies.com/movies/mulholland+dr./,36656,4568,471,26,1006,"Mulholland Drive",http://www.imdb.com/title/tt0166924/,"2018-04-26 21:50:49",no,no,no,no
+273,0,"Among the Living",1941,http://www.icheckmovies.com/movies/among+the+living/,177,1,0,1,40,,http://www.imdb.com/title/tt0033337/,no,no,no,no,no
+274,0,"Appointment with Danger",1950,http://www.icheckmovies.com/movies/appointment+with+danger/,118,1,1,1,30,,http://www.imdb.com/title/tt0043292/,"2018-11-08 01:06:28",no,no,no,no
+275,0,Fury,1936,http://www.icheckmovies.com/movies/fury/,2123,207,9,10,233,,http://www.imdb.com/title/tt0027652/,"2018-06-11 13:02:31",no,no,no,no
+276,0,"Bob le flambeur",1956,http://www.icheckmovies.com/movies/bob+le+flambeur/,2640,231,15,12,231,"Bob le Flambeur",http://www.imdb.com/title/tt0047892/,"2018-11-08 00:21:35",no,no,no,no
+277,0,"Fourteen Hours",1951,http://www.icheckmovies.com/movies/fourteen+hours/,242,7,1,2,69,,http://www.imdb.com/title/tt0043560/,"2018-11-08 00:25:59",no,no,no,no
+278,0,"Brighton Rock",1948,http://www.icheckmovies.com/movies/brighton+rock/,1245,75,9,8,130,,http://www.imdb.com/title/tt0039220/,"2018-06-14 00:48:47",no,no,no,no
+279,0,"Drive a Crooked Road",1954,http://www.icheckmovies.com/movies/drive+a+crooked+road/,165,5,0,2,46,,http://www.imdb.com/title/tt0046935/,"2018-11-08 00:25:46",no,no,no,no
+280,0,"Destination Murder",1950,http://www.icheckmovies.com/movies/destination+murder/,163,5,1,1,38,,http://www.imdb.com/title/tt0042394/,"2018-11-08 01:06:21",no,no,no,no
+281,0,"The Big Night",1951,http://www.icheckmovies.com/movies/the+big+night/,109,3,1,1,32,,http://www.imdb.com/title/tt0043340/,"2018-11-08 01:06:29",no,no,no,no
+282,0,"Strange Illusion",1945,http://www.icheckmovies.com/movies/strange+illusion/,175,3,4,1,44,,http://www.imdb.com/title/tt0038126/,no,no,no,no,no
+283,0,"Odd Man Out",1947,http://www.icheckmovies.com/movies/odd+man+out/,2000,169,17,12,245,"Gang War",http://www.imdb.com/title/tt0039677/,"2018-04-26 21:29:55",no,no,no,no
+284,0,"Port of New York",1949,http://www.icheckmovies.com/movies/port+of+new+york/,84,3,2,1,31,,http://www.imdb.com/title/tt0041761/,no,no,no,no,no
+285,0,"Blonde Ice",1948,http://www.icheckmovies.com/movies/blonde+ice/,135,5,2,1,29,,http://www.imdb.com/title/tt0041187/,no,no,no,no,no
+286,0,Gaslight,1944,http://www.icheckmovies.com/movies/gaslight/,3910,279,21,7,274,"Murder in Thornton Square",http://www.imdb.com/title/tt0036855/,"2018-06-11 13:02:37",no,no,no,no
+287,0,"The Harder They Fall",1956,http://www.icheckmovies.com/movies/the+harder+they+fall/,763,28,3,2,96,,http://www.imdb.com/title/tt0049291/,"2018-11-08 00:27:57",no,no,no,no
+288,0,"Red Light",1949,http://www.icheckmovies.com/movies/red+light/,138,4,5,1,40,,http://www.imdb.com/title/tt0041790/,no,no,no,no,no
+289,0,"Johnny Angel",1945,http://www.icheckmovies.com/movies/johnny+angel/,201,3,0,1,44,,http://www.imdb.com/title/tt0037832/,no,no,no,no,no
+290,0,"The Usual Suspects",1995,http://www.icheckmovies.com/movies/the+usual+suspects/,69897,7334,298,21,831,,http://www.imdb.com/title/tt0114814/,"2018-01-10 16:55:11",no,no,no,yes
+291,0,"I Was a Communist for the FBI",1951,http://www.icheckmovies.com/movies/i+was+a+communist+for+the+fbi/,170,3,8,1,43,,http://www.imdb.com/title/tt0043665/,no,no,no,no,no
+292,0,"Danger Signal",1945,http://www.icheckmovies.com/movies/danger+signal/,123,5,2,1,35,,http://www.imdb.com/title/tt0037632/,no,no,no,no,no
+293,0,"Shield for Murder",1954,http://www.icheckmovies.com/movies/shield+for+murder/,102,3,0,1,31,,http://www.imdb.com/title/tt0047479/,no,no,no,no,no
+294,0,"Southside 1-1000",1950,http://www.icheckmovies.com/movies/southside+1-1000/,81,1,0,1,26,"Union 1-1000",http://www.imdb.com/title/tt0042989/,no,no,no,no,no
+295,0,Se7en,1995,http://www.icheckmovies.com/movies/se7en/,100684,10645,322,23,1057,,http://www.imdb.com/title/tt0114369/,"2018-01-10 16:55:05",no,no,no,yes
+296,0,"The Unknown Man",1951,http://www.icheckmovies.com/movies/the+unknown+man/,93,1,0,1,30,,http://www.imdb.com/title/tt0044166/,no,no,no,no,no
+297,0,"The People Against O'Hara",1951,http://www.icheckmovies.com/movies/the+people+against+ohara/,78,3,0,1,34,,http://www.imdb.com/title/tt0043914/,no,no,no,no,no
+298,0,"Tomorrow Is Another Day",1951,http://www.icheckmovies.com/movies/tomorrow+is+another+day/,117,1,0,1,43,,http://www.imdb.com/title/tt0044136/,no,no,no,no,no
+299,0,"Shoot to Kill",1947,http://www.icheckmovies.com/movies/shoot+to+kill-1947/,89,0,2,1,24,,http://www.imdb.com/title/tt0039820/,no,no,no,no,no
+300,0,"A Kiss Before Dying",1956,http://www.icheckmovies.com/movies/a+kiss+before+dying/,266,11,3,1,47,,http://www.imdb.com/title/tt0049414/,"2018-11-08 01:07:54",no,no,no,no
+301,0,"Affair in Trinidad",1952,http://www.icheckmovies.com/movies/affair+in+trinidad/,203,4,0,1,46,,http://www.imdb.com/title/tt0044331/,no,no,no,no,no
+302,0,"No Way Out",1950,http://www.icheckmovies.com/movies/no+way+out/,373,33,2,3,104,,http://www.imdb.com/title/tt0042792/,"2018-11-08 00:22:21",no,no,no,no
+303,0,"Murder Is My Beat",1955,http://www.icheckmovies.com/movies/murder+is+my+beat/,93,1,0,1,26,,http://www.imdb.com/title/tt0048396/,no,no,no,no,no
+304,0,"The Threat",1949,http://www.icheckmovies.com/movies/the+threat/,112,2,0,1,38,,http://www.imdb.com/title/tt0041963/,no,no,no,no,no
+305,0,"The Tattooed Stranger",1950,http://www.icheckmovies.com/movies/the+tattooed+stranger/,153,1,5,1,31,,http://www.imdb.com/title/tt0043027/,no,no,no,no,no
+306,0,Vicki,1953,http://www.icheckmovies.com/movies/vicki/,160,2,0,1,33,,http://www.imdb.com/title/tt0046515/,no,no,no,no,no
+307,0,"The Man I Love",1947,http://www.icheckmovies.com/movies/the+man+i+love/,164,16,2,2,61,,http://www.imdb.com/title/tt0038721/,no,no,no,no,no
+308,0,Shakedown,1950,http://www.icheckmovies.com/movies/shakedown-1950/,29,1,0,1,22,,http://www.imdb.com/title/tt0042953/,no,no,no,no,no
+309,0,"A Lady Without Passport",1950,http://www.icheckmovies.com/movies/a+lady+without+passport/,181,2,1,1,48,,http://www.imdb.com/title/tt0042664/,no,no,no,no,no
+310,0,Memento,2000,http://www.icheckmovies.com/movies/memento/,90360,10650,419,24,1060,,http://www.imdb.com/title/tt0209144/,"2018-01-10 16:55:51",no,no,no,no
+311,0,"Loan Shark",1952,http://www.icheckmovies.com/movies/loan+shark/,114,1,1,1,27,,http://www.imdb.com/title/tt0044847/,no,no,no,no,no
+312,0,"Talk About a Stranger",1952,http://www.icheckmovies.com/movies/talk+about+a+stranger/,138,0,6,1,39,,http://www.imdb.com/title/tt0045216/,no,no,no,no,no
+313,0,"The Manchurian Candidate",1962,http://www.icheckmovies.com/movies/the+manchurian+candidate/,14721,864,71,14,445,,http://www.imdb.com/title/tt0056218/,"2018-04-26 21:35:25",no,no,no,no
+314,0,"The Red House",1947,http://www.icheckmovies.com/movies/the+red+house/,405,13,3,2,74,"No Trespassing",http://www.imdb.com/title/tt0039757/,no,no,no,no,no
+315,0,"I Wouldn't Be in Your Shoes",1948,http://www.icheckmovies.com/movies/i+wouldnt+be+in+your+shoes/,49,1,1,1,24,,http://www.imdb.com/title/tt0040460/,no,no,no,no,no
+316,0,"New York Confidential",1955,http://www.icheckmovies.com/movies/new+york+confidential/,63,2,0,1,38,,http://www.imdb.com/title/tt0048421/,no,no,no,no,no
+317,0,"They Made Me a Fugitive",1947,http://www.icheckmovies.com/movies/they+made+me+a+fugitive/,283,20,2,3,116,"I Became a Criminal",http://www.imdb.com/title/tt0039895/,no,no,no,no,no
+318,0,"Naked Alibi",1954,http://www.icheckmovies.com/movies/naked+alibi/,79,1,0,1,23,,http://www.imdb.com/title/tt0047263/,no,no,no,no,no
+319,0,"Les diaboliques",1955,http://www.icheckmovies.com/movies/les+diaboliques/,8641,1078,41,18,562,Diabolique,http://www.imdb.com/title/tt0046911/,"2018-04-26 21:31:55",no,no,no,no
+320,0,"Canon City",1948,http://www.icheckmovies.com/movies/canon+city/,58,1,0,1,31,,http://www.imdb.com/title/tt0040210/,no,no,no,no,no
+321,0,"Johnny Eager",1941,http://www.icheckmovies.com/movies/johnny+eager/,247,13,2,1,84,,http://www.imdb.com/title/tt0033774/,"2018-11-08 01:03:30",no,no,no,no
+322,0,"Don't Bother to Knock",1952,http://www.icheckmovies.com/movies/dont+bother+to+knock/,558,39,2,1,62,,http://www.imdb.com/title/tt0044557/,"2018-11-08 01:06:58",no,no,no,no
+323,0,"I Am a Fugitive from a Chain Gang",1932,http://www.icheckmovies.com/movies/i+am+a+fugitive+from+a+chain+gang/,2588,304,9,12,316,"I Am a Fugitive from the Chain Gang",http://www.imdb.com/title/tt0023042/,"2018-10-17 22:13:41",no,no,no,no
+324,0,"The Strip",1951,http://www.icheckmovies.com/movies/the+strip/,124,2,3,1,42,,http://www.imdb.com/title/tt0044083/,no,no,no,no,no
+325,0,"Baby Face Nelson",1957,http://www.icheckmovies.com/movies/baby+face+nelson/,129,2,0,2,35,,http://www.imdb.com/title/tt0050155/,no,no,no,no,no
+326,0,"Cry Vengeance",1954,http://www.icheckmovies.com/movies/cry+vengeance/,73,3,0,1,30,,http://www.imdb.com/title/tt0046885/,no,no,no,no,no
+327,0,Trapped,1949,http://www.icheckmovies.com/movies/trapped-1949-1/,82,1,0,1,26,,http://www.imdb.com/title/tt0041983/,no,no,no,no,no
+328,0,"The 13th Letter",1951,http://www.icheckmovies.com/movies/the+13th+letter/,77,0,0,1,33,,http://www.imdb.com/title/tt0043251/,no,no,no,no,no
+329,0,"The Garment Jungle",1957,http://www.icheckmovies.com/movies/the+garment+jungle/,73,3,1,1,28,,http://www.imdb.com/title/tt0050424/,no,no,no,no,no
+330,0,"Le doulos",1963,http://www.icheckmovies.com/movies/le+doulos/,1648,166,8,10,172,"Le Doulos",http://www.imdb.com/title/tt0054821/,"2018-04-28 22:53:36",no,no,no,no
+331,0,"Nora inu",1949,http://www.icheckmovies.com/movies/nora+inu/,2374,238,7,7,222,"Stray Dog",http://www.imdb.com/title/tt0041699/,"2018-10-17 22:31:40",no,no,no,no
+332,0,"Le quai des brumes",1938,http://www.icheckmovies.com/movies/le+quai+des+brumes/,1541,174,15,10,255,"Port of Shadows",http://www.imdb.com/title/tt0030643/,"2018-04-28 23:18:26",no,no,no,no
+333,0,Klute,1971,http://www.icheckmovies.com/movies/klute/,2813,132,15,7,233,,http://www.imdb.com/title/tt0067309/,"2018-04-26 21:38:10",no,no,no,no
+334,0,Convicted,1950,http://www.icheckmovies.com/movies/convicted-1950-1/,83,0,0,1,35,,http://www.imdb.com/title/tt0042343/,no,no,no,no,no
+335,0,"Black Tuesday",1954,http://www.icheckmovies.com/movies/black+tuesday/,112,0,0,1,26,,http://www.imdb.com/title/tt0046790/,no,no,no,no,no
+336,0,Ossessione,1943,http://www.icheckmovies.com/movies/ossessione/,1474,73,13,12,205,,http://www.imdb.com/title/tt0035160/,"2018-11-08 00:21:37",no,no,no,no
+337,0,"Strange Impersonation",1946,http://www.icheckmovies.com/movies/strange+impersonation/,115,4,2,1,45,,http://www.imdb.com/title/tt0038986/,no,no,no,no,no
+338,0,"Blast of Silence",1961,http://www.icheckmovies.com/movies/blast+of+silence/,867,82,7,3,87,,http://www.imdb.com/title/tt0054687/,"2018-10-17 21:56:00",no,no,no,no
+339,0,"The Pretender",1947,http://www.icheckmovies.com/movies/the+pretender-1947/,56,0,0,1,22,,http://www.imdb.com/title/tt0039730/,no,no,no,no,no
+340,0,"Hell's Half Acre",1954,http://www.icheckmovies.com/movies/hells+half+acre/,59,4,0,1,25,,http://www.imdb.com/title/tt0047074/,no,no,no,no,no
+341,0,"The Amazing Mr. X",1948,http://www.icheckmovies.com/movies/the+amazing+mr.+x/,166,12,0,1,50,"The Spiritualist",http://www.imdb.com/title/tt0040829/,no,no,no,no,no
+342,0,"Highway 301",1950,http://www.icheckmovies.com/movies/highway+301/,72,3,2,1,33,"The Big Stickup",http://www.imdb.com/title/tt0042250/,no,no,no,no,no
+343,0,"Dark City",1998,http://www.icheckmovies.com/movies/dark+city/,16723,1580,119,5,344,,http://www.imdb.com/title/tt0118929/,"2018-04-28 11:47:28",no,no,no,no
+344,0,"Reign of Terror",1949,http://www.icheckmovies.com/movies/reign+of+terror/,182,12,1,1,71,"The Black Book",http://www.imdb.com/title/tt0041796/,"2018-11-08 01:06:08",no,no,no,no
+345,0,"Alias Nick Beal",1949,http://www.icheckmovies.com/movies/alias+nick+beal/,123,5,0,2,45,"The Contact Man",http://www.imdb.com/title/tt0041107/,no,no,no,no,no
+346,0,Fear,1946,http://www.icheckmovies.com/movies/fear-1946/,59,0,3,1,25,,http://www.imdb.com/title/tt0038524/,no,no,no,no,no
+347,0,"Get Carter",1971,http://www.icheckmovies.com/movies/get+carter/,5706,314,45,10,225,,http://www.imdb.com/title/tt0067128/,"2018-11-18 19:00:29",no,no,no,no
+348,0,"I Died a Thousand Times",1955,http://www.icheckmovies.com/movies/i+died+a+thousand+times/,82,0,1,1,36,,http://www.imdb.com/title/tt0048190/,no,no,no,no,no
+349,0,"Between Midnight and Dawn",1950,http://www.icheckmovies.com/movies/between+midnight+and+dawn/,67,2,0,1,30,,http://www.imdb.com/title/tt0042242/,no,no,no,no,no
+350,0,"The Last Seduction",1994,http://www.icheckmovies.com/movies/the+last+seduction/,2582,138,32,9,144,,http://www.imdb.com/title/tt0110308/,"2018-04-26 21:48:02",no,no,no,no
+351,0,"Fall Guy",1947,http://www.icheckmovies.com/movies/fall+guy/,44,0,1,1,26,,http://www.imdb.com/title/tt0039368/,no,no,no,no,no
+352,0,"The Killers",1964,http://www.icheckmovies.com/movies/the+killers-1964-1/,1276,42,12,6,107,,http://www.imdb.com/title/tt0058262/,no,no,no,no,no
+353,0,Rebecca,1940,http://www.icheckmovies.com/movies/rebecca/,15387,1528,60,21,555,,http://www.imdb.com/title/tt0032976/,"2018-04-26 21:28:07",no,no,no,no
+354,0,"Touchez pas au grisbi",1954,http://www.icheckmovies.com/movies/touchez+pas+au+grisbi/,1255,111,12,6,178,"Hands Off the Loot",http://www.imdb.com/title/tt0046451/,"2018-04-28 11:46:27",no,no,no,no
+355,0,"The Night Holds Terror",1955,http://www.icheckmovies.com/movies/the+night+holds+terror/,49,0,0,1,26,,http://www.imdb.com/title/tt0048423/,no,no,no,no,no
+356,0,"Tirez sur le pianiste",1960,http://www.icheckmovies.com/movies/tirez+sur+le+pianiste/,3450,294,18,10,284,"Shoot the Pianist",http://www.imdb.com/title/tt0054389/,"2018-04-26 21:34:06",no,no,no,no
+357,0,"The Other Woman",1954,http://www.icheckmovies.com/movies/the+other+woman-1954/,57,1,0,1,25,,http://www.imdb.com/title/tt0047317/,no,no,no,no,no
+358,0,"Lady on a Train",1945,http://www.icheckmovies.com/movies/lady+on+a+train/,164,16,1,1,54,,http://www.imdb.com/title/tt0037859/,"2018-11-08 01:03:53",no,no,no,no
+359,0,"The Underworld Story",1950,http://www.icheckmovies.com/movies/the+underworld+story/,88,5,0,1,43,,http://www.imdb.com/title/tt0043088/,no,no,no,no,no
+360,0,"Hoodlum Empire",1952,http://www.icheckmovies.com/movies/hoodlum+empire/,41,0,1,1,27,,http://www.imdb.com/title/tt0044720/,no,no,no,no,no
+361,0,"The Clay Pigeon",1949,http://www.icheckmovies.com/movies/the+clay+pigeon/,100,1,2,1,29,,http://www.imdb.com/title/tt0041252/,"2018-11-08 01:05:52",no,no,no,no
+362,0,"I, the Jury",1953,http://www.icheckmovies.com/movies/i+the+jury/,120,1,6,1,29,,http://www.imdb.com/title/tt0045902/,no,no,no,no,no
+363,0,Loophole,1954,http://www.icheckmovies.com/movies/loophole/,40,0,0,1,29,,http://www.imdb.com/title/tt0047192/,no,no,no,no,no
+364,0,"Farewell, My Lovely",1975,http://www.icheckmovies.com/movies/farewell+my+lovely/,495,21,2,2,112,,http://www.imdb.com/title/tt0072973/,"2018-11-08 00:25:56",no,no,no,no
+365,0,Thief,1981,http://www.icheckmovies.com/movies/thief/,2064,204,7,5,165,"Violent Streets",http://www.imdb.com/title/tt0083190/,"2018-10-17 22:40:46",no,no,no,no
+366,0,"The Conversation",1974,http://www.icheckmovies.com/movies/the+conversation/,13659,1455,70,20,580,,http://www.imdb.com/title/tt0071360/,"2018-04-26 21:39:14",no,no,no,no
+367,0,Fargo,1996,http://www.icheckmovies.com/movies/fargo/,62723,6419,343,23,1024,,http://www.imdb.com/title/tt0116282/,"2018-04-26 21:48:42",no,no,no,no
+368,0,"Sin City",2005,http://www.icheckmovies.com/movies/sin+city/,80836,5831,794,9,599,,http://www.imdb.com/title/tt0401792/,"2018-04-28 15:53:03",no,no,no,no
+369,0,"Guest in the House",1944,http://www.icheckmovies.com/movies/guest+in+the+house/,92,1,1,1,36,,http://www.imdb.com/title/tt0036886/,no,no,no,no,no
+370,0,Calcutta,1947,http://www.icheckmovies.com/movies/calcutta-1947-1/,44,1,0,1,26,,http://www.imdb.com/title/tt0039235/,no,no,no,no,no
+371,0,"Tengoku to jigoku",1963,http://www.icheckmovies.com/movies/tengoku+to+jigoku/,4412,865,19,13,415,"High and Low",http://www.imdb.com/title/tt0057565/,"2018-04-28 15:52:17",no,no,no,no
+372,0,"Reservoir Dogs",1992,http://www.icheckmovies.com/movies/reservoir+dogs/,85239,9330,332,23,1024,,http://www.imdb.com/title/tt0105236/,"2018-01-10 16:56:35",no,no,no,no
+373,0,"Scene of the Crime",1949,http://www.icheckmovies.com/movies/scene+of+the+crime/,92,3,1,1,31,,http://www.imdb.com/title/tt0041847/,no,no,no,no,no
+374,0,"The Friends of Eddie Coyle",1973,http://www.icheckmovies.com/movies/the+friends+of+eddie+coyle/,1233,114,7,5,139,,http://www.imdb.com/title/tt0070077/,no,no,no,no,no
+375,0,"Pulp Fiction",1994,http://www.icheckmovies.com/movies/pulp+fiction/,118369,18966,596,35,1647,,http://www.imdb.com/title/tt0110912/,"2018-01-10 16:54:46",no,no,no,yes
+376,0,"The Verdict",1946,http://www.icheckmovies.com/movies/the+verdict-1946-1/,175,9,2,1,54,,http://www.imdb.com/title/tt0039080/,no,no,no,no,no
+377,0,Pursued,1947,http://www.icheckmovies.com/movies/pursued/,574,33,4,4,142,,http://www.imdb.com/title/tt0039737/,no,no,no,no,no
+378,0,"So Evil My Love",1948,http://www.icheckmovies.com/movies/so+evil+my+love/,64,0,0,1,24,,http://www.imdb.com/title/tt0040809/,no,no,no,no,no
+379,0,Brick,2005,http://www.icheckmovies.com/movies/brick/,16910,1731,208,6,269,,http://www.imdb.com/title/tt0393109/,"2018-10-17 21:57:10",no,no,no,no
+380,0,"The Tattered Dress",1957,http://www.icheckmovies.com/movies/the+tattered+dress/,52,0,0,1,27,,http://www.imdb.com/title/tt0051058/,no,no,no,no,no
+381,0,"The Strange Woman",1946,http://www.icheckmovies.com/movies/the+strange+woman/,177,4,2,1,41,,http://www.imdb.com/title/tt0038990/,no,no,no,no,no
+382,0,"Miller's Crossing",1990,http://www.icheckmovies.com/movies/millers+crossing/,12084,1192,55,8,400,,http://www.imdb.com/title/tt0100150/,"2018-04-28 16:06:05",no,no,no,no
+383,0,Hammett,1982,http://www.icheckmovies.com/movies/hammett/,412,15,7,2,53,,http://www.imdb.com/title/tt0085640/,no,no,no,no,no
+384,0,"Devil in a Blue Dress",1995,http://www.icheckmovies.com/movies/devil+in+a+blue+dress/,1032,35,10,2,74,,http://www.imdb.com/title/tt0112857/,"2018-11-19 21:32:47",no,no,no,no
+385,0,"Dirty Harry",1971,http://www.icheckmovies.com/movies/dirty+harry/,21378,1026,66,14,420,,http://www.imdb.com/title/tt0066999/,"2018-01-31 09:30:22",no,no,no,no
+386,0,Obsession,1949,http://www.icheckmovies.com/movies/obsession-1949/,204,16,2,2,86,"The Hidden Room",http://www.imdb.com/title/tt0041460/,no,no,no,no,no
+387,0,"To Live and Die in L.A.",1985,http://www.icheckmovies.com/movies/to+live+and+die+in+l.a./,1631,143,12,1,148,,http://www.imdb.com/title/tt0090180/,"2018-11-08 00:38:15",no,no,no,no
+388,0,Bluebeard,1944,http://www.icheckmovies.com/movies/bluebeard-1944/,224,4,2,1,59,,http://www.imdb.com/title/tt0036653/,no,no,no,no,no
+389,0,"Experiment Perilous",1944,http://www.icheckmovies.com/movies/experiment+perilous/,169,5,3,1,50,,http://www.imdb.com/title/tt0036807/,"2018-11-08 01:03:45",no,no,no,no
+390,0,"They Drive by Night",1940,http://www.icheckmovies.com/movies/they+drive+by+night/,805,37,5,2,83,"The Road to Frisco",http://www.imdb.com/title/tt0033149/,"2018-11-08 00:28:30",no,no,no,no
+391,0,"The Seventh Victim",1943,http://www.icheckmovies.com/movies/the+seventh+victim/,1290,77,15,6,200,,http://www.imdb.com/title/tt0036341/,no,no,no,no,no
+392,0,"I Want to Live!",1958,http://www.icheckmovies.com/movies/i+want+to+liveexclamation/,551,27,9,2,115,,http://www.imdb.com/title/tt0051758/,"2018-06-11 13:04:17",no,no,no,no
+393,0,Heat,1995,http://www.icheckmovies.com/movies/heat/,42298,3242,219,17,594,,http://www.imdb.com/title/tt0113277/,"2018-01-10 16:57:39",no,no,no,no
+394,0,"The Well",1951,http://www.icheckmovies.com/movies/the+well/,107,3,3,2,49,,http://www.imdb.com/title/tt0044202/,no,no,no,no,no
+395,0,"Please Murder Me!",1956,http://www.icheckmovies.com/movies/please+murder+meexclamation/,100,2,3,1,27,,http://www.imdb.com/title/tt0049621/,no,no,no,no,no
+396,0,"Red Rock West",1993,http://www.icheckmovies.com/movies/red+rock+west/,1080,53,16,2,82,,http://www.imdb.com/title/tt0105226/,"2018-11-08 00:24:05",no,no,no,no
+397,0,"A Woman's Secret",1949,http://www.icheckmovies.com/movies/a+womans+secret/,182,5,1,1,36,,http://www.imdb.com/title/tt0042053/,"2018-11-08 01:06:11",no,no,no,no
+398,0,Bodyguard,1948,http://www.icheckmovies.com/movies/bodyguard/,99,0,0,1,29,,http://www.imdb.com/title/tt0040178/,"2018-11-08 01:05:40",no,no,no,no
+399,0,"A Blueprint for Murder",1953,http://www.icheckmovies.com/movies/a+blueprint+for+murder/,117,5,0,1,18,,http://www.imdb.com/title/tt0045566/,"2018-11-08 01:07:09",no,no,no,no
+400,0,"Walk Softly, Stranger",1950,http://www.icheckmovies.com/movies/walk+softly+stranger/,84,0,1,1,29,,http://www.imdb.com/title/tt0043118/,no,no,no,no,no
+401,0,"Experiment in Terror",1962,http://www.icheckmovies.com/movies/experiment+in+terror/,313,32,1,1,55,"The Grip of Fear",http://www.imdb.com/title/tt0055972/,"2018-11-08 01:11:07",no,no,no,no
+402,0,Shockproof,1949,http://www.icheckmovies.com/movies/shockproof/,186,4,2,1,36,,http://www.imdb.com/title/tt0041871/,no,no,no,no,no
+403,0,"The Glass Wall",1953,http://www.icheckmovies.com/movies/the+glass+wall/,82,3,0,2,23,,http://www.imdb.com/title/tt0045824/,no,no,no,no,no
+404,0,Scarface,1932,http://www.icheckmovies.com/movies/scarface-1932-1/,8661,417,37,14,345,,http://www.imdb.com/title/tt0023427/,"2018-10-17 22:37:08",no,no,no,no
+405,0,"I Confess",1953,http://www.icheckmovies.com/movies/i+confess/,2049,103,16,2,118,,http://www.imdb.com/title/tt0045897/,"2018-11-08 00:23:56",no,no,no,no
+406,0,"Angel Heart",1987,http://www.icheckmovies.com/movies/angel+heart/,5485,408,48,4,204,,http://www.imdb.com/title/tt0092563/,"2018-01-31 09:30:39",no,no,no,no
+407,0,"Basic Instinct",1992,http://www.icheckmovies.com/movies/basic+instinct/,23870,491,186,7,256,,http://www.imdb.com/title/tt0103772/,"2018-10-17 01:31:06",no,no,no,no
+408,0,"Hell's Island",1955,http://www.icheckmovies.com/movies/hells+island-1955/,47,0,1,1,23,,http://www.imdb.com/title/tt0048160/,no,no,no,no,no
+409,0,"The Scarf",1951,http://www.icheckmovies.com/movies/the+scarf/,52,2,0,1,23,"The Dungeon",http://www.imdb.com/title/tt0043998/,no,no,no,no,no
+410,0,Ivy,1947,http://www.icheckmovies.com/movies/ivy/,94,5,1,1,28,,http://www.imdb.com/title/tt0039504/,no,no,no,no,no
+411,0,"La bête humaine",1938,http://www.icheckmovies.com/movies/la+bete+humaine/,1316,98,3,9,201,"La Bête Humaine",http://www.imdb.com/title/tt0029957/,"2018-04-28 22:49:57",no,no,no,no
+412,0,"Quai des Orfèvres",1947,http://www.icheckmovies.com/movies/quai+des+orfevres/,943,72,7,6,163,"Jenny Lamour",http://www.imdb.com/title/tt0039739/,"2018-04-28 23:22:05",no,no,no,no
+413,0,"Woman in Hiding",1950,http://www.icheckmovies.com/movies/woman+in+hiding/,62,2,0,1,23,,http://www.imdb.com/title/tt0042052/,no,no,no,no,no
+414,0,"Tight Spot",1955,http://www.icheckmovies.com/movies/tight+spot/,110,3,1,1,27,,http://www.imdb.com/title/tt0048724/,"2018-11-08 01:07:49",no,no,no,no
+415,0,Lured,1947,http://www.icheckmovies.com/movies/lured/,261,11,1,1,62,"Personal Column",http://www.imdb.com/title/tt0039589/,no,no,no,no,no
+416,0,Singapore,1947,http://www.icheckmovies.com/movies/singapore/,56,3,0,1,24,,http://www.imdb.com/title/tt0039829/,"2018-11-08 01:05:39",no,no,no,no
+417,0,"Storm Fear",1955,http://www.icheckmovies.com/movies/storm+fear/,47,3,1,1,24,,http://www.imdb.com/title/tt0049801/,no,no,no,no,no
+418,0,"Another Man's Poison",1951,http://www.icheckmovies.com/movies/another+mans+poison/,158,4,1,1,36,,http://www.imdb.com/title/tt0044364/,no,no,no,no,no
+419,0,"The Long Wait",1954,http://www.icheckmovies.com/movies/the+long+wait/,27,2,0,1,24,,http://www.imdb.com/title/tt0047190/,no,no,no,no,no
+420,0,"Without Warning!",1952,http://www.icheckmovies.com/movies/without+warningexclamation/,64,1,1,1,23,,http://www.imdb.com/title/tt0045334/,no,no,no,no,no
+421,0,"Desert Fury",1947,http://www.icheckmovies.com/movies/desert+fury/,116,2,3,1,38,,http://www.imdb.com/title/tt0039311/,no,no,no,no,no
+422,0,"After Dark, My Sweet",1990,http://www.icheckmovies.com/movies/after+dark+my+sweet/,530,20,4,2,65,,http://www.imdb.com/title/tt0098994/,no,no,no,no,no
+423,0,"The Man Who Wasn't There",2001,http://www.icheckmovies.com/movies/the+man+who+wasnt+there/,9821,791,48,5,255,,http://www.imdb.com/title/tt0243133/,"2018-04-28 15:56:04",no,no,no,no
+424,0,Manhunter,1986,http://www.icheckmovies.com/movies/manhunter/,6549,335,50,6,256,,http://www.imdb.com/title/tt0091474/,"2018-01-31 09:31:06",no,no,no,no
+425,0,"City of Fear",1959,http://www.icheckmovies.com/movies/city+of+fear/,115,3,1,1,24,,http://www.imdb.com/title/tt0052696/,"2018-11-08 01:09:11",no,no,no,no
+426,0,"Yoidore tenshi",1948,http://www.icheckmovies.com/movies/yoidore+tenshi/,1592,121,7,4,161,"Drunken Angel",http://www.imdb.com/title/tt0040979/,"2018-12-07 15:38:18",no,no,no,no
+427,0,"Split Second",1953,http://www.icheckmovies.com/movies/split+second-1953-1/,114,3,0,1,31,,http://www.imdb.com/title/tt0046353/,"2018-11-08 01:07:17",no,no,no,no
+428,0,"The Night Runner",1957,http://www.icheckmovies.com/movies/the+night+runner/,25,0,0,1,17,,http://www.imdb.com/title/tt0050764/,no,no,no,no,no
+429,0,"Le corbeau",1943,http://www.icheckmovies.com/movies/le+corbeau/,1611,167,7,8,215,"Le Corbeau",http://www.imdb.com/title/tt0035753/,"2018-12-03 15:26:54",no,no,no,no
+430,0,Bewitched,1945,http://www.icheckmovies.com/movies/bewitched-1945/,94,0,2,1,28,,http://www.imdb.com/title/tt0037539/,no,no,no,no,no
+431,0,"Shock Corridor",1963,http://www.icheckmovies.com/movies/shock+corridor/,2866,231,28,14,265,,http://www.imdb.com/title/tt0057495/,"2018-04-26 21:35:43",no,no,no,no
+432,0,"Dial 1119",1950,http://www.icheckmovies.com/movies/dial+1119/,136,2,1,1,32,"The Violent Hour",http://www.imdb.com/title/tt0042397/,"2018-11-08 01:06:23",no,no,no,no
+433,0,"Time Table",1956,http://www.icheckmovies.com/movies/time+table/,73,4,0,1,23,,http://www.imdb.com/title/tt0049857/,no,no,no,no,no
+434,0,"The Lawless",1950,http://www.icheckmovies.com/movies/the+lawless/,76,1,1,1,39,"The Dividing Line",http://www.imdb.com/title/tt0042669/,no,no,no,no,no
+435,0,"House of Games",1987,http://www.icheckmovies.com/movies/house+of+games/,2527,176,34,8,175,,http://www.imdb.com/title/tt0093223/,"2018-11-27 15:38:11",no,no,no,no
+436,0,"Born to Be Bad",1950,http://www.icheckmovies.com/movies/born+to+be+bad/,229,9,0,1,40,,http://www.imdb.com/title/tt0042275/,"2018-11-08 01:06:20",no,no,no,no
+437,0,"Flamingo Road",1949,http://www.icheckmovies.com/movies/flamingo+road/,225,6,0,1,55,,http://www.imdb.com/title/tt0041373/,"2018-11-08 01:05:56",no,no,no,no
+438,0,Brainstorm,1965,http://www.icheckmovies.com/movies/brainstorm/,114,1,0,2,32,,http://www.imdb.com/title/tt0058990/,"2018-11-08 00:25:26",no,no,no,no
+439,0,"À bout de souffle",1960,http://www.icheckmovies.com/movies/a+bout+de+souffle/,14613,1642,126,28,718,Breathless,http://www.imdb.com/title/tt0053472/,"2018-04-26 21:33:49",no,no,no,no
+440,0,Moontide,1942,http://www.icheckmovies.com/movies/moontide/,162,6,2,1,42,,http://www.imdb.com/title/tt0035082/,"2018-11-08 01:03:39",no,no,no,no
+441,0,Pickup,1951,http://www.icheckmovies.com/movies/pickup/,66,1,1,1,21,,http://www.imdb.com/title/tt0043919/,no,no,no,no,no
+442,0,"Johnny Stool Pigeon",1949,http://www.icheckmovies.com/movies/johnny+stool+pigeon/,32,0,0,1,22,,http://www.imdb.com/title/tt0041529/,no,no,no,no,no
+443,0,"Whistle Stop",1946,http://www.icheckmovies.com/movies/whistle+stop/,100,1,3,1,27,,http://www.imdb.com/title/tt0039101/,no,no,no,no,no
+444,0,"The Great Flamarion",1945,http://www.icheckmovies.com/movies/the+great+flamarion/,109,5,0,1,32,,http://www.imdb.com/title/tt0037749/,no,no,no,no,no
+445,0,"A Cry in the Night",1956,http://www.icheckmovies.com/movies/a+cry+in+the+night/,82,1,1,1,32,,http://www.imdb.com/title/tt0049110/,no,no,no,no,no
+446,0,"Make Haste to Live",1954,http://www.icheckmovies.com/movies/make+haste+to+live/,30,0,1,1,23,,http://www.imdb.com/title/tt0047205/,no,no,no,no,no
+447,0,"The Man with My Face",1951,http://www.icheckmovies.com/movies/the+man+with+my+face/,59,0,0,1,21,,http://www.imdb.com/title/tt0121515/,no,no,no,no,no
+448,0,"The Killing of a Chinese Bookie",1976,http://www.icheckmovies.com/movies/the+killing+of+a+chinese+bookie/,2494,258,22,8,233,,http://www.imdb.com/title/tt0074749/,"2018-12-03 15:26:49",no,no,no,no
+449,0,"Three Strangers",1946,http://www.icheckmovies.com/movies/three+strangers/,151,9,0,1,35,,http://www.imdb.com/title/tt0039029/,no,no,no,no,no
+450,0,"Escape in the Fog",1945,http://www.icheckmovies.com/movies/escape+in+the+fog/,70,3,0,1,30,,http://www.imdb.com/title/tt0037678/,no,no,no,no,no
+451,0,"Two of a Kind",1951,http://www.icheckmovies.com/movies/two+of+a+kind-1951-1/,65,2,0,1,27,,http://www.imdb.com/title/tt0044159/,no,no,no,no,no
+452,0,"Screaming Mimi",1958,http://www.icheckmovies.com/movies/screaming+mimi/,68,2,0,1,42,,http://www.imdb.com/title/tt0052168/,no,no,no,no,no
+453,0,Backfire,1950,http://www.icheckmovies.com/movies/backfire-1950-1/,130,1,1,1,35,,http://www.imdb.com/title/tt0042219/,"2018-11-08 01:06:14",no,no,no,no
+454,0,"The Criminal",1960,http://www.icheckmovies.com/movies/the+criminal/,143,6,2,2,46,"Concrete Jungle",http://www.imdb.com/title/tt0053740/,"2018-11-08 00:27:48",no,no,no,no
+455,0,"The Raging Tide",1951,http://www.icheckmovies.com/movies/the+raging+tide/,16,0,1,1,20,,http://www.imdb.com/title/tt0043957/,no,no,no,no,no
+456,0,"Night Without Sleep",1952,http://www.icheckmovies.com/movies/night+without+sleep/,39,0,2,1,19,,http://www.imdb.com/title/tt0044967/,no,no,no,no,no
+457,0,"The Hoodlum",1951,http://www.icheckmovies.com/movies/the+hoodlum-1951-1/,113,2,0,1,32,,http://www.imdb.com/title/tt0043655/,no,no,no,no,no
+458,0,"House of Numbers",1957,http://www.icheckmovies.com/movies/house+of+numbers/,55,0,0,1,25,,http://www.imdb.com/title/tt0050526/,no,no,no,no,no
+459,0,"The Las Vegas Story",1952,http://www.icheckmovies.com/movies/the+las+vegas+story/,116,4,1,1,31,,http://www.imdb.com/title/tt0044825/,no,no,no,no,no
+460,0,"It Always Rains on Sunday",1947,http://www.icheckmovies.com/movies/it+always+rains+on+sunday/,302,22,3,4,74,,http://www.imdb.com/title/tt0040481/,no,no,no,no,no
+461,0,"Race Street",1948,http://www.icheckmovies.com/movies/race+street/,51,0,0,1,14,,http://www.imdb.com/title/tt0040719/,no,no,no,no,no
+462,0,Illegal,1955,http://www.icheckmovies.com/movies/illegal/,154,9,2,1,36,,http://www.imdb.com/title/tt0048199/,"2018-11-08 01:07:46",no,no,no,no
+463,0,"The Secret Fury",1950,http://www.icheckmovies.com/movies/the+secret+fury/,81,1,1,1,25,,http://www.imdb.com/title/tt0042935/,no,no,no,no,no
+464,0,"Wicked Woman",1953,http://www.icheckmovies.com/movies/wicked+woman/,58,2,0,1,22,,http://www.imdb.com/title/tt0047676/,no,no,no,no,no
+465,0,"No Questions Asked",1951,http://www.icheckmovies.com/movies/no+questions+asked/,65,3,0,1,24,,http://www.imdb.com/title/tt0043861/,no,no,no,no,no
+466,0,"The Unfaithful",1947,http://www.icheckmovies.com/movies/the+unfaithful/,87,1,1,1,34,,http://www.imdb.com/title/tt0039937/,"2018-11-08 01:05:35",no,no,no,no
+467,0,Crashout,1955,http://www.icheckmovies.com/movies/crashout/,71,6,0,1,31,,http://www.imdb.com/title/tt0047958/,no,no,no,no,no
+468,0,"Cat People",1942,http://www.icheckmovies.com/movies/cat+people/,5204,324,28,13,387,,http://www.imdb.com/title/tt0034587/,"2018-11-01 22:56:49",no,no,no,no
+469,0,"Strange Triangle",1946,http://www.icheckmovies.com/movies/strange+triangle/,27,0,1,1,13,"Strange Alibi",http://www.imdb.com/title/tt0038989/,no,no,no,no,no
+470,0,"The Driver",1978,http://www.icheckmovies.com/movies/the+driver/,1643,111,10,5,150,,http://www.imdb.com/title/tt0077474/,"2018-10-17 01:42:09",no,no,no,no
+471,0,"Alphaville, une étrange aventure de Lemmy Caution",1965,http://www.icheckmovies.com/movies/alphaville+une+etrange+aventure+de+lemmy+caution/,5222,379,111,14,319,Alphaville,http://www.imdb.com/title/tt0058898/,"2018-10-29 22:09:42",no,no,no,no
+472,0,"Under the Gun",1951,http://www.icheckmovies.com/movies/under+the+gun-1951/,24,0,0,1,19,,http://www.imdb.com/title/tt0043086/,no,no,no,no,no
+473,0,"The Hunted",1948,http://www.icheckmovies.com/movies/the+hunted-1948/,40,1,0,1,21,,http://www.imdb.com/title/tt0040455/,no,no,no,no,no
+474,0,"A Place in the Sun",1951,http://www.icheckmovies.com/movies/a+place+in+the+sun/,3304,216,21,13,300,,http://www.imdb.com/title/tt0043924/,"2018-06-11 13:09:30",no,no,no,no
+475,0,"The Capture",1950,http://www.icheckmovies.com/movies/the+capture/,66,0,3,1,22,,http://www.imdb.com/title/tt0042313/,no,no,no,no,no
+476,0,"To Have and Have Not",1944,http://www.icheckmovies.com/movies/to+have+and+have+not/,4955,365,26,14,272,,http://www.imdb.com/title/tt0037382/,"2018-04-26 21:28:59",no,no,no,no
+477,0,"The Good Die Young",1954,http://www.icheckmovies.com/movies/the+good+die+young/,72,3,0,1,20,,http://www.imdb.com/title/tt0047040/,no,no,no,no,no
+478,0,"Cutter's Way",1981,http://www.icheckmovies.com/movies/cutters+way/,855,57,10,6,113,"Cutter and Bone",http://www.imdb.com/title/tt0082220/,no,no,no,no,no
+479,0,"Pépé le Moko",1937,http://www.icheckmovies.com/movies/pepe+le+moko/,1485,130,9,8,239,,http://www.imdb.com/title/tt0029453/,"2018-12-03 15:26:50",no,no,no,no
+480,0,"Le jour se lève",1939,http://www.icheckmovies.com/movies/le+jour+se+leve/,1578,130,12,13,255,Daybreak,http://www.imdb.com/title/tt0031514/,"2018-04-26 21:28:00",no,no,no,no
+481,0,"Cry Terror!",1958,http://www.icheckmovies.com/movies/cry+terrorexclamation/,78,1,1,1,30,,http://www.imdb.com/title/tt0051501/,"2018-11-08 01:08:54",no,no,no,no
+482,0,"5 Against the House",1955,http://www.icheckmovies.com/movies/5+against+the+house/,140,1,1,1,34,,http://www.imdb.com/title/tt0048077/,"2018-11-08 01:07:43",no,no,no,no
+483,0,"The Money Trap",1965,http://www.icheckmovies.com/movies/the+money+trap/,70,0,2,1,24,,http://www.imdb.com/title/tt0059460/,no,no,no,no,no
+484,0,"City Streets",1931,http://www.icheckmovies.com/movies/city+streets/,241,15,3,2,69,,http://www.imdb.com/title/tt0021750/,"2018-11-25 23:53:58",no,no,no,no
+485,0,"Voice in the Wind",1944,http://www.icheckmovies.com/movies/voice+in+the+wind/,55,1,0,1,37,,http://www.imdb.com/title/tt0037438/,no,no,no,no,no
+486,0,Jigsaw,1949,http://www.icheckmovies.com/movies/jigsaw/,93,2,2,1,24,,http://www.imdb.com/title/tt0041523/,no,no,no,no,no
+487,0,"Murder by Proxy",1954,http://www.icheckmovies.com/movies/murder+by+proxy/,43,0,0,1,20,,http://www.imdb.com/title/tt0046792/,no,no,no,no,no
+488,0,"Strange Fascination",1952,http://www.icheckmovies.com/movies/strange+fascination/,29,0,2,1,18,,http://www.imdb.com/title/tt0045199/,no,no,no,no,no
+489,0,"One False Move",1992,http://www.icheckmovies.com/movies/one+false+move/,825,35,10,5,101,,http://www.imdb.com/title/tt0102592/,no,no,no,no,no
+490,0,"A Simple Plan",1998,http://www.icheckmovies.com/movies/a+simple+plan/,3104,230,29,2,148,,http://www.imdb.com/title/tt0120324/,"2018-04-28 15:58:47",no,no,no,no
+491,0,"The Steel Trap",1952,http://www.icheckmovies.com/movies/the+steel+trap/,106,3,0,1,39,,http://www.imdb.com/title/tt0045190/,no,no,no,no,no
+492,0,"The Big Bluff",1955,http://www.icheckmovies.com/movies/the+big+bluff/,78,2,0,1,17,"Worthy Deceivers",http://www.imdb.com/title/tt0047877/,no,no,no,no,no
+493,0,Deception,1946,http://www.icheckmovies.com/movies/deception-1946/,241,16,0,1,58,,http://www.imdb.com/title/tt0038461/,"2018-11-08 01:03:58",no,no,no,no
+494,0,"Shadow on the Wall",1950,http://www.icheckmovies.com/movies/shadow+on+the+wall/,75,2,0,1,24,,http://www.imdb.com/title/tt0042952/,no,no,no,no,no
+495,0,"Gambling House",1950,http://www.icheckmovies.com/movies/gambling+house/,41,0,0,1,21,,http://www.imdb.com/title/tt0042496/,no,no,no,no,no
+496,0,"Shack Out on 101",1955,http://www.icheckmovies.com/movies/shack+out+on+101/,77,3,0,1,34,,http://www.imdb.com/title/tt0048607/,no,no,no,no,no
+497,0,Drive,2011,http://www.icheckmovies.com/movies/drive-2011/,49211,5641,558,4,769,,http://www.imdb.com/title/tt0780504/,"2018-04-26 21:53:39",no,no,no,no
+498,0,"The Outfit",1973,http://www.icheckmovies.com/movies/the+outfit/,212,11,2,1,55,,http://www.imdb.com/title/tt0071960/,"2018-11-08 01:16:51",no,no,no,no
+499,0,"Blues in the Night",1941,http://www.icheckmovies.com/movies/blues+in+the+night/,139,5,0,1,68,,http://www.imdb.com/title/tt0033409/,no,no,no,no,no
+500,0,"Série noire",1979,http://www.icheckmovies.com/movies/serie+noire/,280,33,1,3,116,,http://www.imdb.com/title/tt0079980/,"2018-10-17 02:20:30",no,no,no,no
+501,0,"Riot in Cell Block 11",1954,http://www.icheckmovies.com/movies/riot+in+cell+block+11/,351,8,2,2,65,,http://www.imdb.com/title/tt0047417/,no,no,no,no,no
+502,0,"Parole, Inc.",1948,http://www.icheckmovies.com/movies/parole+inc./,59,1,0,1,16,,http://www.imdb.com/title/tt0041733/,no,no,no,no,no
+503,0,"Key Witness",1947,http://www.icheckmovies.com/movies/key+witness/,28,0,0,1,15,,http://www.imdb.com/title/tt0039529/,no,no,no,no,no
+504,0,"Female on the Beach",1955,http://www.icheckmovies.com/movies/female+on+the+beach/,85,1,3,1,23,,http://www.imdb.com/title/tt0048064/,no,no,no,no,no
+505,0,Bound,1996,http://www.icheckmovies.com/movies/bound/,3397,266,27,4,179,,http://www.imdb.com/title/tt0115736/,"2018-04-28 16:02:05",no,no,no,no
+506,0,"City Across the River",1949,http://www.icheckmovies.com/movies/city+across+the+river/,22,0,0,1,18,,http://www.imdb.com/title/tt0041251/,no,no,no,no,no
+507,0,Undertow,1949,http://www.icheckmovies.com/movies/undertow-1949-1/,50,1,0,1,22,,http://www.imdb.com/title/tt0042007/,no,no,no,no,no
+508,0,"Rage in Heaven",1941,http://www.icheckmovies.com/movies/rage+in+heaven/,97,1,0,1,22,,http://www.imdb.com/title/tt0034078/,no,no,no,no,no
+509,0,"The Whistler",1944,http://www.icheckmovies.com/movies/the+whistler/,114,0,0,1,26,,http://www.imdb.com/title/tt0037461/,no,no,no,no,no
+510,0,"Highway Dragnet",1954,http://www.icheckmovies.com/movies/highway+dragnet/,66,0,0,1,26,,http://www.imdb.com/title/tt0047087/,no,no,no,no,no
+511,0,"The Spider",1945,http://www.icheckmovies.com/movies/the+spider-1945/,25,0,0,1,14,,http://www.imdb.com/title/tt0038110/,no,no,no,no,no
+512,0,"Outside the Wall",1950,http://www.icheckmovies.com/movies/outside+the+wall/,21,0,0,1,18,,http://www.imdb.com/title/tt0042826/,no,no,no,no,no
+513,0,"Female Jungle",1956,http://www.icheckmovies.com/movies/female+jungle/,58,0,0,1,25,"The Hangover",http://www.imdb.com/title/tt0049204/,no,no,no,no,no
+514,0,"They Made Me a Killer",1946,http://www.icheckmovies.com/movies/they+made+me+a+killer/,62,0,0,1,28,,http://www.imdb.com/title/tt0039023/,no,no,no,no,no
+515,0,"The Unseen",1945,http://www.icheckmovies.com/movies/the+unseen/,30,0,0,1,24,,http://www.imdb.com/title/tt0038205/,no,no,no,no,no
+516,0,"Dangerous Crossing",1953,http://www.icheckmovies.com/movies/dangerous+crossing/,141,6,1,1,23,,http://www.imdb.com/title/tt0045669/,"2018-11-08 01:07:15",no,no,no,no
+517,0,"Women's Prison",1955,http://www.icheckmovies.com/movies/womens+prison/,78,0,0,1,24,,http://www.imdb.com/title/tt0048811/,no,no,no,no,no
+518,0,"Whispering City",1947,http://www.icheckmovies.com/movies/whispering+city/,48,0,0,1,25,,http://www.imdb.com/title/tt0039986/,no,no,no,no,no
+519,0,"Shadow of a Woman",1946,http://www.icheckmovies.com/movies/shadow+of+a+woman/,30,0,0,1,15,,http://www.imdb.com/title/tt0038927/,no,no,no,no,no
+520,0,"Hunt the Man Down",1950,http://www.icheckmovies.com/movies/hunt+the+man+down/,58,1,0,1,18,,http://www.imdb.com/title/tt0042582/,no,no,no,no,no
+521,0,Underworld,1927,http://www.icheckmovies.com/movies/underworld/,879,62,4,8,155,"Paying the Penalty",http://www.imdb.com/title/tt0018526/,"2018-12-03 15:26:54",no,no,no,no
+522,0,"The Naked Street",1955,http://www.icheckmovies.com/movies/the+naked+street/,96,1,0,1,25,,http://www.imdb.com/title/tt0048412/,no,no,no,no,no
+523,0,"The Glass Web",1953,http://www.icheckmovies.com/movies/the+glass+web/,43,1,0,1,20,,http://www.imdb.com/title/tt0045825/,no,no,no,no,no
+524,0,"The Sleeping Tiger",1954,http://www.icheckmovies.com/movies/the+sleeping+tiger/,100,2,0,1,32,,http://www.imdb.com/title/tt0047505/,no,no,no,no,no
+525,0,"Der amerikanische Freund",1977,http://www.icheckmovies.com/movies/der+amerikanische+freund/,2262,188,17,7,245,"The American Friend",http://www.imdb.com/title/tt0075675/,"2018-04-26 21:40:52",no,no,no,no
+526,0,"The Flanagan Boy",1953,http://www.icheckmovies.com/movies/the+flanagan+boy/,35,0,0,1,21,"Bad Blonde",http://www.imdb.com/title/tt0045533/,no,no,no,no,no
+527,0,"Apology for Murder",1945,http://www.icheckmovies.com/movies/apology+for+murder/,44,0,2,1,17,,http://www.imdb.com/title/tt0037518/,no,no,no,no,no
+528,0,"The House Across the Lake",1954,http://www.icheckmovies.com/movies/the+house+across+the+lake/,55,2,0,1,19,"Heat Wave",http://www.imdb.com/title/tt0047067/,no,no,no,no,no
+529,0,"Strangers in the Night",1944,http://www.icheckmovies.com/movies/strangers+in+the+night/,106,1,1,1,27,,http://www.imdb.com/title/tt0037318/,no,no,no,no,no
+530,0,"Short Cut to Hell",1957,http://www.icheckmovies.com/movies/short+cut+to+hell/,38,0,0,1,20,,http://www.imdb.com/title/tt0050964/,no,no,no,no,no
+531,0,"Crime in the Streets",1956,http://www.icheckmovies.com/movies/crime+in+the+streets/,135,3,1,1,28,,http://www.imdb.com/title/tt0049107/,"2018-11-08 01:07:51",no,no,no,no
+532,0,"The French Connection",1971,http://www.icheckmovies.com/movies/the+french+connection/,15128,892,77,19,528,,http://www.imdb.com/title/tt0067116/,"2018-04-26 21:38:15",no,no,no,no
+533,0,"The Beast of the City",1932,http://www.icheckmovies.com/movies/the+beast+of+the+city/,127,3,1,1,47,,http://www.imdb.com/title/tt0022660/,no,no,no,no,no
+534,0,"This Side of the Law",1950,http://www.icheckmovies.com/movies/this+side+of+the+law/,39,1,0,1,16,,http://www.imdb.com/title/tt0043040/,no,no,no,no,no
+535,0,"Flaxy Martin",1949,http://www.icheckmovies.com/movies/flaxy+martin/,59,0,0,1,18,,http://www.imdb.com/title/tt0041374/,no,no,no,no,no
+536,0,"Kill Me Again",1989,http://www.icheckmovies.com/movies/kill+me+again/,240,4,4,1,25,,http://www.imdb.com/title/tt0097662/,no,no,no,no,no
+537,0,"Two O'Clock Courage",1945,http://www.icheckmovies.com/movies/two+oclock+courage/,101,5,0,1,32,,http://www.imdb.com/title/tt0038199/,no,no,no,no,no
+538,0,"The Limey",1999,http://www.icheckmovies.com/movies/the+limey/,2947,191,38,4,118,,http://www.imdb.com/title/tt0165854/,"2018-10-17 22:24:24",no,no,no,no
+539,0,"Dead Men Don't Wear Plaid",1982,http://www.icheckmovies.com/movies/dead+men+dont+wear+plaid/,1704,101,17,3,77,"Dead Men Wear No Plaid",http://www.imdb.com/title/tt0083798/,no,no,no,no,no
+540,0,"The Sun Sets at Dawn",1950,http://www.icheckmovies.com/movies/the+sun+sets+at+dawn/,44,0,0,1,15,,http://www.imdb.com/title/tt0044088/,no,no,no,no,no
+541,0,"The Big Sleep",1978,http://www.icheckmovies.com/movies/the+big+sleep-1978-1/,286,4,8,1,38,,http://www.imdb.com/title/tt0077234/,"2018-11-08 01:17:58",no,no,no,no
+542,0,"Second Chance",1953,http://www.icheckmovies.com/movies/second+chance/,77,2,3,1,24,,http://www.imdb.com/title/tt0046288/,no,no,no,no,no
+543,0,"Blood on the Moon",1948,http://www.icheckmovies.com/movies/blood+on+the+moon/,231,13,0,1,100,,http://www.imdb.com/title/tt0040175/,"2018-11-08 01:05:38",no,no,no,no
+544,0,"The Mark of the Whistler",1944,http://www.icheckmovies.com/movies/the+mark+of+the+whistler/,54,2,1,1,19,"The Marked Man",http://www.imdb.com/title/tt0037049/,no,no,no,no,no
+545,0,"The Fallen Idol",1948,http://www.icheckmovies.com/movies/the+fallen+idol/,1518,166,13,8,187,"The Lost Illusion",http://www.imdb.com/title/tt0040338/,no,no,no,no,no
+546,0,Riffraff,1947,http://www.icheckmovies.com/movies/riffraff-1947/,66,4,0,1,26,,http://www.imdb.com/title/tt0039772/,no,no,no,no,no
+547,0,"Time Without Pity",1957,http://www.icheckmovies.com/movies/time+without+pity/,143,5,3,1,47,,http://www.imdb.com/title/tt0049856/,"2018-11-08 01:08:07",no,no,no,no
+548,0,"The Price of Fear",1956,http://www.icheckmovies.com/movies/the+price+of+fear-1956/,33,0,0,1,15,,http://www.imdb.com/title/tt0049636/,no,no,no,no,no
+549,0,"Walk a Crooked Mile",1948,http://www.icheckmovies.com/movies/walk+a+crooked+mile/,39,0,2,1,21,,http://www.imdb.com/title/tt0040947/,no,no,no,no,no
+550,0,"The Limping Man",1953,http://www.icheckmovies.com/movies/the+limping+man/,69,1,0,1,24,,http://www.imdb.com/title/tt0046001/,no,no,no,no,no
+551,0,"No Escape",1953,http://www.icheckmovies.com/movies/no+escape-1953/,48,0,1,1,16,,http://www.imdb.com/title/tt0046130/,"2018-11-08 01:07:15",no,no,no,no
+552,0,"High Tide",1947,http://www.icheckmovies.com/movies/high+tide-1947/,30,1,0,1,19,,http://www.imdb.com/title/tt0039463/,no,no,no,no,no
+553,0,Dillinger,1945,http://www.icheckmovies.com/movies/dillinger/,210,1,2,1,44,,http://www.imdb.com/title/tt0037644/,"2018-11-08 01:03:52",no,no,no,no
+554,0,"The October Man",1947,http://www.icheckmovies.com/movies/the+october+man/,92,6,0,1,26,,http://www.imdb.com/title/tt0039676/,"2018-11-08 01:05:28",no,no,no,no
+555,0,Jealousy,1945,http://www.icheckmovies.com/movies/jealousy-1945-1/,34,0,0,1,18,,http://www.imdb.com/title/tt0037829/,no,no,no,no,no
+556,0,"Affair in Havana",1957,http://www.icheckmovies.com/movies/affair+in+havana/,56,1,1,1,18,,http://www.imdb.com/title/tt0050103/,no,no,no,no,no
+557,0,"Koroshi no rakuin",1967,http://www.icheckmovies.com/movies/koroshi+no+rakuin/,1899,166,18,8,195,"Branded to Kill",http://www.imdb.com/title/tt0061882/,"2018-12-04 15:04:03",no,no,no,no
+558,0,Backlash,1947,http://www.icheckmovies.com/movies/backlash/,49,0,1,1,20,,http://www.imdb.com/title/tt0039170/,no,no,no,no,no
+559,0,"The Two Jakes",1990,http://www.icheckmovies.com/movies/the+two+jakes/,568,9,11,1,40,,http://www.imdb.com/title/tt0100828/,"2018-11-08 01:25:02",no,no,no,no
+560,0,"Out of the Fog",1941,http://www.icheckmovies.com/movies/out+of+the+fog/,147,5,1,1,33,,http://www.imdb.com/title/tt0033987/,"2018-11-08 01:03:31",no,no,no,no
+561,0,"The Paradine Case",1947,http://www.icheckmovies.com/movies/the+paradine+case/,1066,24,23,1,62,,http://www.imdb.com/title/tt0039694/,"2018-11-08 01:05:33",no,no,no,no
+562,0,Destiny,1944,http://www.icheckmovies.com/movies/destiny-1944-1/,37,2,0,1,20,,http://www.imdb.com/title/tt0036757/,no,no,no,no,no
+563,0,"Storm Warning",1951,http://www.icheckmovies.com/movies/storm+warning-1951/,131,3,1,1,47,,http://www.imdb.com/title/tt0044075/,"2018-11-08 01:06:57",no,no,no,no
+564,0,"A Dangerous Profession",1949,http://www.icheckmovies.com/movies/a+dangerous+profession/,67,1,2,1,21,,http://www.imdb.com/title/tt0041278/,no,no,no,no,no
+565,0,"Finger Man",1955,http://www.icheckmovies.com/movies/finger+man/,28,0,0,1,13,,http://www.imdb.com/title/tt0048072/,no,no,no,no,no
+566,0,"I Love Trouble",1948,http://www.icheckmovies.com/movies/i+love+trouble-1948-1/,46,1,1,1,23,,http://www.imdb.com/title/tt0040457/,no,no,no,no,no
+567,0,"Little Caesar",1931,http://www.icheckmovies.com/movies/little+caesar/,2513,94,15,9,243,,http://www.imdb.com/title/tt0021079/,"2018-06-11 13:05:35",no,no,no,no
+568,0,"Man in the Dark",1953,http://www.icheckmovies.com/movies/man+in+the+dark/,71,0,0,1,24,,http://www.imdb.com/title/tt0046036/,no,no,no,no,no
+569,0,Julie,1956,http://www.icheckmovies.com/movies/julie/,126,1,3,1,41,,http://www.imdb.com/title/tt0049388/,no,no,no,no,no
+570,0,"The Hot Spot",1990,http://www.icheckmovies.com/movies/the+hot+spot/,494,21,8,1,39,,http://www.imdb.com/title/tt0099797/,"2018-11-08 01:24:57",no,no,no,no
+571,0,'C'-Man,1949,http://www.icheckmovies.com/movies/c-man/,45,1,0,1,14,,http://www.imdb.com/title/tt0041218/,no,no,no,no,no
+572,0,"36 Hours",1953,http://www.icheckmovies.com/movies/36+hours-1953/,39,0,0,1,21,"Terror Street",http://www.imdb.com/title/tt0046411/,no,no,no,no,no
+573,0,"Hit and Run",1957,http://www.icheckmovies.com/movies/hit+and+run-1957/,33,0,0,1,18,,http://www.imdb.com/title/tt0050512/,no,no,no,no,no
+574,0,"True Romance",1993,http://www.icheckmovies.com/movies/true+romance/,16949,1653,73,5,348,,http://www.imdb.com/title/tt0108399/,"2018-04-28 16:06:08",no,no,no,no
+575,0,"Blind Spot",1947,http://www.icheckmovies.com/movies/blind+spot-1947/,23,0,0,1,20,,http://www.imdb.com/title/tt0039197/,no,no,no,no,no
+576,0,"The Long Good Friday",1980,http://www.icheckmovies.com/movies/the+long+good+friday/,2787,214,16,10,188,,http://www.imdb.com/title/tt0081070/,"2018-04-28 23:03:24",no,no,no,no
+577,0,"Le deuxième souffle",1966,http://www.icheckmovies.com/movies/le+deuxieme+souffle/,882,81,4,6,174,"Second Breath",http://www.imdb.com/title/tt0060305/,"2018-10-17 01:34:43",no,no,no,no
+578,0,"Inner Sanctum",1948,http://www.icheckmovies.com/movies/inner+sanctum-1948-1/,93,1,2,1,29,,http://www.imdb.com/title/tt0040472/,no,no,no,no,no
+579,0,"Chicago Confidential",1957,http://www.icheckmovies.com/movies/chicago+confidential/,43,0,0,1,15,,http://www.imdb.com/title/tt0050249/,"2018-11-08 01:08:17",no,no,no,no
+580,0,"Lost Highway",1997,http://www.icheckmovies.com/movies/lost+highway/,12218,1320,135,8,403,,http://www.imdb.com/title/tt0116922/,"2018-04-28 16:01:05",no,no,no,no
+581,0,"A Bullet for Joey",1955,http://www.icheckmovies.com/movies/a+bullet+for+joey/,104,1,0,1,26,,http://www.imdb.com/title/tt0047904/,"2018-11-08 01:07:36",no,no,no,no
+582,0,"Hickey & Boggs",1972,http://www.icheckmovies.com/movies/hickey+and+boggs/,70,3,2,1,28,,http://www.imdb.com/title/tt0068698/,no,no,no,no,no
+583,0,"Le salaire de la peur",1953,http://www.icheckmovies.com/movies/le+salaire+de+la+peur/,6888,1132,50,24,546,"The Wages of Fear",http://www.imdb.com/title/tt0046268/,"2018-01-10 16:59:22",no,no,no,no
+584,0,Blackmail,1947,http://www.icheckmovies.com/movies/blackmail-1947/,37,0,0,1,17,,http://www.imdb.com/title/tt0039194/,no,no,no,no,no
+585,0,"The Sellout",1952,http://www.icheckmovies.com/movies/the+sellout/,47,0,0,1,21,,http://www.imdb.com/title/tt0045135/,no,no,no,no,no
+586,0,Collateral,2004,http://www.icheckmovies.com/movies/collateral/,33517,1522,172,4,332,,http://www.imdb.com/title/tt0369339/,"2018-01-31 08:55:39",no,no,no,no
+587,0,"The Beat Generation",1959,http://www.icheckmovies.com/movies/the+beat+generation/,58,0,6,1,25,,http://www.imdb.com/title/tt0052610/,no,no,no,no,no
+588,0,"Hell Is a City",1960,http://www.icheckmovies.com/movies/hell+is+a+city/,91,8,1,2,38,,http://www.imdb.com/title/tt0053900/,no,no,no,no,no
+589,0,"The Velvet Touch",1948,http://www.icheckmovies.com/movies/the+velvet+touch/,63,2,0,1,18,,http://www.imdb.com/title/tt0040934/,no,no,no,no,no
+590,0,Madigan,1968,http://www.icheckmovies.com/movies/madigan/,241,7,5,1,41,,http://www.imdb.com/title/tt0063256/,"2018-11-08 01:12:28",no,no,no,no
+591,0,"Lightning Strikes Twice",1951,http://www.icheckmovies.com/movies/lightning+strikes+twice-1951-1/,78,4,1,1,30,,http://www.imdb.com/title/tt0043744/,"2018-11-08 01:06:46",no,no,no,no
+592,0,"Inside Job",1946,http://www.icheckmovies.com/movies/inside+job-1946/,33,0,1,1,14,,http://www.imdb.com/title/tt0038643/,no,no,no,no,no
+593,0,"Coup de torchon",1981,http://www.icheckmovies.com/movies/coup+de+torchon/,622,45,5,5,146,"Clean Slate",http://www.imdb.com/title/tt0082206/,no,no,no,no,no
+594,0,"The Shadow on the Window",1957,http://www.icheckmovies.com/movies/the+shadow+on+the+window/,39,1,0,1,17,,http://www.imdb.com/title/tt0049748/,"2018-11-08 01:08:03",no,no,no,no
+595,0,"Jackie Brown",1997,http://www.icheckmovies.com/movies/jackie+brown/,26967,1681,169,5,406,,http://www.imdb.com/title/tt0119396/,"2018-04-28 23:02:03",no,no,no,no
+596,0,"Circumstantial Evidence",1945,http://www.icheckmovies.com/movies/circumstantial+evidence-1945-1/,29,0,1,1,16,,http://www.imdb.com/title/tt0037598/,no,no,no,no,no
+597,0,Temptation,1946,http://www.icheckmovies.com/movies/temptation-1946/,17,0,0,1,14,,http://www.imdb.com/title/tt0039015/,no,no,no,no,no
+598,0,"The Lady Confesses",1945,http://www.icheckmovies.com/movies/the+lady+confesses/,71,1,1,1,18,,http://www.imdb.com/title/tt0037858/,no,no,no,no,no
+599,0,"Stolen Face",1952,http://www.icheckmovies.com/movies/stolen+face/,66,0,1,1,26,,http://www.imdb.com/title/tt0045191/,no,no,no,no,no
+600,0,"No Way Out",1987,http://www.icheckmovies.com/movies/no+way+out-1987/,1247,49,11,1,63,,http://www.imdb.com/title/tt0093640/,"2018-11-08 01:23:05",no,no,no,no
+601,0,"Kiss Kiss Bang Bang",2005,http://www.icheckmovies.com/movies/kiss+kiss+bang+bang/,26292,2347,152,5,324,,http://www.imdb.com/title/tt0373469/,"2018-10-17 01:44:47",no,no,no,no
+602,0,"Specter of the Rose",1946,http://www.icheckmovies.com/movies/specter+of+the+rose/,60,3,3,2,34,,http://www.imdb.com/title/tt0038973/,no,no,no,no,no
+603,0,Larceny,1948,http://www.icheckmovies.com/movies/larceny/,26,2,0,1,18,,http://www.imdb.com/title/tt0039550/,no,no,no,no,no
+604,0,"Whispering Footsteps",1943,http://www.icheckmovies.com/movies/whispering+footsteps/,46,0,0,1,19,,http://www.imdb.com/title/tt0036531/,no,no,no,no,no
+605,0,"The Arnelo Affair",1947,http://www.icheckmovies.com/movies/the+arnelo+affair/,46,0,0,1,17,,http://www.imdb.com/title/tt0039160/,no,no,no,no,no
+606,0,"Edge of the City",1957,http://www.icheckmovies.com/movies/edge+of+the+city/,203,19,0,1,47,"A Man Is Ten Feet Tall",http://www.imdb.com/title/tt0050347/,no,no,no,no,no
+607,0,"Man in the Attic",1953,http://www.icheckmovies.com/movies/man+in+the+attic/,115,1,1,1,33,,http://www.imdb.com/title/tt0047209/,"2018-11-08 01:07:25",no,no,no,no
+608,0,"The Postman Always Rings Twice",1981,http://www.icheckmovies.com/movies/the+postman+always+rings+twice-1981-1/,1551,40,18,2,67,,http://www.imdb.com/title/tt0082934/,"2018-11-08 00:28:17",no,no,no,no
+609,0,"Ladies in Retirement",1941,http://www.icheckmovies.com/movies/ladies+in+retirement/,101,6,0,1,44,,http://www.imdb.com/title/tt0033802/,no,no,no,no,no
+610,0,"Deep Valley",1947,http://www.icheckmovies.com/movies/deep+valley/,69,4,1,1,28,,http://www.imdb.com/title/tt0039308/,"2018-11-08 01:04:04",no,no,no,no
+611,0,"The Crooked Web",1955,http://www.icheckmovies.com/movies/the+crooked+web/,39,1,0,1,13,,http://www.imdb.com/title/tt0047962/,no,no,no,no,no
+612,0,"The System",1953,http://www.icheckmovies.com/movies/the+system/,15,0,0,1,15,,http://www.imdb.com/title/tt0046389/,no,no,no,no,no
+613,0,"Corridor of Mirrors",1948,http://www.icheckmovies.com/movies/corridor+of+mirrors/,48,2,1,1,12,,http://www.imdb.com/title/tt0040246/,no,no,no,no,no
+614,0,"Wanted for Murder",1946,http://www.icheckmovies.com/movies/wanted+for+murder/,36,1,0,1,16,"A Voice in the Night",http://www.imdb.com/title/tt0039095/,no,no,no,no,no
+615,0,"Cast a Dark Shadow",1955,http://www.icheckmovies.com/movies/cast+a+dark+shadow/,117,10,0,1,32,,http://www.imdb.com/title/tt0050233/,no,no,no,no,no
+616,0,"All the King's Men",1949,http://www.icheckmovies.com/movies/all+the+kings+men/,2437,99,14,8,186,,http://www.imdb.com/title/tt0041113/,"2018-06-11 12:53:57",no,no,no,no
+617,0,"To the Ends of the Earth",1948,http://www.icheckmovies.com/movies/to+the+ends+of+the+earth/,46,1,0,1,19,,http://www.imdb.com/title/tt0040887/,no,no,no,no,no
+618,0,"The Leopard Man",1943,http://www.icheckmovies.com/movies/the+leopard+man/,915,43,4,3,129,,http://www.imdb.com/title/tt0036104/,no,no,no,no,no
+619,0,"The Small Back Room",1949,http://www.icheckmovies.com/movies/the+small+back+room/,482,31,5,4,72,"Hour of Glory",http://www.imdb.com/title/tt0041886/,no,no,no,no,no
+620,0,"Accused of Murder",1956,http://www.icheckmovies.com/movies/accused+of+murder/,37,0,0,1,18,,http://www.imdb.com/title/tt0048924/,no,no,no,no,no
+621,0,"King of New York",1990,http://www.icheckmovies.com/movies/king+of+new+york/,4097,176,33,6,159,,http://www.imdb.com/title/tt0099939/,"2018-04-26 21:46:25",no,no,no,no
+622,0,Noose,1948,http://www.icheckmovies.com/movies/noose/,45,2,0,1,23,,http://www.imdb.com/title/tt0040651/,"2018-11-08 01:05:43",no,no,no,no
+623,0,"Take One False Step",1949,http://www.icheckmovies.com/movies/take+one+false+step/,32,0,0,1,18,,http://www.imdb.com/title/tt0041945/,no,no,no,no,no
+624,0,"Charley Varrick",1973,http://www.icheckmovies.com/movies/charley+varrick/,863,69,8,4,127,,http://www.imdb.com/title/tt0069865/,"2018-06-11 12:58:43",no,no,no,no
+625,0,"Shed No Tears",1948,http://www.icheckmovies.com/movies/shed+no+tears/,53,1,1,1,15,,http://www.imdb.com/title/tt0040779/,no,no,no,no,no
+626,0,"Cry of the Hunted",1953,http://www.icheckmovies.com/movies/cry+of+the+hunted/,46,0,0,1,21,,http://www.imdb.com/title/tt0045661/,no,no,no,no,no
+627,0,"A History of Violence",2005,http://www.icheckmovies.com/movies/a+history+of+violence/,22170,1269,222,10,419,,http://www.imdb.com/title/tt0399146/,"2018-04-28 23:00:11",no,no,no,no
+628,0,"The Flame",1947,http://www.icheckmovies.com/movies/the+flame/,16,0,0,1,16,,http://www.imdb.com/title/tt0039386/,no,no,no,no,no
+629,0,"The Clouded Yellow",1950,http://www.icheckmovies.com/movies/the+clouded+yellow/,59,4,0,1,21,,http://www.imdb.com/title/tt0042333/,no,no,no,no,no
+630,0,"The Sign of the Ram",1948,http://www.icheckmovies.com/movies/the+sign+of+the+ram/,47,0,0,1,16,,http://www.imdb.com/title/tt0040785/,no,no,no,no,no
+631,0,"Le cercle rouge",1970,http://www.icheckmovies.com/movies/le+cercle+rouge/,3305,407,21,9,308,"Le Cercle Rouge",http://www.imdb.com/title/tt0065531/,"2018-06-14 00:49:23",no,no,no,no
+632,0,"Hell Drivers",1957,http://www.icheckmovies.com/movies/hell+drivers/,173,12,1,2,44,,http://www.imdb.com/title/tt0051713/,no,no,no,no,no
+633,0,"Casque d'or",1952,http://www.icheckmovies.com/movies/casque+dor/,1063,86,6,9,180,"Casque d'Or",http://www.imdb.com/title/tt0043386/,"2018-04-28 23:23:09",no,no,no,no
+634,0,Playgirl,1954,http://www.icheckmovies.com/movies/playgirl/,13,0,0,1,16,,http://www.imdb.com/title/tt0047355/,no,no,no,no,no
+635,0,"True Confessions",1981,http://www.icheckmovies.com/movies/true+confessions/,430,6,4,2,41,,http://www.imdb.com/title/tt0083232/,no,no,no,no,no
+636,0,"My Gun Is Quick",1957,http://www.icheckmovies.com/movies/my+gun+is+quick/,75,0,0,1,22,,http://www.imdb.com/title/tt0050737/,"2018-11-08 01:08:31",no,no,no,no
+637,0,"The Trap",1959,http://www.icheckmovies.com/movies/the+trap-1959/,34,1,0,1,16,,http://www.imdb.com/title/tt0053374/,no,no,no,no,no
+638,0,"Voice of the Whistler",1945,http://www.icheckmovies.com/movies/voice+of+the+whistler/,69,0,0,1,19,,http://www.imdb.com/title/tt0038230/,no,no,no,no,no
+639,0,"The Intimate Stranger",1956,http://www.icheckmovies.com/movies/the+intimate+stranger/,59,0,1,1,21,"Finger of Guilt",http://www.imdb.com/title/tt0049210/,no,no,no,no,no
+640,0,Sydney,1996,http://www.icheckmovies.com/movies/sydney/,2614,169,24,1,99,"Hard Eight",http://www.imdb.com/title/tt0119256/,no,no,no,no,no
+641,0,Harper,1966,http://www.icheckmovies.com/movies/harper/,608,24,4,2,72,"The Moving Target",http://www.imdb.com/title/tt0060490/,"2018-11-08 00:26:08",no,no,no,no
+642,0,Twilight,1998,http://www.icheckmovies.com/movies/twilight-1998/,382,10,8,1,33,,http://www.imdb.com/title/tt0119594/,no,no,no,no,no
+643,0,"Citizen Kane",1941,http://www.icheckmovies.com/movies/citizen+kane/,47141,4422,394,36,1275,,http://www.imdb.com/title/tt0033467/,"2018-04-26 21:28:18",no,no,no,no
+644,0,"Mulholland Falls",1996,http://www.icheckmovies.com/movies/mulholland+falls/,745,17,13,2,49,,http://www.imdb.com/title/tt0117107/,no,no,no,no,no
+645,0,"La chienne",1931,http://www.icheckmovies.com/movies/la+chienne/,947,57,11,10,179,"The Bitch",http://www.imdb.com/title/tt0021739/,"2018-04-26 21:26:59",no,no,no,no
+646,0,"Strange Bargain",1949,http://www.icheckmovies.com/movies/strange+bargain/,44,1,0,1,17,,http://www.imdb.com/title/tt0041926/,no,no,no,no,no
+647,0,"Une si jolie petite plage",1949,http://www.icheckmovies.com/movies/une+si+jolie+petite+plage/,208,22,1,5,112,"Such a Pretty Little Beach",http://www.imdb.com/title/tt0040917/,no,no,no,no,no
+648,0,"Jail Bait",1954,http://www.icheckmovies.com/movies/jail+bait/,190,2,24,1,32,"Hidden Face",http://www.imdb.com/title/tt0047127/,no,no,no,no,no
+649,0,"Invasion of the Body Snatchers",1956,http://www.icheckmovies.com/movies/invasion+of+the+body+snatchers/,12535,601,36,18,491,"Sleep No More",http://www.imdb.com/title/tt0049366/,"2018-04-26 21:32:46",no,no,no,no
+650,0,"Peeping Tom",1960,http://www.icheckmovies.com/movies/peeping+tom/,6944,659,40,20,471,"Face of Fear",http://www.imdb.com/title/tt0054167/,"2018-04-26 21:34:10",no,no,no,no
+651,0,"Crime Against Joe",1956,http://www.icheckmovies.com/movies/crime+against+joe/,59,0,1,1,16,,http://www.imdb.com/title/tt0049105/,no,no,no,no,no
+652,0,"The Silence of the Lambs",1991,http://www.icheckmovies.com/movies/the+silence+of+the+lambs/,101099,9061,244,33,1229,,http://www.imdb.com/title/tt0102926/,"2018-01-10 16:55:07",no,no,no,yes
+653,0,"Queen Bee",1955,http://www.icheckmovies.com/movies/queen+bee/,132,7,1,1,37,,http://www.imdb.com/title/tt0048527/,no,no,no,no,no
+654,0,Rope,1948,http://www.icheckmovies.com/movies/rope/,16722,1638,52,9,462,,http://www.imdb.com/title/tt0040746/,"2018-04-26 21:30:02",no,no,no,no
+655,0,"Rear Window",1954,http://www.icheckmovies.com/movies/rear+window/,45119,5546,111,29,1056,,http://www.imdb.com/title/tt0047396/,"2018-01-10 16:55:39",no,no,no,no
+656,0,"Against All Odds",1984,http://www.icheckmovies.com/movies/against+all+odds/,502,9,20,1,47,,http://www.imdb.com/title/tt0086859/,"2018-11-08 01:21:16",no,no,no,no
+657,0,Hustle,1975,http://www.icheckmovies.com/movies/hustle-1975-1/,202,3,3,2,46,,http://www.imdb.com/title/tt0073133/,"2018-04-28 23:28:34",no,no,no,no
+658,0,"Black Widow",1987,http://www.icheckmovies.com/movies/black+widow/,396,11,5,1,41,,http://www.imdb.com/title/tt0090738/,no,no,no,no,no
+659,0,"The Black Dahlia",2006,http://www.icheckmovies.com/movies/the+black+dahlia/,4445,54,216,1,84,,http://www.imdb.com/title/tt0387877/,"2018-11-08 01:52:00",no,no,no,no
+660,0,"Black Rain",1989,http://www.icheckmovies.com/movies/black+rain/,2310,59,35,2,76,,http://www.imdb.com/title/tt0096933/,"2018-11-08 00:24:58",no,no,no,no
+661,0,Marlowe,1969,http://www.icheckmovies.com/movies/marlowe/,216,5,6,1,41,,http://www.imdb.com/title/tt0064638/,"2018-11-08 01:12:43",no,no,no,no
+662,0,"Romeo Is Bleeding",1993,http://www.icheckmovies.com/movies/romeo+is+bleeding/,531,35,14,1,42,,http://www.imdb.com/title/tt0107983/,"2018-11-19 21:33:36",no,no,no,no
+663,0,D.O.A.,1988,http://www.icheckmovies.com/movies/d.o.a.-1988/,328,7,9,1,23,,http://www.imdb.com/title/tt0094933/,no,no,no,no,no
+664,0,"The Deep End",2001,http://www.icheckmovies.com/movies/the+deep+end/,633,19,14,2,56,,http://www.imdb.com/title/tt0250323/,"2018-11-08 00:27:50",no,no,no,no
+665,0,"The Getaway",1972,http://www.icheckmovies.com/movies/the+getaway/,1891,121,14,1,155,,http://www.imdb.com/title/tt0068638/,"2018-11-08 00:34:40",no,no,no,no
+666,0,"At Close Range",1986,http://www.icheckmovies.com/movies/at+close+range/,763,30,5,2,57,,http://www.imdb.com/title/tt0090670/,"2018-11-08 00:25:09",no,no,no,no
+667,0,Breathless,1983,http://www.icheckmovies.com/movies/breathless/,1127,50,30,2,61,,http://www.imdb.com/title/tt0085276/,no,no,no,no,no
+668,0,Underneath,1995,http://www.icheckmovies.com/movies/underneath/,256,6,7,1,39,,http://www.imdb.com/title/tt0114788/,no,no,no,no,no
+669,0,"Cape Fear",1991,http://www.icheckmovies.com/movies/cape+fear-1991/,10583,451,84,3,223,,http://www.imdb.com/title/tt0101540/,"2018-10-17 21:58:03",no,no,no,no
+670,0,"The Drowning Pool",1975,http://www.icheckmovies.com/movies/the+drowning+pool/,263,8,2,1,32,,http://www.imdb.com/title/tt0072912/,"2018-11-08 01:16:59",no,no,no,no
+671,0,"Who'll Stop the Rain",1978,http://www.icheckmovies.com/movies/wholl+stop+the+rain/,141,6,0,1,57,,http://www.imdb.com/title/tt0078490/,no,no,no,no,no
+672,0,"The Big Lebowski",1998,http://www.icheckmovies.com/movies/the+big+lebowski/,79476,9924,649,21,939,,http://www.imdb.com/title/tt0118715/,"2018-04-26 21:50:44",no,no,no,no
+673,0,"Jagged Edge",1985,http://www.icheckmovies.com/movies/jagged+edge/,624,15,8,1,53,,http://www.imdb.com/title/tt0089360/,no,no,no,no,no
+674,0,"Sea of Love",1989,http://www.icheckmovies.com/movies/sea+of+love/,1506,41,14,2,58,,http://www.imdb.com/title/tt0098273/,"2018-11-08 00:24:44",no,no,no,no
+675,0,Croupier,1998,http://www.icheckmovies.com/movies/croupier/,917,51,6,1,55,,http://www.imdb.com/title/tt0159382/,"2018-11-08 00:33:39",no,no,no,no
+676,0,"The Salton Sea",2002,http://www.icheckmovies.com/movies/the+salton+sea/,1011,64,15,1,45,,http://www.imdb.com/title/tt0235737/,"2018-11-08 00:34:21",no,no,no,no
+677,0,"Night and the City",1992,http://www.icheckmovies.com/movies/night+and+the+city-1992/,208,4,9,1,23,,http://www.imdb.com/title/tt0105001/,no,no,no,no,no
+678,0,"Deep Cover",1992,http://www.icheckmovies.com/movies/deep+cover/,544,23,7,2,51,,http://www.imdb.com/title/tt0104073/,"2018-11-08 00:25:40",no,no,no,no
+679,0,"Dead Again",1991,http://www.icheckmovies.com/movies/dead+again/,997,61,8,1,68,,http://www.imdb.com/title/tt0101669/,"2018-04-28 16:04:24",no,no,no,no
+680,0,"The Public Eye",1992,http://www.icheckmovies.com/movies/the+public+eye/,155,4,2,1,24,,http://www.imdb.com/title/tt0105187/,"2018-11-08 01:29:30",no,no,no,no
+681,0,Léon,1994,http://www.icheckmovies.com/movies/leon/,68429,8247,225,20,742,"Léon: The Professional",http://www.imdb.com/title/tt0110413/,"2018-01-10 16:55:12",no,no,no,yes
+682,0,"The Public Enemy",1931,http://www.icheckmovies.com/movies/the+public+enemy/,3968,181,20,11,294,"Enemies of the Public",http://www.imdb.com/title/tt0022286/,"2018-06-11 13:09:45",no,no,no,no
+683,0,"Illegal Entry",1949,http://www.icheckmovies.com/movies/illegal+entry/,21,0,1,1,12,,http://www.imdb.com/title/tt0041502/,no,no,no,no,no
+684,0,"Bad Lieutenant",1992,http://www.icheckmovies.com/movies/bad+lieutenant/,3333,215,45,4,194,,http://www.imdb.com/title/tt0103759/,"2018-04-28 22:49:29",no,no,no,no
+685,0,"Nowhere to Go",1958,http://www.icheckmovies.com/movies/nowhere+to+go/,62,5,1,1,38,,http://www.imdb.com/title/tt0052013/,no,no,no,no,no
+686,0,Serpico,1973,http://www.icheckmovies.com/movies/serpico/,10083,617,23,7,276,,http://www.imdb.com/title/tt0070666/,"2018-04-26 21:39:02",no,no,no,no
+687,0,"The Parallax View",1974,http://www.icheckmovies.com/movies/the+parallax+view/,1843,115,12,7,166,,http://www.imdb.com/title/tt0071970/,"2018-04-28 23:07:15",no,no,no,no
+688,0,"Strange Days",1995,http://www.icheckmovies.com/movies/strange+days/,3141,218,34,2,162,,http://www.imdb.com/title/tt0114558/,"2018-04-26 21:48:22",no,no,no,no
+689,0,"Miami Blues",1990,http://www.icheckmovies.com/movies/miami+blues/,939,43,13,2,63,,http://www.imdb.com/title/tt0100143/,"2018-11-08 00:26:54",no,no,no,no
+690,0,"State of Grace",1990,http://www.icheckmovies.com/movies/state+of+grace/,701,46,8,1,56,,http://www.imdb.com/title/tt0100685/,no,no,no,no,no
+691,0,Payback,1999,http://www.icheckmovies.com/movies/payback/,4660,204,44,1,70,,http://www.imdb.com/title/tt0120784/,"2018-11-08 01:35:01",no,no,no,no
+692,0,Suture,1993,http://www.icheckmovies.com/movies/suture/,183,11,4,3,65,,http://www.imdb.com/title/tt0108260/,"2018-04-28 23:10:36",no,no,no,no
+693,0,Tightrope,1984,http://www.icheckmovies.com/movies/tightrope/,639,12,11,1,52,,http://www.imdb.com/title/tt0088272/,"2018-11-08 01:21:42",no,no,no,no
+694,0,"Death Wish",1974,http://www.icheckmovies.com/movies/death+wish/,2913,98,30,3,108,,http://www.imdb.com/title/tt0071402/,"2018-10-17 22:03:58",no,no,no,no
+695,0,"Femme Fatale",2002,http://www.icheckmovies.com/movies/femme+fatale/,3782,136,88,4,117,,http://www.imdb.com/title/tt0280665/,no,no,no,no,no
+696,0,"Natural Born Killers",1994,http://www.icheckmovies.com/movies/natural+born+killers/,23764,1650,385,8,322,,http://www.imdb.com/title/tt0110632/,"2018-04-26 21:48:01",no,no,no,no
+697,0,Insomnia,2002,http://www.icheckmovies.com/movies/insomnia-2002/,15478,482,119,1,156,,http://www.imdb.com/title/tt0278504/,no,no,no,no,no
+698,0,"Rolling Thunder",1977,http://www.icheckmovies.com/movies/rolling+thunder/,1004,63,7,3,93,,http://www.imdb.com/title/tt0076637/,"2018-10-17 22:36:16",no,no,no,no
+699,0,"U Turn",1997,http://www.icheckmovies.com/movies/u+turn/,2024,80,52,1,58,,http://www.imdb.com/title/tt0120399/,"2018-11-08 01:34:28",no,no,no,no
+700,0,"Union City",1980,http://www.icheckmovies.com/movies/union+city/,32,1,2,1,12,,http://www.imdb.com/title/tt0081687/,no,no,no,no,no
+701,0,"Who Framed Roger Rabbit",1988,http://www.icheckmovies.com/movies/who+framed+roger+rabbit/,58634,3034,193,14,459,,http://www.imdb.com/title/tt0096438/,"2018-04-26 21:45:52",no,no,no,no
+702,0,"No Country for Old Men",2007,http://www.icheckmovies.com/movies/no+country+for+old+men/,77048,7277,677,19,1026,,http://www.imdb.com/title/tt0477348/,"2018-04-26 21:52:30",no,no,no,no
+703,0,"52 Pick-Up",1986,http://www.icheckmovies.com/movies/52+pick-up/,233,8,6,1,35,,http://www.imdb.com/title/tt0090567/,"2018-11-08 01:22:17",no,no,no,no
+704,0,"Year of the Dragon",1985,http://www.icheckmovies.com/movies/year+of+the+dragon/,942,39,25,4,75,,http://www.imdb.com/title/tt0090350/,no,no,no,no,no
+705,0,"The Game",1997,http://www.icheckmovies.com/movies/the+game/,20773,1572,144,3,285,,http://www.imdb.com/title/tt0119174/,"2018-04-28 15:59:40",no,no,no,no
+706,0,"Fatal Attraction",1987,http://www.icheckmovies.com/movies/fatal+attraction/,16989,311,102,11,254,,http://www.imdb.com/title/tt0093010/,"2018-04-26 21:45:13",no,no,no,no
+707,0,"Stormy Monday",1988,http://www.icheckmovies.com/movies/stormy+monday/,279,8,6,2,48,,http://www.imdb.com/title/tt0096180/,no,no,no,no,no
+708,0,"The Kill-Off",1989,http://www.icheckmovies.com/movies/the+kill-off/,29,1,1,1,17,,http://www.imdb.com/title/tt0097665/,no,no,no,no,no
+709,0,Homicide,1991,http://www.icheckmovies.com/movies/homicide/,829,35,7,2,87,,http://www.imdb.com/title/tt0102048/,"2018-11-08 00:26:13",no,no,no,no
+710,0,Following,1998,http://www.icheckmovies.com/movies/following/,6876,454,43,2,146,,http://www.imdb.com/title/tt0154506/,"2018-11-08 00:22:35",no,no,no,no
+711,0,Cop,1988,http://www.icheckmovies.com/movies/cop/,161,7,2,1,20,,http://www.imdb.com/title/tt0092783/,"2018-11-08 01:22:47",no,no,no,no
+712,0,Frantic,1988,http://www.icheckmovies.com/movies/frantic/,2287,99,22,1,87,,http://www.imdb.com/title/tt0095174/,"2018-11-08 01:23:25",no,no,no,no
+713,0,"Walk East on Beacon!",1952,http://www.icheckmovies.com/movies/walk+east+on+beaconexclamation/,39,0,0,1,16,"The Crime of the Century",http://www.imdb.com/title/tt0045309/,no,no,no,no,no
+714,0,"The Human Jungle",1954,http://www.icheckmovies.com/movies/the+human+jungle/,21,1,0,1,11,,http://www.imdb.com/title/tt0047102/,no,no,no,no,no
+715,0,"The Detective",1968,http://www.icheckmovies.com/movies/the+detective/,153,3,1,1,27,,http://www.imdb.com/title/tt0062883/,no,no,no,no,no
+716,0,"The Mask of Diijon",1946,http://www.icheckmovies.com/movies/the+mask+of+diijon/,44,0,0,1,16,,http://www.imdb.com/title/tt0038731/,no,no,no,no,no
+717,0,"Dear Murderer",1947,http://www.icheckmovies.com/movies/dear+murderer/,73,2,0,1,14,,http://www.imdb.com/title/tt0039306/,no,no,no,no,no
+718,0,"China Moon",1994,http://www.icheckmovies.com/movies/china+moon/,206,4,6,1,16,,http://www.imdb.com/title/tt0109417/,no,no,no,no,no
+719,0,Guncrazy,1992,http://www.icheckmovies.com/movies/guncrazy/,80,2,4,1,16,,http://www.imdb.com/title/tt0104377/,no,no,no,no,no
+720,0,"Yield to the Night",1956,http://www.icheckmovies.com/movies/yield+to+the+night/,98,10,0,1,50,"Blonde Sinner",http://www.imdb.com/title/tt0049019/,no,no,no,no,no
+721,0,"The Big Easy",1986,http://www.icheckmovies.com/movies/the+big+easy/,657,23,6,1,57,,http://www.imdb.com/title/tt0092654/,no,no,no,no,no
+722,0,"Warning Shot",1967,http://www.icheckmovies.com/movies/warning+shot/,38,0,0,1,21,,http://www.imdb.com/title/tt0062473/,no,no,no,no,no
+723,0,"Her Kind of Man",1946,http://www.icheckmovies.com/movies/her+kind+of+man/,15,0,0,1,10,,http://www.imdb.com/title/tt0038597/,no,no,no,no,no
+724,0,"Bury Me Dead",1947,http://www.icheckmovies.com/movies/bury+me+dead/,53,1,1,1,18,"Back Home from the Dead",http://www.imdb.com/title/tt0039230/,no,no,no,no,no
+725,0,"For You I Die",1947,http://www.icheckmovies.com/movies/for+you+i+die/,47,0,0,1,10,,http://www.imdb.com/title/tt0039389/,no,no,no,no,no
+726,0,"The Killer Inside Me",1976,http://www.icheckmovies.com/movies/the+killer+inside+me-1976/,21,0,0,1,12,,http://www.imdb.com/title/tt0074746/,no,no,no,no,no
+727,0,Hardcore,1979,http://www.icheckmovies.com/movies/hardcore/,594,32,2,2,64,,http://www.imdb.com/title/tt0079271/,"2018-11-19 21:32:56",no,no,no,no
+728,0,"Atlantic City, USA",1980,http://www.icheckmovies.com/movies/atlantic+city+usa/,2620,118,20,12,235,"Atlantic City",http://www.imdb.com/title/tt0080388/,"2018-04-26 21:41:40",no,no,no,no
+729,0,"Rope of Sand",1949,http://www.icheckmovies.com/movies/rope+of+sand/,115,6,0,1,16,,http://www.imdb.com/title/tt0041822/,"2018-11-08 01:06:04",no,no,no,no
+730,0,"Mine Own Executioner",1947,http://www.icheckmovies.com/movies/mine+own+executioner/,55,0,0,2,24,,http://www.imdb.com/title/tt0039627/,no,no,no,no,no
+731,0,"Mona Lisa",1986,http://www.icheckmovies.com/movies/mona+lisa/,1820,95,12,5,143,,http://www.imdb.com/title/tt0091538/,"2018-06-11 13:07:16",no,no,no,no
+732,0,"Sudden Danger",1955,http://www.icheckmovies.com/movies/sudden+danger/,37,1,1,1,10,,http://www.imdb.com/title/tt0048672/,no,no,no,no,no
+733,0,"The Maltese Falcon",1931,http://www.icheckmovies.com/movies/the+maltese+falcon-1931-1/,274,11,1,1,37,,http://www.imdb.com/title/tt0022111/,no,no,no,no,no
+734,0,"The Late Show",1977,http://www.icheckmovies.com/movies/the+late+show/,211,10,1,1,74,,http://www.imdb.com/title/tt0076301/,no,no,no,no,no
+735,0,"The Come On",1956,http://www.icheckmovies.com/movies/the+come+on/,17,0,0,1,14,,http://www.imdb.com/title/tt0049089/,no,no,no,no,no
+736,0,"Plein soleil",1960,http://www.icheckmovies.com/movies/plein+soleil/,1624,168,4,9,210,"Purple Noon",http://www.imdb.com/title/tt0054189/,"2018-11-25 14:38:48",no,no,no,no
+737,0,"Ms .45",1981,http://www.icheckmovies.com/movies/ms+.45/,860,89,12,3,151,"Angel of Vengeance",http://www.imdb.com/title/tt0082776/,no,no,no,no,no
+738,0,Crossroads,1942,http://www.icheckmovies.com/movies/crossroads-1942-1/,114,2,1,1,34,,http://www.imdb.com/title/tt0034622/,"2018-11-08 01:03:36",no,no,no,no
+739,0,"The Cooler",2003,http://www.icheckmovies.com/movies/the+cooler/,1439,59,12,1,63,,http://www.imdb.com/title/tt0318374/,no,no,no,no,no
+740,0,"New Jack City",1991,http://www.icheckmovies.com/movies/new+jack+city/,1325,26,20,2,53,,http://www.imdb.com/title/tt0102526/,"2018-11-08 00:26:59",no,no,no,no
+741,0,Chandler,1971,http://www.icheckmovies.com/movies/chandler/,30,0,3,1,15,,http://www.imdb.com/title/tt0068356/,no,no,no,no,no
+742,0,"Bonnie and Clyde",1967,http://www.icheckmovies.com/movies/bonnie+and+clyde/,22311,1408,68,27,675,,http://www.imdb.com/title/tt0061418/,"2018-04-26 21:37:03",no,no,no,no
+743,0,"Black Widow",1954,http://www.icheckmovies.com/movies/black+widow-1954-1/,174,4,0,1,33,,http://www.imdb.com/title/tt0046791/,"2018-11-08 01:07:20",no,no,no,no
+744,0,"Warui yatsu hodo yoku nemuru",1960,http://www.icheckmovies.com/movies/warui+yatsu+hodo+yoku+nemuru/,1567,180,9,5,181,"The Bad Sleep Well",http://www.imdb.com/title/tt0054460/,no,no,no,no,no
+745,0,"The Midnight Story",1957,http://www.icheckmovies.com/movies/the+midnight+story/,32,1,0,1,9,"Appointment with a Shadow",http://www.imdb.com/title/tt0050704/,no,no,no,no,no
+746,0,"Slam Dance",1987,http://www.icheckmovies.com/movies/slam+dance/,52,0,2,1,15,,http://www.imdb.com/title/tt0093986/,no,no,no,no,no
+747,0,"Road to Perdition",2002,http://www.icheckmovies.com/movies/road+to+perdition/,15332,885,82,4,271,,http://www.imdb.com/title/tt0257044/,"2018-04-28 15:55:50",no,no,no,no
+748,0,"Someone to Watch Over Me",1987,http://www.icheckmovies.com/movies/someone+to+watch+over+me/,426,8,6,1,28,,http://www.imdb.com/title/tt0094008/,no,no,no,no,no
+749,0,Shattered,1991,http://www.icheckmovies.com/movies/shattered/,222,4,4,1,18,,http://www.imdb.com/title/tt0102900/,no,no,no,no,no
+750,0,"Footsteps in the Fog",1955,http://www.icheckmovies.com/movies/footsteps+in+the+fog/,117,3,0,1,21,,http://www.imdb.com/title/tt0048087/,"2018-11-08 01:07:44",no,no,no,no
+751,0,"A Woman's Face",1941,http://www.icheckmovies.com/movies/a+womans+face/,313,18,0,1,56,,http://www.imdb.com/title/tt0034399/,"2018-11-08 01:03:34",no,no,no,no
+752,0,Insomnia,1997,http://www.icheckmovies.com/movies/insomnia/,4930,155,20,2,114,,http://www.imdb.com/title/tt0119375/,"2018-04-26 21:57:01",no,no,no,no
+753,0,"Devil's Doorway",1950,http://www.icheckmovies.com/movies/devils+doorway/,187,14,0,1,86,,http://www.imdb.com/title/tt0042395/,"2018-11-08 01:06:22",no,no,no,no
+754,0,"Cop Hater",1958,http://www.icheckmovies.com/movies/cop+hater/,54,1,0,1,13,,http://www.imdb.com/title/tt0051489/,"2018-11-08 01:08:51",no,no,no,no
+755,0,"Internal Affairs",1990,http://www.icheckmovies.com/movies/internal+affairs/,1395,24,13,2,51,,http://www.imdb.com/title/tt0099850/,"2018-06-11 13:04:39",no,no,no,no
+756,0,"The Power of the Whistler",1945,http://www.icheckmovies.com/movies/the+power+of+the+whistler/,72,0,0,1,14,,http://www.imdb.com/title/tt0037997/,no,no,no,no,no
+757,0,"Hollywood Story",1951,http://www.icheckmovies.com/movies/hollywood+story/,49,1,0,1,16,,http://www.imdb.com/title/tt0043646/,no,no,no,no,no
+758,0,"Sexy Beast",2000,http://www.icheckmovies.com/movies/sexy+beast/,6029,407,47,6,157,,http://www.imdb.com/title/tt0203119/,"2018-04-28 23:09:29",no,no,no,no
+759,0,"Le trou",1960,http://www.icheckmovies.com/movies/le+trou/,3072,745,15,13,340,"Le Trou",http://www.imdb.com/title/tt0054407/,"2018-10-29 22:32:14",no,no,no,no
+760,0,"Moss Rose",1947,http://www.icheckmovies.com/movies/moss+rose/,46,2,0,1,15,,http://www.imdb.com/title/tt0037089/,no,no,no,no,no
+761,0,"The Glass Alibi",1946,http://www.icheckmovies.com/movies/the+glass+alibi/,21,0,1,1,12,,http://www.imdb.com/title/tt0038565/,no,no,no,no,no
+762,0,Violence,1947,http://www.icheckmovies.com/movies/violence/,38,1,0,1,12,,http://www.imdb.com/title/tt0039960/,"2018-11-08 01:05:36",no,no,no,no
+763,0,Oldeuboi,2003,http://www.icheckmovies.com/movies/oldeuboi/,42168,6083,299,27,912,Oldboy,http://www.imdb.com/title/tt0364569/,"2018-04-26 21:51:13",no,no,no,no
+764,0,"Johnny Handsome",1989,http://www.icheckmovies.com/movies/johnny+handsome/,302,7,7,1,24,,http://www.imdb.com/title/tt0097626/,"2018-11-08 01:24:10",no,no,no,no
+765,0,"The Last Mile",1959,http://www.icheckmovies.com/movies/the+last+mile-1959/,42,0,0,1,15,,http://www.imdb.com/title/tt0052992/,no,no,no,no,no
+766,0,"Forbrydelsens element",1984,http://www.icheckmovies.com/movies/forbrydelsens+element/,1245,79,30,4,99,"The Element of Crime",http://www.imdb.com/title/tt0087280/,"2018-12-02 21:22:20",no,no,no,no
+767,0,"Lethal Weapon",1987,http://www.icheckmovies.com/movies/lethal+weapon/,19752,720,79,3,242,,http://www.imdb.com/title/tt0093409/,"2018-04-28 15:59:25",no,no,no,no
+768,0,Badlands,1973,http://www.icheckmovies.com/movies/badlands/,11090,1262,47,20,519,,http://www.imdb.com/title/tt0069762/,"2018-04-26 21:38:45",no,no,no,no
+769,0,"Repeat Performance",1947,http://www.icheckmovies.com/movies/repeat+performance/,63,1,0,1,21,,http://www.imdb.com/title/tt0039761/,no,no,no,no,no
+770,0,"The Petrified Forest",1936,http://www.icheckmovies.com/movies/the+petrified+forest/,1163,123,8,3,140,,http://www.imdb.com/title/tt0028096/,"2018-11-08 00:34:36",no,no,no,no
+771,0,"The Green Glove",1952,http://www.icheckmovies.com/movies/the+green+glove/,70,0,2,1,19,"The Gauntlet",http://www.imdb.com/title/tt0044673/,no,no,no,no,no
+772,0,"The Departed",2006,http://www.icheckmovies.com/movies/the+departed/,85885,7843,418,16,833,,http://www.imdb.com/title/tt0407887/,"2018-04-26 21:52:12",no,no,no,no
+773,0,Liebestraum,1991,http://www.icheckmovies.com/movies/liebestraum/,52,2,2,1,20,,http://www.imdb.com/title/tt0102299/,no,no,no,no,no
+774,0,"Cry Tough",1959,http://www.icheckmovies.com/movies/cry+tough/,23,0,0,1,13,,http://www.imdb.com/title/tt0052716/,no,no,no,no,no
+775,0,Humoresque,1946,http://www.icheckmovies.com/movies/humoresque/,383,26,4,2,83,,http://www.imdb.com/title/tt0038622/,"2018-11-08 01:04:00",no,no,no,no
+776,0,"Koruto wa ore no pasupooto",1967,http://www.icheckmovies.com/movies/koruto+wa+ore+no+pasupooto/,440,36,2,3,100,"A Colt Is My Passport",http://www.imdb.com/title/tt0330536/,no,no,no,no,no
+777,0,"Lady in the Death House",1944,http://www.icheckmovies.com/movies/lady+in+the+death+house/,69,0,1,1,18,,http://www.imdb.com/title/tt0037001/,no,no,no,no,no
+778,0,"Good-Time Girl",1948,http://www.icheckmovies.com/movies/good-time+girl/,38,0,1,1,12,,http://www.imdb.com/title/tt0042515/,no,no,no,no,no
+779,0,"The Upturned Glass",1947,http://www.icheckmovies.com/movies/the+upturned+glass/,72,3,0,1,22,,http://www.imdb.com/title/tt0039947/,no,no,no,no,no
+780,0,"City for Conquest",1940,http://www.icheckmovies.com/movies/city+for+conquest/,180,8,1,1,47,,http://www.imdb.com/title/tt0032342/,"2018-11-08 01:03:27",no,no,no,no
+781,0,"The Border",1982,http://www.icheckmovies.com/movies/the+border/,243,4,4,1,32,,http://www.imdb.com/title/tt0083678/,no,no,no,no,no
+782,0,"No Orchids for Miss Blandish",1948,http://www.icheckmovies.com/movies/no+orchids+for+miss+blandish/,62,0,4,1,21,"Black Dice",http://www.imdb.com/title/tt0040647/,no,no,no,no,no
+783,0,"Chinatown at Midnight",1949,http://www.icheckmovies.com/movies/chinatown+at+midnight/,32,0,0,1,8,,http://www.imdb.com/title/tt0041246/,no,no,no,no,no
+784,0,Casablanca,1942,http://www.icheckmovies.com/movies/casablanca/,54363,5711,258,36,1206,,http://www.imdb.com/title/tt0034583/,"2018-04-26 21:28:37",no,no,no,no
+785,0,"Money Madness",1948,http://www.icheckmovies.com/movies/money+madness-1948/,36,0,1,1,9,,http://www.imdb.com/title/tt0040604/,no,no,no,no,no
+786,,"Appointment with a Shadow",1957,http://www.icheckmovies.com/movies/appointment+with+a+shadow/,23,0,0,1,9,,http://www.imdb.com/title/tt0051370/,no,no,no,no,no
+787,,"Footsteps in the Night",1957,http://www.icheckmovies.com/movies/footsteps+in+the+night/,30,0,0,1,14,,http://www.imdb.com/title/tt0050404/,no,no,no,no,no
+788,,"Step Down to Terror",1958,http://www.icheckmovies.com/movies/step+down+to+terror/,13,0,0,1,9,,http://www.imdb.com/title/tt0052245/,no,no,no,no,no
+789,,Psycho,1960,http://www.icheckmovies.com/movies/psycho/,68008,6069,125,38,1387,,http://www.imdb.com/title/tt0054215/,"2018-01-10 16:55:24",no,no,no,no
+790,,Nikita,1990,http://www.icheckmovies.com/movies/nikita/,6859,323,49,5,169,"La Femme Nikita",http://www.imdb.com/title/tt0100263/,"2018-01-31 09:31:07",no,no,no,no

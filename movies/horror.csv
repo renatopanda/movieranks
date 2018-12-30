@@ -1,0 +1,51 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,1,Alien,1979,http://www.icheckmovies.com/movies/alien/,78748,6748,248,27,1208,,http://www.imdb.com/title/tt0078748/,"2018-01-10 16:55:57",no,no,no,no
+2,-1,Psycho,1960,http://www.icheckmovies.com/movies/psycho/,68008,6069,125,38,1387,,http://www.imdb.com/title/tt0054215/,"2018-01-10 16:55:24",no,no,no,no
+3,0,"The Shining",1980,http://www.icheckmovies.com/movies/the+shining/,91829,9000,381,25,1284,,http://www.imdb.com/title/tt0081505/,"2018-01-10 16:56:08",no,no,no,no
+4,5,"The Thing",1982,http://www.icheckmovies.com/movies/the+thing/,41141,3870,198,20,872,,http://www.imdb.com/title/tt0084787/,"2018-01-10 16:58:44",no,no,no,no
+5,3,"What Ever Happened to Baby Jane?",1962,http://www.icheckmovies.com/movies/what+ever+happened+to+baby+janequestion-1962-1/,8406,819,49,12,412,,http://www.imdb.com/title/tt0056687/,"2018-06-11 13:14:59",no,no,no,no
+6,1,"Les diaboliques",1955,http://www.icheckmovies.com/movies/les+diaboliques/,8641,1078,41,18,562,Diabolique,http://www.imdb.com/title/tt0046911/,"2018-04-26 21:31:55",no,no,no,no
+7,-1,"Faust: Eine deutsche Volkssage",1926,http://www.icheckmovies.com/movies/faust+eine+deutsche+volkssage/,3618,376,18,15,335,Faust,http://www.imdb.com/title/tt0016847/,"2018-04-28 11:47:09",no,no,no,no
+8,-3,Körkarlen,1921,http://www.icheckmovies.com/movies/korkarlen/,2879,377,16,14,330,"The Phantom Carriage",http://www.imdb.com/title/tt0012364/,"2018-10-17 22:19:44",no,no,no,no
+9,-5,"Das Cabinet des Dr. Caligari",1920,http://www.icheckmovies.com/movies/das+cabinet+des+dr.+caligari/,14539,1237,68,26,698,"The Cabinet of Dr. Caligari",http://www.imdb.com/title/tt0010323/,"2018-04-26 21:19:40",no,no,no,yes
+10,5,"Dawn of the Dead",1978,http://www.icheckmovies.com/movies/dawn+of+the+dead/,28359,1578,143,16,571,"Dawn of the Living Dead",http://www.imdb.com/title/tt0077402/,"2018-04-26 21:41:04",no,no,no,no
+11,3,"The Exorcist",1973,http://www.icheckmovies.com/movies/the+exorcist/,64693,2996,454,24,852,,http://www.imdb.com/title/tt0070047/,"2018-01-31 08:54:52",no,no,no,no
+12,1,"Rosemary's Baby",1968,http://www.icheckmovies.com/movies/rosemarys+baby/,32681,2726,191,22,807,,http://www.imdb.com/title/tt0063522/,"2018-04-26 21:37:18",no,no,no,no
+13,-1,Onibaba,1964,http://www.icheckmovies.com/movies/onibaba/,3094,370,20,11,322,"Devil Woman",http://www.imdb.com/title/tt0058430/,"2018-11-19 21:31:34",no,no,no,no
+14,-3,Kaidan,1964,http://www.icheckmovies.com/movies/kaidan/,2671,298,26,12,310,Kwaidan,http://www.imdb.com/title/tt0058279/,"2018-11-08 00:21:32",no,no,no,no
+15,-5,"Nosferatu, eine Symphonie des Grauens",1922,http://www.icheckmovies.com/movies/nosferatu+eine+symphonie+des+grauens/,20687,1264,110,26,750,Nosferatu,http://www.imdb.com/title/tt0013442/,"2018-04-26 21:20:32",no,no,no,yes
+16,9,"Låt den rätte komma in",2008,http://www.icheckmovies.com/movies/lat+den+ratte+komma+in/,30370,3683,213,12,664,"Let the Right One In",http://www.imdb.com/title/tt1139797/,"2018-04-26 21:52:59",no,no,no,no
+17,7,"Shaun of the Dead",2004,http://www.icheckmovies.com/movies/shaun+of+the+dead/,72654,6578,379,11,712,,http://www.imdb.com/title/tt0365748/,"2018-04-28 15:53:01",no,no,no,no
+18,5,"Pafekuto buru",1997,http://www.icheckmovies.com/movies/pafekuto+buru/,5253,715,36,8,264,"Perfect Blue",http://www.imdb.com/title/tt0156887/,"2018-11-19 21:31:55",no,no,no,no
+19,3,"Night of the Living Dead",1968,http://www.icheckmovies.com/movies/night+of+the+living+dead/,26007,1531,93,19,668,,http://www.imdb.com/title/tt0063350/,"2018-04-26 21:37:25",no,no,no,no
+20,1,"The Innocents",1961,http://www.icheckmovies.com/movies/the+innocents/,4403,476,29,11,357,,http://www.imdb.com/title/tt0055018/,"2018-04-28 23:00:34",no,no,no,no
+21,-1,"The Hunchback of Notre Dame",1939,http://www.icheckmovies.com/movies/the+hunchback+of+notre+dame/,2737,101,9,6,169,,http://www.imdb.com/title/tt0031455/,"2018-10-17 22:13:26",no,no,no,no
+22,-3,"Bride of Frankenstein",1935,http://www.icheckmovies.com/movies/bride+of+frankenstein/,11312,665,58,18,593,,http://www.imdb.com/title/tt0026138/,"2018-04-28 11:43:25",no,no,no,no
+23,-5,"King Kong",1933,http://www.icheckmovies.com/movies/king+kong/,26046,938,98,28,698,"The Eighth Wonder",http://www.imdb.com/title/tt0024216/,"2018-04-26 21:27:11",no,no,no,yes
+24,-7,Freaks,1932,http://www.icheckmovies.com/movies/freaks/,10789,1044,51,16,518,"The Monster Show",http://www.imdb.com/title/tt0022913/,"2018-10-17 22:09:43",no,no,no,no
+25,-9,Frankenstein,1931,http://www.icheckmovies.com/movies/frankenstein/,18420,705,66,19,592,,http://www.imdb.com/title/tt0021884/,"2018-04-26 21:26:48",no,no,no,yes
+26,7,"Ang-ma-reul bo-at-da",2010,http://www.icheckmovies.com/movies/ang-ma-reul+bo-at-da/,5889,631,74,2,255,"I Saw the Devil",http://www.imdb.com/title/tt1588170/,"2018-11-08 00:22:51",no,no,no,no
+27,5,"Evil Dead II",1987,http://www.icheckmovies.com/movies/evil+dead+ii/,21985,1839,172,8,478,"Evil Dead 2: Dead by Dawn",http://www.imdb.com/title/tt0092991/,"2018-04-28 16:05:44",no,no,no,no
+28,3,Halloween,1978,http://www.icheckmovies.com/movies/halloween/,34610,1639,189,14,667,,http://www.imdb.com/title/tt0077651/,"2018-04-26 21:41:09",no,no,no,no
+29,1,"Wait Until Dark",1967,http://www.icheckmovies.com/movies/wait+until+dark/,3245,287,11,3,192,,http://www.imdb.com/title/tt0062467/,"2018-11-08 00:22:38",no,no,no,no
+30,-1,Repulsion,1965,http://www.icheckmovies.com/movies/repulsion/,8370,946,82,17,521,,http://www.imdb.com/title/tt0059646/,"2018-04-26 21:36:19",no,no,no,no
+31,-3,"Les yeux sans visage",1960,http://www.icheckmovies.com/movies/les+yeux+sans+visage/,5354,542,27,13,432,"Eyes Without a Face",http://www.imdb.com/title/tt0053459/,"2018-04-26 21:33:45",no,no,no,no
+32,-5,"Invasion of the Body Snatchers",1956,http://www.icheckmovies.com/movies/invasion+of+the+body+snatchers/,12535,601,36,18,491,"Sleep No More",http://www.imdb.com/title/tt0049366/,"2018-04-26 21:32:46",no,no,no,no
+33,-7,"The Unknown",1927,http://www.icheckmovies.com/movies/the+unknown/,2201,201,13,7,240,,http://www.imdb.com/title/tt0018528/,no,no,no,no,no
+34,12,"Get Out",2017,http://www.icheckmovies.com/movies/get+out-2017/,10230,1086,54,9,342,,http://www.imdb.com/title/tt5052448/,"2018-04-28 15:46:04",no,no,no,no
+35,10,Zombieland,2009,http://www.icheckmovies.com/movies/zombieland/,62199,4056,377,3,376,,http://www.imdb.com/title/tt1156398/,"2018-04-28 15:49:17",no,no,no,no
+36,8,"Vampire Hunter D: Bloodlust",2000,http://www.icheckmovies.com/movies/vampire+hunter+d+bloodlust/,2817,181,19,3,78,,http://www.imdb.com/title/tt0216651/,"2018-10-17 22:44:04",no,no,no,no
+37,6,"Santa sangre",1989,http://www.icheckmovies.com/movies/santa+sangre/,2580,311,48,5,235,"Santa Sangre",http://www.imdb.com/title/tt0098253/,"2018-11-27 15:37:34",no,no,no,no
+38,4,"Profondo rosso",1975,http://www.icheckmovies.com/movies/profondo+rosso/,3477,406,33,3,287,"Deep Red",http://www.imdb.com/title/tt0073582/,"2018-11-27 15:25:26",no,no,no,no
+39,2,Vargtimmen,1968,http://www.icheckmovies.com/movies/vargtimmen/,3308,320,32,7,274,"Hour of the Wolf",http://www.imdb.com/title/tt0063759/,"2018-11-27 15:34:43",no,no,no,no
+40,0,"The Birds",1963,http://www.icheckmovies.com/movies/the+birds/,36465,1748,188,18,619,,http://www.imdb.com/title/tt0056869/,"2018-04-26 21:35:33",no,no,no,no
+41,-2,"Peeping Tom",1960,http://www.icheckmovies.com/movies/peeping+tom/,6944,659,40,20,471,"Face of Fear",http://www.imdb.com/title/tt0054167/,"2018-04-26 21:34:10",no,no,no,no
+42,-4,"The Incredible Shrinking Man",1957,http://www.icheckmovies.com/movies/the+incredible+shrinking+man/,3392,241,17,10,272,,http://www.imdb.com/title/tt0050539/,"2018-11-17 19:18:03",no,no,no,no
+43,-6,"Dead of Night",1945,http://www.icheckmovies.com/movies/dead+of+night/,2146,170,19,9,248,,http://www.imdb.com/title/tt0037635/,"2018-11-25 14:40:19",no,no,no,no
+44,-8,"The Invisible Man",1933,http://www.icheckmovies.com/movies/the+invisible+man/,6257,317,21,7,299,,http://www.imdb.com/title/tt0024184/,"2018-10-17 22:17:27",no,no,no,no
+45,-10,"Dr. Jekyll and Mr. Hyde",1931,http://www.icheckmovies.com/movies/dr.+jekyll+and+mr.+hyde/,4626,169,15,6,283,,http://www.imdb.com/title/tt0022835/,"2018-06-11 13:00:42",no,no,no,no
+46,-12,"The Phantom of the Opera",1925,http://www.icheckmovies.com/movies/the+phantom+of+the+opera/,8930,254,42,11,269,,http://www.imdb.com/title/tt0016220/,"2018-10-17 22:33:47",no,no,no,no
+47,,"A Quiet Place",2018,http://www.icheckmovies.com/movies/a+quiet+place/,4551,375,39,2,102,,http://www.imdb.com/title/tt6644200/,no,no,no,no,no
+48,,"What We Do in the Shadows",2014,http://www.icheckmovies.com/movies/what+we+do+in+the+shadows/,8295,1207,39,6,287,,http://www.imdb.com/title/tt3416742/,"2018-11-27 15:30:56",no,no,no,no
+49,,"Tucker and Dale vs Evil",2010,http://www.icheckmovies.com/movies/tucker+and+dale+vs+evil/,13711,1086,74,2,237,,http://www.imdb.com/title/tt1465522/,"2018-11-08 00:32:19",no,no,no,no
+50,,"La piel que habito",2011,http://www.icheckmovies.com/movies/la+piel+que+habito/,9389,1117,83,4,334,"The Skin I Live In",http://www.imdb.com/title/tt1189073/,"2018-10-17 02:16:56",no,no,no,no

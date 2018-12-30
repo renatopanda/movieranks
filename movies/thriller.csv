@@ -1,0 +1,51 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,0,"The Dark Knight",2008,http://www.icheckmovies.com/movies/the+dark+knight/,134591,16209,763,23,1294,,http://www.imdb.com/title/tt0468569/,"2018-04-26 21:52:46",no,no,no,yes
+2,0,Inception,2010,http://www.icheckmovies.com/movies/inception/,124912,15646,867,17,1209,,http://www.imdb.com/title/tt1375666/,"2018-01-10 16:54:57",no,no,no,yes
+3,3,"The Usual Suspects",1995,http://www.icheckmovies.com/movies/the+usual+suspects/,69897,7334,298,21,831,,http://www.imdb.com/title/tt0114814/,"2018-01-10 16:55:11",no,no,no,yes
+4,1,Se7en,1995,http://www.icheckmovies.com/movies/se7en/,100684,10645,322,23,1057,,http://www.imdb.com/title/tt0114369/,"2018-01-10 16:55:05",no,no,no,yes
+5,-1,Léon,1994,http://www.icheckmovies.com/movies/leon/,68429,8247,225,20,742,"Léon: The Professional",http://www.imdb.com/title/tt0110413/,"2018-01-10 16:55:12",no,no,no,yes
+6,-3,"The Silence of the Lambs",1991,http://www.icheckmovies.com/movies/the+silence+of+the+lambs/,101099,9061,244,33,1229,,http://www.imdb.com/title/tt0102926/,"2018-01-10 16:55:07",no,no,no,yes
+7,6,"The Prestige",2006,http://www.icheckmovies.com/movies/the+prestige/,84834,8614,382,13,729,,http://www.imdb.com/title/tt0482571/,"2018-04-26 21:51:55",no,no,no,no
+8,4,"The Departed",2006,http://www.icheckmovies.com/movies/the+departed/,85885,7843,418,16,833,,http://www.imdb.com/title/tt0407887/,"2018-04-26 21:52:12",no,no,no,no
+9,2,Memento,2000,http://www.icheckmovies.com/movies/memento/,90360,10650,419,24,1060,,http://www.imdb.com/title/tt0209144/,"2018-01-10 16:55:51",no,no,no,no
+10,0,"Suna no onna",1964,http://www.icheckmovies.com/movies/suna+no+onna/,3468,795,17,18,468,"Woman in the Dunes",http://www.imdb.com/title/tt0058625/,"2018-10-30 01:08:00",no,no,no,no
+11,-2,"Le trou",1960,http://www.icheckmovies.com/movies/le+trou/,3072,745,15,13,340,"Le Trou",http://www.imdb.com/title/tt0054407/,"2018-10-29 22:32:14",no,no,no,no
+12,-4,Psycho,1960,http://www.icheckmovies.com/movies/psycho/,68008,6069,125,38,1387,,http://www.imdb.com/title/tt0054215/,"2018-01-10 16:55:24",no,no,no,no
+13,-6,"Rear Window",1954,http://www.icheckmovies.com/movies/rear+window/,45119,5546,111,29,1056,,http://www.imdb.com/title/tt0047396/,"2018-01-10 16:55:39",no,no,no,no
+14,6,"The Dark Knight Rises",2012,http://www.icheckmovies.com/movies/the+dark+knight+rises/,66718,4760,544,9,692,,http://www.imdb.com/title/tt1345836/,"2018-04-28 15:48:37",no,no,no,no
+15,4,"Das Leben der Anderen",2006,http://www.icheckmovies.com/movies/das+leben+der+anderen/,28885,3714,101,16,637,"The Lives of Others",http://www.imdb.com/title/tt0405094/,"2018-04-26 21:51:56",no,no,no,no
+16,2,Oldeuboi,2003,http://www.icheckmovies.com/movies/oldeuboi/,42168,6083,299,27,912,Oldboy,http://www.imdb.com/title/tt0364569/,"2018-04-26 21:51:13",no,no,no,no
+17,0,Aliens,1986,http://www.icheckmovies.com/movies/aliens/,62716,4388,243,21,847,,http://www.imdb.com/title/tt0090605/,"2018-01-10 16:56:20",no,no,no,no
+18,-2,"Das Boot",1981,http://www.icheckmovies.com/movies/das+boot/,20860,1747,84,15,567,,http://www.imdb.com/title/tt0082096/,"2018-01-10 16:56:23",no,no,no,no
+19,-4,"Tengoku to jigoku",1963,http://www.icheckmovies.com/movies/tengoku+to+jigoku/,4412,865,19,13,415,"High and Low",http://www.imdb.com/title/tt0057565/,"2018-04-28 15:52:17",no,no,no,no
+20,-6,"Witness for the Prosecution",1957,http://www.icheckmovies.com/movies/witness+for+the+prosecution/,8864,1209,39,9,386,,http://www.imdb.com/title/tt0051201/,"2018-04-28 15:59:14",no,no,no,no
+21,8,"Batman Begins",2005,http://www.icheckmovies.com/movies/batman+begins/,110345,6195,426,11,723,,http://www.imdb.com/title/tt0372784/,"2018-04-28 15:52:58",no,no,no,no
+22,6,"L.A. Confidential",1997,http://www.icheckmovies.com/movies/l.a.+confidential/,43332,3625,174,24,698,,http://www.imdb.com/title/tt0119488/,"2018-01-10 16:57:21",no,no,no,no
+23,4,Eskiya,1996,http://www.icheckmovies.com/movies/eskiya/,2807,236,53,5,75,"The Bandit",http://www.imdb.com/title/tt0116231/,"2018-11-09 00:43:58",no,no,no,no
+24,2,"Reservoir Dogs",1992,http://www.icheckmovies.com/movies/reservoir+dogs/,85239,9330,332,23,1024,,http://www.imdb.com/title/tt0105236/,"2018-01-10 16:56:35",no,no,no,no
+25,0,Yôjinbô,1961,http://www.icheckmovies.com/movies/yojinbo/,12574,1492,52,19,516,Yojimbo,http://www.imdb.com/title/tt0055630/,"2018-04-28 11:47:06",no,no,no,no
+26,-2,"North by Northwest",1959,http://www.icheckmovies.com/movies/north+by+northwest/,33381,3283,88,25,877,,http://www.imdb.com/title/tt0053125/,"2018-01-10 16:56:27",no,no,no,no
+27,-4,Vertigo,1958,http://www.icheckmovies.com/movies/vertigo/,42253,4595,183,43,1190,,http://www.imdb.com/title/tt0052357/,"2018-01-10 16:56:26",no,no,no,no
+28,-6,"Double Indemnity",1944,http://www.icheckmovies.com/movies/double+indemnity/,18862,2288,57,31,800,,http://www.imdb.com/title/tt0036775/,"2018-04-26 21:29:13",no,no,no,no
+29,-8,"M - Eine Stadt sucht einen Mörder",1931,http://www.icheckmovies.com/movies/m+-+eine+stadt+sucht+einen+morder/,18921,2564,80,34,896,M,http://www.imdb.com/title/tt0022100/,"2018-04-26 21:26:57",no,no,no,yes
+30,14,Room,2015,http://www.icheckmovies.com/movies/room-2015/,11641,1225,38,6,304,,http://www.imdb.com/title/tt3170832/,"2018-04-28 15:46:38",no,no,no,no
+31,12,"El secreto de sus ojos",2009,http://www.icheckmovies.com/movies/el+secreto+de+sus+ojos/,15588,1933,102,9,326,"The Secret in Their Eyes",http://www.imdb.com/title/tt1305806/,"2018-04-28 15:49:05",no,no,no,no
+32,10,"V for Vendetta",2005,http://www.icheckmovies.com/movies/v+for+vendetta/,101473,9458,760,9,626,,http://www.imdb.com/title/tt0434409/,"2018-04-28 15:52:23",no,no,no,no
+33,8,Heat,1995,http://www.icheckmovies.com/movies/heat/,42298,3242,219,17,594,,http://www.imdb.com/title/tt0113277/,"2018-01-10 16:57:39",no,no,no,no
+34,6,"Die Hard",1988,http://www.icheckmovies.com/movies/die+hard/,85380,5394,221,16,799,,http://www.imdb.com/title/tt0095016/,"2018-01-10 16:57:37",no,no,no,no
+35,4,"Blade Runner",1982,http://www.icheckmovies.com/movies/blade+runner/,67283,7104,602,30,1261,,http://www.imdb.com/title/tt0083658/,"2018-01-10 16:58:10",no,no,no,no
+36,2,Sholay,1975,http://www.icheckmovies.com/movies/sholay/,1934,152,56,13,141,Embers,http://www.imdb.com/title/tt0073707/,"2018-10-17 22:37:45",no,no,no,no
+37,0,Chinatown,1974,http://www.icheckmovies.com/movies/chinatown/,33689,3314,166,28,985,,http://www.imdb.com/title/tt0071315/,"2018-04-28 11:43:51",no,no,no,no
+38,-2,Z,1969,http://www.icheckmovies.com/movies/z/,4022,527,29,17,353,,http://www.imdb.com/title/tt0065234/,"2018-04-26 21:37:36",no,no,no,no
+39,-4,"The Great Escape",1963,http://www.icheckmovies.com/movies/the+great+escape/,28133,1812,64,14,514,,http://www.imdb.com/title/tt0057115/,"2018-01-10 16:57:44",no,no,no,no
+40,-6,"Du rififi chez les hommes",1955,http://www.icheckmovies.com/movies/du+rififi+chez+les+hommes/,4347,701,17,17,416,Rififi,http://www.imdb.com/title/tt0048021/,"2018-04-28 11:44:57",no,no,no,no
+41,-8,"On the Waterfront",1954,http://www.icheckmovies.com/movies/on+the+waterfront/,18266,1615,85,32,712,,http://www.imdb.com/title/tt0047296/,"2018-04-26 21:31:51",no,no,no,no
+42,-10,"Dial M for Murder",1954,http://www.icheckmovies.com/movies/dial+m+for+murder/,18379,1543,40,8,389,,http://www.imdb.com/title/tt0046912/,"2018-04-28 16:00:08",no,no,no,no
+43,-12,"The Third Man",1949,http://www.icheckmovies.com/movies/the+third+man/,19891,2449,94,33,906,,http://www.imdb.com/title/tt0041959/,"2018-04-26 21:30:23",no,no,no,no
+44,-14,"Safety Last!",1923,http://www.icheckmovies.com/movies/safety+lastexclamation/,4694,496,22,17,309,,http://www.imdb.com/title/tt0014429/,"2018-04-28 11:47:19",no,no,no,no
+45,,Ah-ga-ssi,2016,http://www.icheckmovies.com/movies/ah-ga-ssi/,3831,643,19,7,209,"The Handmaiden",http://www.imdb.com/title/tt4016934/,"2018-11-19 21:32:02",no,no,no,no
+46,,Logan,2017,http://www.icheckmovies.com/movies/logan/,11639,974,69,8,236,,http://www.imdb.com/title/tt3315342/,"2018-04-28 15:46:05",no,no,no,no
+47,,"Relatos salvajes",2014,http://www.icheckmovies.com/movies/relatos+salvajes/,6336,1015,35,7,256,"Wild Tales",http://www.imdb.com/title/tt3011894/,"2018-05-22 07:16:40",no,no,no,no
+48,,"Gone Girl",2014,http://www.icheckmovies.com/movies/gone+girl/,28361,2698,188,8,494,,http://www.imdb.com/title/tt2267998/,"2018-01-10 16:59:06",no,no,no,no
+49,,"Tropa de Elite 2: O Inimigo Agora é Outro",2010,http://www.icheckmovies.com/movies/tropa+de+elite+2+o+inimigo+agora+e+outro/,7880,685,61,4,142,"Elite Squad: The Enemy Within",http://www.imdb.com/title/tt1555149/,"2018-04-28 15:48:51",no,no,no,no
+50,,Prisoners,2013,http://www.icheckmovies.com/movies/prisoners-2013/,18710,1730,99,6,415,,http://www.imdb.com/title/tt1392214/,"2018-04-28 15:48:11",no,no,no,no

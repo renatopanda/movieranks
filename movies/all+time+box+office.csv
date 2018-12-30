@@ -1,0 +1,301 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,0,"Gone with the Wind",1939,http://www.icheckmovies.com/movies/gone+with+the+wind/,40913,2690,395,30,823,,http://www.imdb.com/title/tt0031381/,"2018-01-10 16:58:26",no,no,no,no
+2,0,"Star Wars",1977,http://www.icheckmovies.com/movies/star+wars/,111874,9477,437,36,1262,"Star Wars: Episode IV - A New Hope",http://www.imdb.com/title/tt0076759/,"2018-01-10 16:55:04",no,no,no,yes
+3,0,"The Sound of Music",1965,http://www.icheckmovies.com/movies/the+sound+of+music/,49945,2507,337,21,520,,http://www.imdb.com/title/tt0059742/,"2018-04-26 21:36:16",no,no,no,no
+4,0,"E.T. the Extra-Terrestrial",1982,http://www.icheckmovies.com/movies/e.t.+the+extra-terrestrial/,94683,3109,574,27,758,,http://www.imdb.com/title/tt0083866/,"2018-04-26 21:42:21",no,no,no,no
+5,0,Titanic,1997,http://www.icheckmovies.com/movies/titanic/,109551,4511,1575,23,774,,http://www.imdb.com/title/tt0120338/,"2018-04-26 21:49:27",no,no,no,no
+6,0,"The Ten Commandments",1956,http://www.icheckmovies.com/movies/the+ten+commandments/,12101,336,79,10,300,,http://www.imdb.com/title/tt0049833/,"2018-04-28 15:59:26",no,no,no,no
+7,0,Jaws,1975,http://www.icheckmovies.com/movies/jaws/,84834,3659,391,27,1074,,http://www.imdb.com/title/tt0073195/,"2018-01-10 17:00:27",no,no,no,no
+8,0,"Doctor Zhivago",1965,http://www.icheckmovies.com/movies/doctor+zhivago/,10536,634,90,15,415,,http://www.imdb.com/title/tt0059113/,"2018-04-26 21:36:10",no,no,no,no
+9,0,"Star Wars: Episode VII - The Force Awakens",2015,http://www.icheckmovies.com/movies/star+wars+episode+vii+-+the+force+awakens/,23553,1776,205,10,386,"Star Wars: The Force Awakens",http://www.imdb.com/title/tt2488496/,"2018-01-31 08:54:40",no,no,no,no
+10,0,"The Exorcist",1973,http://www.icheckmovies.com/movies/the+exorcist/,64693,2996,454,24,852,,http://www.imdb.com/title/tt0070047/,"2018-01-31 08:54:52",no,no,no,no
+11,0,"Snow White and the Seven Dwarfs",1937,http://www.icheckmovies.com/movies/snow+white+and+the+seven+dwarfs/,73512,1351,150,23,586,,http://www.imdb.com/title/tt0029583/,"2018-04-26 21:27:40",no,no,no,no
+12,0,"One Hundred and One Dalmatians",1961,http://www.icheckmovies.com/movies/one+hundred+and+one+dalmatians/,60620,938,110,8,205,"101 Dalmatians",http://www.imdb.com/title/tt0055254/,"2018-10-17 01:29:09",no,no,no,no
+13,0,"Star Wars: Episode V - The Empire Strikes Back",1980,http://www.icheckmovies.com/movies/star+wars+episode+v+-+the+empire+strikes+back/,106798,9453,423,23,1120,,http://www.imdb.com/title/tt0080684/,"2018-01-10 16:54:54",no,no,no,yes
+14,0,Ben-Hur,1959,http://www.icheckmovies.com/movies/ben-hur/,29867,1201,180,24,568,,http://www.imdb.com/title/tt0052618/,"2018-04-26 21:33:55",no,no,no,no
+15,0,Avatar,2009,http://www.icheckmovies.com/movies/avatar/,106148,4439,3165,15,651,,http://www.imdb.com/title/tt0499549/,"2018-04-26 21:53:10",no,no,no,no
+16,0,"Star Wars: Episode VI - Return of the Jedi",1983,http://www.icheckmovies.com/movies/star+wars+episode+vi+-+return+of+the+jedi/,98424,5980,367,16,808,,http://www.imdb.com/title/tt0086190/,"2018-01-10 16:56:30",no,no,no,no
+17,0,"Jurassic Park",1993,http://www.icheckmovies.com/movies/jurassic+park/,110284,6062,346,20,870,,http://www.imdb.com/title/tt0107290/,"2018-01-10 16:59:37",no,no,no,no
+18,0,"Star Wars: Episode I - The Phantom Menace",1999,http://www.icheckmovies.com/movies/star+wars+episode+i+-+the+phantom+menace/,70416,1327,1820,4,436,,http://www.imdb.com/title/tt0120915/,"2018-04-28 15:57:57",no,no,no,no
+19,0,"The Lion King",1994,http://www.icheckmovies.com/movies/the+lion+king/,131802,8551,287,22,778,,http://www.imdb.com/title/tt0110357/,"2018-01-10 16:55:47",no,no,no,yes
+20,0,"The Sting",1973,http://www.icheckmovies.com/movies/the+sting/,23188,2154,63,17,522,,http://www.imdb.com/title/tt0070735/,"2018-01-10 16:56:58",no,no,no,no
+21,0,"Raiders of the Lost Ark",1981,http://www.icheckmovies.com/movies/raiders+of+the+lost+ark/,88586,6533,240,26,994,,http://www.imdb.com/title/tt0082971/,"2018-01-10 16:55:36",no,no,no,no
+22,0,"The Graduate",1967,http://www.icheckmovies.com/movies/the+graduate/,41913,3470,230,25,807,,http://www.imdb.com/title/tt0061722/,"2018-04-26 21:36:52",no,no,no,no
+23,0,Fantasia,1940,http://www.icheckmovies.com/movies/fantasia/,53234,1998,225,20,475,,http://www.imdb.com/title/tt0032455/,"2018-01-31 09:37:05",no,no,no,no
+24,0,"Jurassic World",2015,http://www.icheckmovies.com/movies/jurassic+world/,15675,460,328,3,218,,http://www.imdb.com/title/tt0369610/,"2018-06-27 22:29:01",no,no,no,no
+25,0,"The Godfather",1972,http://www.icheckmovies.com/movies/the+godfather/,91312,12304,396,38,1496,,http://www.imdb.com/title/tt0068646/,"2018-01-10 13:21:17",no,no,no,yes
+26,0,"Forrest Gump",1994,http://www.icheckmovies.com/movies/forrest+gump/,134073,11793,771,24,961,,http://www.imdb.com/title/tt0109830/,"2018-01-10 16:54:52",no,no,no,yes
+27,0,"Mary Poppins",1964,http://www.icheckmovies.com/movies/mary+poppins/,49632,1769,167,13,396,,http://www.imdb.com/title/tt0058331/,"2018-04-26 21:36:27",no,no,no,no
+28,0,Grease,1978,http://www.icheckmovies.com/movies/grease/,70158,2205,660,10,377,,http://www.imdb.com/title/tt0077631/,"2018-04-26 21:40:59",no,no,no,no
+29,0,"The Avengers",2012,http://www.icheckmovies.com/movies/the+avengers-2012-1/,64704,4512,702,8,701,,http://www.imdb.com/title/tt0848228/,"2018-04-28 15:48:43",no,no,no,no
+30,0,"Black Panther",2018,http://www.icheckmovies.com/movies/black+panther-2018/,7770,465,88,3,166,,http://www.imdb.com/title/tt1825683/,"2018-06-27 22:08:08",no,no,no,no
+31,0,Thunderball,1965,http://www.icheckmovies.com/movies/thunderball/,11551,220,71,3,163,,http://www.imdb.com/title/tt0059800/,"2018-04-28 23:11:07",no,no,no,no
+32,0,"The Dark Knight",2008,http://www.icheckmovies.com/movies/the+dark+knight/,134591,16209,763,23,1294,,http://www.imdb.com/title/tt0468569/,"2018-04-26 21:52:46",no,no,no,yes
+33,0,"The Jungle Book",1967,http://www.icheckmovies.com/movies/the+jungle+book/,69980,1440,122,9,328,,http://www.imdb.com/title/tt0061852/,"2018-04-26 21:37:07",no,no,no,no
+34,1,"Sleeping Beauty",1959,http://www.icheckmovies.com/movies/sleeping+beauty/,38486,823,101,3,249,,http://www.imdb.com/title/tt0053285/,"2018-10-17 02:20:51",no,no,no,no
+35,-1,"Avengers: Infinity War",2018,http://www.icheckmovies.com/movies/avengers+infinity+war/,7851,629,56,9,147,,http://www.imdb.com/title/tt4154756/,"2018-10-14 17:58:23",no,no,no,no
+36,0,Ghostbusters,1984,http://www.icheckmovies.com/movies/ghostbusters-1984/,76881,3682,185,13,602,,http://www.imdb.com/title/tt0087332/,"2018-01-31 08:55:13",no,no,no,no
+37,0,"Shrek 2",2004,http://www.icheckmovies.com/movies/shrek+2/,84157,1347,550,4,299,,http://www.imdb.com/title/tt0298148/,"2018-06-27 22:08:37",no,no,no,no
+38,0,"Butch Cassidy and the Sundance Kid",1969,http://www.icheckmovies.com/movies/butch+cassidy+and+the+sundance+kid/,28451,2268,116,22,667,,http://www.imdb.com/title/tt0064115/,"2018-04-26 21:37:32",no,no,no,no
+39,0,"Love Story",1970,http://www.icheckmovies.com/movies/love+story/,4549,149,119,7,158,,http://www.imdb.com/title/tt0066011/,"2018-11-27 15:42:56",no,no,no,no
+40,0,Spider-Man,2002,http://www.icheckmovies.com/movies/spider-man/,92417,1989,551,8,436,,http://www.imdb.com/title/tt0145487/,"2018-04-28 15:55:58",no,no,no,no
+41,0,"Independence Day",1996,http://www.icheckmovies.com/movies/independence+day/,73102,1964,829,8,307,,http://www.imdb.com/title/tt0116629/,"2018-04-26 21:48:44",no,no,no,no
+42,0,"Home Alone",1990,http://www.icheckmovies.com/movies/home+alone/,95144,2878,518,5,345,,http://www.imdb.com/title/tt0099785/,"2018-10-17 01:43:45",no,no,no,no
+43,0,"Star Wars: Episode VIII - The Last Jedi",2017,http://www.icheckmovies.com/movies/star+wars+episode+viii+-+the+last+jedi/,8806,477,182,2,183,"Star Wars: The Last Jedi",http://www.imdb.com/title/tt2527336/,"2018-06-27 22:08:04",no,no,no,no
+44,0,Pinocchio,1940,http://www.icheckmovies.com/movies/pinocchio/,62667,1065,150,15,411,,http://www.imdb.com/title/tt0032910/,"2018-04-26 21:28:16",no,no,no,no
+45,0,Cleopatra,1963,http://www.icheckmovies.com/movies/cleopatra-1963/,4231,102,42,5,175,,http://www.imdb.com/title/tt0056937/,"2018-10-17 01:41:05",no,no,no,no
+46,0,"Beverly Hills Cop",1984,http://www.icheckmovies.com/movies/beverly+hills+cop/,35209,837,120,7,202,,http://www.imdb.com/title/tt0086960/,"2018-04-26 21:43:28",no,no,no,no
+47,71,"Incredibles 2",2018,http://www.icheckmovies.com/movies/incredibles+2/,3934,217,9,3,79,,http://www.imdb.com/title/tt3606756/,"2018-10-29 22:27:34",no,no,no,no
+48,-1,Goldfinger,1964,http://www.icheckmovies.com/movies/goldfinger/,33365,1088,82,14,428,,http://www.imdb.com/title/tt0058150/,"2018-04-26 21:35:50",no,no,no,no
+49,-1,Airport,1970,http://www.icheckmovies.com/movies/airport/,2252,47,36,2,110,,http://www.imdb.com/title/tt0065377/,no,no,no,no,no
+50,-1,"American Graffiti",1973,http://www.icheckmovies.com/movies/american+graffiti/,14981,660,112,16,386,,http://www.imdb.com/title/tt0069704/,"2018-04-26 21:38:49",no,no,no,no
+51,-1,"The Robe",1953,http://www.icheckmovies.com/movies/the+robe/,1219,23,20,4,108,,http://www.imdb.com/title/tt0046247/,"2018-10-17 22:36:04",no,no,no,no
+52,-1,"Pirates of the Caribbean: Dead Man's Chest",2006,http://www.icheckmovies.com/movies/pirates+of+the+caribbean+dead+mans+chest/,84176,1961,804,4,395,,http://www.imdb.com/title/tt0383574/,"2018-06-14 00:52:51",no,no,no,no
+53,-1,"Around the World in Eighty Days",1956,http://www.icheckmovies.com/movies/around+the+world+in+eighty+days/,5649,98,60,8,165,,http://www.imdb.com/title/tt0048960/,"2018-11-25 21:04:38",no,no,no,no
+54,-1,Bambi,1942,http://www.icheckmovies.com/movies/bambi/,64496,985,194,12,367,,http://www.imdb.com/title/tt0034492/,"2018-04-28 15:59:15",no,no,no,no
+55,-1,"Blazing Saddles",1974,http://www.icheckmovies.com/movies/blazing+saddles/,26753,1613,194,13,444,,http://www.imdb.com/title/tt0071230/,"2018-04-26 21:39:24",no,no,no,no
+56,-1,Batman,1989,http://www.icheckmovies.com/movies/batman/,66426,1867,233,9,441,,http://www.imdb.com/title/tt0096895/,"2018-04-26 21:45:59",no,no,no,no
+57,-1,"The Bells of St. Mary's",1945,http://www.icheckmovies.com/movies/the+bells+of+st.+marys/,1230,37,14,3,96,,http://www.imdb.com/title/tt0037536/,no,no,no,no,no
+58,-1,"The Lord of the Rings: The Return of the King",2003,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+return+of+the+king/,123782,12152,686,26,1323,,http://www.imdb.com/title/tt0167260/,"2018-01-10 16:54:47",no,no,no,yes
+59,-1,"Finding Nemo",2003,http://www.icheckmovies.com/movies/finding+nemo/,128146,6526,311,17,730,,http://www.imdb.com/title/tt0266543/,"2018-01-10 16:58:47",no,no,no,yes
+60,-1,"The Towering Inferno",1974,http://www.icheckmovies.com/movies/the+towering+inferno/,5127,138,45,5,186,,http://www.imdb.com/title/tt0072308/,"2018-04-26 21:39:58",no,no,no,no
+61,-1,"Rogue One",2016,http://www.icheckmovies.com/movies/rogue+one/,13098,891,131,3,228,,http://www.imdb.com/title/tt3748528/,"2018-01-31 08:56:39",no,no,no,no
+62,-1,Cinderella,1950,http://www.icheckmovies.com/movies/cinderella-1950/,40714,664,94,5,251,,http://www.imdb.com/title/tt0042332/,"2018-10-17 01:52:03",no,no,no,no
+63,-1,"Spider-Man 2",2004,http://www.icheckmovies.com/movies/spider-man+2/,84903,1825,605,6,457,,http://www.imdb.com/title/tt0316654/,"2018-04-28 15:54:58",no,no,no,no
+64,-1,"My Fair Lady",1964,http://www.icheckmovies.com/movies/my+fair+lady/,21043,1100,126,17,386,,http://www.imdb.com/title/tt0058385/,"2018-04-26 21:35:57",no,no,no,no
+65,-1,"The Greatest Show on Earth",1952,http://www.icheckmovies.com/movies/the+greatest+show+on+earth/,2264,50,68,5,112,,http://www.imdb.com/title/tt0044672/,"2018-11-25 21:07:53",no,no,no,no
+66,-1,"Animal House",1978,http://www.icheckmovies.com/movies/animal+house/,18438,834,153,9,288,,http://www.imdb.com/title/tt0077975/,"2018-10-17 21:53:02",no,no,no,no
+67,-1,"The Passion of the Christ",2004,http://www.icheckmovies.com/movies/the+passion+of+the+christ/,31874,620,757,4,206,,http://www.imdb.com/title/tt0335345/,"2018-04-26 21:51:25",no,no,no,no
+68,-1,"Star Wars: Episode III - Revenge of the Sith",2005,http://www.icheckmovies.com/movies/star+wars+episode+iii+-+revenge+of+the+sith/,69782,2179,959,4,466,,http://www.imdb.com/title/tt0121766/,"2018-04-28 15:52:59",no,no,no,no
+69,-1,"Back to the Future",1985,http://www.icheckmovies.com/movies/back+to+the+future/,117383,10229,254,23,1054,,http://www.imdb.com/title/tt0088763/,"2018-01-10 16:55:39",no,no,no,no
+70,-1,"The Lord of the Rings: The Two Towers",2002,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+two+towers/,123757,10354,572,22,1161,,http://www.imdb.com/title/tt0167261/,"2018-01-10 16:54:57",no,no,no,yes
+71,-1,"The Dark Knight Rises",2012,http://www.icheckmovies.com/movies/the+dark+knight+rises/,66718,4760,544,9,692,,http://www.imdb.com/title/tt1345836/,"2018-04-28 15:48:37",no,no,no,no
+72,-1,"The Sixth Sense",1999,http://www.icheckmovies.com/movies/the+sixth+sense/,97152,4978,362,18,671,,http://www.imdb.com/title/tt0167404/,"2018-01-10 16:58:34",no,no,no,no
+73,-1,Superman,1978,http://www.icheckmovies.com/movies/superman/,32017,712,137,11,337,,http://www.imdb.com/title/tt0078346/,"2018-04-28 11:49:25",no,no,no,no
+74,-1,"Beauty and the Beast",2017,http://www.icheckmovies.com/movies/beauty+and+the+beast-2017/,6125,240,118,2,122,,http://www.imdb.com/title/tt2771200/,"2018-11-08 00:25:12",no,no,no,no
+75,-1,Tootsie,1982,http://www.icheckmovies.com/movies/tootsie/,18163,737,102,17,347,,http://www.imdb.com/title/tt0084805/,"2018-04-26 21:42:32",no,no,no,no
+76,-1,"Smokey and the Bandit",1977,http://www.icheckmovies.com/movies/smokey+and+the+bandit/,4578,136,37,2,95,,http://www.imdb.com/title/tt0076729/,"2018-10-30 22:10:38",no,no,no,no
+77,-1,"Finding Dory",2016,http://www.icheckmovies.com/movies/finding+dory/,9835,405,59,3,180,,http://www.imdb.com/title/tt2277860/,"2018-01-31 09:13:44",no,no,no,no
+78,-1,"West Side Story",1961,http://www.icheckmovies.com/movies/west+side+story/,29823,1202,318,21,509,,http://www.imdb.com/title/tt0055614/,"2018-04-26 21:34:46",no,no,no,no
+79,-1,"Close Encounters of the Third Kind",1977,http://www.icheckmovies.com/movies/close+encounters+of+the+third+kind/,32244,1611,226,22,563,,http://www.imdb.com/title/tt0075860/,"2018-04-26 21:40:37",no,no,no,no
+80,-1,"Harry Potter and the Sorcerer's Stone",2001,http://www.icheckmovies.com/movies/harry+potter+and+the+sorcerers+stone/,94375,3176,470,5,555,,http://www.imdb.com/title/tt0241527/,"2018-04-28 15:56:05",no,no,no,no
+81,-1,"Lady and the Tramp",1955,http://www.icheckmovies.com/movies/lady+and+the+tramp/,38569,770,61,3,212,,http://www.imdb.com/title/tt0048280/,"2018-04-28 15:59:21",no,no,no,no
+82,-1,"Lawrence of Arabia",1962,http://www.icheckmovies.com/movies/lawrence+of+arabia/,28886,2663,192,40,956,,http://www.imdb.com/title/tt0056172/,"2018-01-10 16:56:42",no,no,no,no
+83,-1,"The Rocky Horror Picture Show",1975,http://www.icheckmovies.com/movies/the+rocky+horror+picture+show/,31029,2616,352,11,451,,http://www.imdb.com/title/tt0073629/,"2018-04-26 21:39:40",no,no,no,no
+84,-1,Rocky,1976,http://www.icheckmovies.com/movies/rocky/,67536,2828,331,20,639,,http://www.imdb.com/title/tt0075148/,"2018-04-26 21:40:19",no,no,no,no
+85,-1,"The Best Years of Our Lives",1946,http://www.icheckmovies.com/movies/the+best+years+of+our+lives/,7268,718,48,27,558,,http://www.imdb.com/title/tt0036868/,"2018-04-26 21:29:17",no,no,no,no
+86,-1,"The Poseidon Adventure",1972,http://www.icheckmovies.com/movies/the+poseidon+adventure/,5166,142,27,3,170,,http://www.imdb.com/title/tt0069113/,"2018-10-17 02:17:47",no,no,no,no
+87,-1,"The Lord of the Rings: The Fellowship of the Ring",2001,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+fellowship+of+the+ring/,129276,12045,699,26,1353,,http://www.imdb.com/title/tt0120737/,"2018-01-10 16:54:51",no,no,no,yes
+88,-1,Twister,1996,http://www.icheckmovies.com/movies/twister/,40132,621,442,2,137,,http://www.imdb.com/title/tt0117998/,"2018-04-28 16:04:21",no,no,no,no
+89,-1,"Men in Black",1997,http://www.icheckmovies.com/movies/men+in+black/,85055,2377,323,6,329,,http://www.imdb.com/title/tt0119654/,"2018-04-28 16:00:05",no,no,no,no
+90,-1,"The Bridge on the River Kwai",1957,http://www.icheckmovies.com/movies/the+bridge+on+the+river+kwai/,24796,1695,70,30,654,,http://www.imdb.com/title/tt0050212/,"2018-01-10 16:57:56",no,no,no,no
+91,-1,"Transformers: Revenge of the Fallen",2009,http://www.icheckmovies.com/movies/transformers+revenge+of+the+fallen/,43456,535,1956,2,197,,http://www.imdb.com/title/tt1055369/,"2018-06-27 22:28:24",no,no,no,no
+92,-1,"It's a Mad Mad Mad Mad World",1963,http://www.icheckmovies.com/movies/its+a+mad+mad+mad+mad+world/,5360,294,60,5,200,,http://www.imdb.com/title/tt0057193/,"2018-10-17 01:44:10",no,no,no,no
+93,-1,"Swiss Family Robinson",1960,http://www.icheckmovies.com/movies/swiss+family+robinson/,2928,96,18,2,66,,http://www.imdb.com/title/tt0054357/,"2018-11-08 00:24:44",no,no,no,no
+94,-1,"One Flew Over the Cuckoo's Nest",1975,http://www.icheckmovies.com/movies/one+flew+over+the+cuckoos+nest/,72743,7912,202,33,1084,,http://www.imdb.com/title/tt0073486/,"2018-04-26 21:39:32",no,no,no,yes
+95,-1,MASH,1970,http://www.icheckmovies.com/movies/mash/,12487,592,159,21,379,,http://www.imdb.com/title/tt0066026/,"2018-04-26 21:37:53",no,no,no,no
+96,-1,"Indiana Jones and the Temple of Doom",1984,http://www.icheckmovies.com/movies/indiana+jones+and+the+temple+of+doom/,60960,2132,322,8,424,,http://www.imdb.com/title/tt0087469/,"2018-01-31 11:43:23",no,no,no,yes
+97,-1,"Avengers: Age of Ultron",2015,http://www.icheckmovies.com/movies/avengers+age+of+ultron/,16977,593,258,2,292,,http://www.imdb.com/title/tt2395427/,"2018-04-28 15:47:36",no,no,no,no
+98,-1,"Star Wars: Episode II - Attack of the Clones",2002,http://www.icheckmovies.com/movies/star+wars+episode+ii+-+attack+of+the+clones/,65414,1216,1447,3,370,,http://www.imdb.com/title/tt0121765/,"2018-04-28 15:55:58",no,no,no,no
+99,-1,"Mrs. Doubtfire",1993,http://www.icheckmovies.com/movies/mrs.+doubtfire/,62822,1634,390,6,199,,http://www.imdb.com/title/tt0107614/,"2018-10-17 01:37:03",no,no,no,no
+100,-1,Aladdin,1992,http://www.icheckmovies.com/movies/aladdin/,92603,3642,156,13,460,,http://www.imdb.com/title/tt0103639/,"2018-01-31 08:56:27",no,no,no,no
+101,-1,"Toy Story 3",2010,http://www.icheckmovies.com/movies/toy+story+3/,97600,6224,314,16,739,,http://www.imdb.com/title/tt0435761/,"2018-01-10 16:56:57",no,no,no,no
+102,-1,Ghost,1990,http://www.icheckmovies.com/movies/ghost/,36741,854,317,9,204,,http://www.imdb.com/title/tt0099653/,"2018-04-28 22:55:13",no,no,no,no
+103,-1,"The Hunger Games: Catching Fire",2013,http://www.icheckmovies.com/movies/the+hunger+games+catching+fire/,26714,1137,190,2,325,,http://www.imdb.com/title/tt1951264/,"2018-04-28 15:48:07",no,no,no,no
+104,-1,"Duel in the Sun",1946,http://www.icheckmovies.com/movies/duel+in+the+sun/,1568,59,41,7,208,,http://www.imdb.com/title/tt0038499/,"2018-10-17 22:07:48",no,no,no,no
+105,-1,"The Hunger Games",2012,http://www.icheckmovies.com/movies/the+hunger+games/,46729,2019,584,2,439,,http://www.imdb.com/title/tt1392170/,"2018-11-08 00:22:36",no,no,no,no
+106,-1,"Pirates of the Caribbean: The Curse of the Black Pearl",2003,http://www.icheckmovies.com/movies/pirates+of+the+caribbean+the+curse+of+the+black+pearl/,113649,5100,643,10,647,,http://www.imdb.com/title/tt0325980/,"2018-04-28 15:55:30",no,no,no,no
+107,-1,"House of Wax",1953,http://www.icheckmovies.com/movies/house+of+wax/,4420,99,33,4,162,,http://www.imdb.com/title/tt0045888/,"2018-10-17 22:13:18",no,no,no,no
+108,-1,"Rear Window",1954,http://www.icheckmovies.com/movies/rear+window/,45119,5546,111,29,1056,,http://www.imdb.com/title/tt0047396/,"2018-01-10 16:55:39",no,no,no,no
+109,-1,"The Lost World: Jurassic Park",1997,http://www.icheckmovies.com/movies/the+lost+world+jurassic+park/,60981,862,566,4,219,,http://www.imdb.com/title/tt0119567/,"2018-10-17 22:26:22",no,no,no,no
+110,-1,"Indiana Jones and the Last Crusade",1989,http://www.icheckmovies.com/movies/indiana+jones+and+the+last+crusade/,83205,4593,202,14,562,,http://www.imdb.com/title/tt0097576/,"2018-01-10 16:57:26",no,no,no,no
+111,-1,"Monsters, Inc.",2001,http://www.icheckmovies.com/movies/monsters+inc./,113935,5764,210,15,561,,http://www.imdb.com/title/tt0198781/,"2018-01-10 17:00:23",no,no,no,yes
+112,-1,Frozen,2013,http://www.icheckmovies.com/movies/frozen-2013/,28918,1375,323,4,395,,http://www.imdb.com/title/tt2294629/,"2018-06-27 22:08:11",no,no,no,no
+113,-1,"Spider-Man 3",2007,http://www.icheckmovies.com/movies/spider-man+3/,64297,550,1895,3,282,,http://www.imdb.com/title/tt0413300/,"2018-06-27 22:08:39",no,no,no,no
+114,-1,"Iron Man Three",2013,http://www.icheckmovies.com/movies/iron+man+three/,26010,863,297,3,335,,http://www.imdb.com/title/tt1300854/,"2018-06-27 22:08:20",no,no,no,no
+115,-1,"Terminator 2: Judgment Day",1991,http://www.icheckmovies.com/movies/terminator+2+judgment+day/,87929,6177,305,21,889,,http://www.imdb.com/title/tt0103064/,"2018-01-10 16:55:37",no,no,no,no
+116,-1,"Sergeant York",1941,http://www.icheckmovies.com/movies/sergeant+york/,2548,119,17,7,205,,http://www.imdb.com/title/tt0034167/,"2018-10-17 22:37:28",no,no,no,no
+117,-1,"How the Grinch Stole Christmas",2000,http://www.icheckmovies.com/movies/how+the+grinch+stole+christmas/,50354,708,727,2,179,,http://www.imdb.com/title/tt0170016/,"2018-11-19 21:33:03",no,no,no,no
+118,-1,"Top Gun",1986,http://www.icheckmovies.com/movies/top+gun/,45307,983,467,8,306,,http://www.imdb.com/title/tt0092099/,"2018-04-26 21:44:39",no,no,no,no
+119,0,"Harry Potter and the Deathly Hallows: Part 2",2011,http://www.icheckmovies.com/movies/harry+potter+and+the+deathly+hallows+part+2/,75613,3804,440,9,575,,http://www.imdb.com/title/tt1201607/,"2018-01-10 17:00:23",no,no,no,no
+120,0,"Toy Story 2",1999,http://www.icheckmovies.com/movies/toy+story+2/,100161,3360,212,12,571,,http://www.imdb.com/title/tt0120363/,"2018-01-31 08:54:53",no,no,no,no
+121,0,Shrek,2001,http://www.icheckmovies.com/movies/shrek/,105998,3302,433,14,497,,http://www.imdb.com/title/tt0126029/,"2018-01-31 11:46:31",no,no,no,no
+122,0,"Shrek the Third",2007,http://www.icheckmovies.com/movies/shrek+the+third/,54158,404,1060,3,200,,http://www.imdb.com/title/tt0413267/,"2018-06-27 22:28:27",no,no,no,no
+123,0,"Despicable Me 2",2013,http://www.icheckmovies.com/movies/despicable+me+2/,18014,572,161,2,215,,http://www.imdb.com/title/tt1690953/,"2018-06-27 22:08:31",no,no,no,no
+124,0,"Captain America: Civil War",2016,http://www.icheckmovies.com/movies/captain+america+civil+war/,14112,782,159,3,238,,http://www.imdb.com/title/tt3498820/,"2018-04-28 15:46:29",no,no,no,no
+125,0,"The Matrix Reloaded",2003,http://www.icheckmovies.com/movies/the+matrix+reloaded/,65531,1509,917,5,320,,http://www.imdb.com/title/tt0234215/,"2018-06-27 22:28:46",no,no,no,no
+126,0,Transformers,2007,http://www.icheckmovies.com/movies/transformers/,69394,1413,1854,4,287,,http://www.imdb.com/title/tt0418279/,"2018-04-28 15:51:30",no,no,no,no
+127,0,"Crocodile Dundee",1986,http://www.icheckmovies.com/movies/crocodile+dundee/,29008,337,202,5,116,,http://www.imdb.com/title/tt0090555/,"2018-10-17 01:41:33",no,no,no,no
+128,0,"Wonder Woman",2017,http://www.icheckmovies.com/movies/wonder+woman-2017/,8982,520,120,3,167,,http://www.imdb.com/title/tt0451279/,"2018-04-28 15:46:02",no,no,no,no
+129,0,"The Four Horsemen of the Apocalypse",1921,http://www.icheckmovies.com/movies/the+four+horsemen+of+the+apocalypse/,750,30,9,7,120,,http://www.imdb.com/title/tt0012190/,no,no,no,no,no
+130,,"Jurassic World: Fallen Kingdom",2018,http://www.icheckmovies.com/movies/jurassic+world+fallen+kingdom/,3079,42,98,2,63,,http://www.imdb.com/title/tt4881806/,"2018-10-30 22:15:53",no,no,no,no
+131,-1,"Saving Private Ryan",1998,http://www.icheckmovies.com/movies/saving+private+ryan/,94926,6339,404,27,888,,http://www.imdb.com/title/tt0120815/,"2018-01-10 16:55:16",no,no,no,yes
+132,-1,"Young Frankenstein",1974,http://www.icheckmovies.com/movies/young+frankenstein/,27772,2233,115,14,470,,http://www.imdb.com/title/tt0072431/,"2018-06-11 13:15:50",no,no,no,no
+133,-1,"Peter Pan",1953,http://www.icheckmovies.com/movies/peter+pan-1953-1/,37605,753,83,2,208,,http://www.imdb.com/title/tt0046183/,"2018-11-08 00:23:49",no,no,no,no
+134,-1,Gremlins,1984,http://www.icheckmovies.com/movies/gremlins/,32785,1252,164,3,343,,http://www.imdb.com/title/tt0087363/,"2018-06-14 00:49:53",no,no,no,no
+135,-1,"Beauty and the Beast",1991,http://www.icheckmovies.com/movies/beauty+and+the+beast/,97255,4283,220,18,562,,http://www.imdb.com/title/tt0101414/,"2018-01-31 08:55:15",no,no,no,no
+136,-1,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,http://www.icheckmovies.com/movies/the+chronicles+of+narnia+the+lion+the+witch+and+the+wardrobe/,66003,1205,706,4,231,,http://www.imdb.com/title/tt0363771/,"2018-06-27 22:28:45",no,no,no,no
+137,-1,"Harry Potter and the Goblet of Fire",2005,http://www.icheckmovies.com/movies/harry+potter+and+the+goblet+of+fire/,86091,2693,403,4,485,,http://www.imdb.com/title/tt0330373/,"2018-06-27 22:08:43",no,no,no,no
+138,-1,"Pirates of the Caribbean: At World's End",2007,http://www.icheckmovies.com/movies/pirates+of+the+caribbean+at+worlds+end/,76545,1598,1014,3,350,,http://www.imdb.com/title/tt0449088/,"2018-06-27 22:08:33",no,no,no,no
+139,-1,"Harry Potter and the Chamber of Secrets",2002,http://www.icheckmovies.com/movies/harry+potter+and+the+chamber+of+secrets/,88143,2512,407,3,461,,http://www.imdb.com/title/tt0295297/,"2018-04-28 15:55:39",no,no,no,no
+140,-1,"The Fugitive",1993,http://www.icheckmovies.com/movies/the+fugitive/,31022,1217,57,7,287,,http://www.imdb.com/title/tt0106977/,"2018-04-28 16:06:19",no,no,no,no
+141,-1,"The Caine Mutiny",1954,http://www.icheckmovies.com/movies/the+caine+mutiny/,2064,107,14,3,148,,http://www.imdb.com/title/tt0046816/,"2018-04-28 15:58:36",no,no,no,no
+142,-1,"Iron Man",2008,http://www.icheckmovies.com/movies/iron+man/,88586,4198,462,7,540,,http://www.imdb.com/title/tt0371746/,"2018-04-28 15:50:43",no,no,no,no
+143,-1,"Transformers: Dark of the Moon",2011,http://www.icheckmovies.com/movies/transformers+dark+of+the+moon/,23066,327,910,2,207,,http://www.imdb.com/title/tt1399103/,"2018-06-27 22:08:20",no,no,no,no
+144,-1,"Meet the Fockers",2004,http://www.icheckmovies.com/movies/meet+the+fockers/,55453,560,888,4,129,,http://www.imdb.com/title/tt0290002/,"2018-10-17 22:27:19",no,no,no,no
+145,-1,"Indiana Jones and the Kingdom of the Crystal Skull",2008,http://www.icheckmovies.com/movies/indiana+jones+and+the+kingdom+of+the+crystal+skull/,54323,549,1966,4,254,,http://www.imdb.com/title/tt0367882/,"2018-04-28 15:50:43",no,no,no,no
+146,-1,"Jumanji: Welcome to the Jungle",2017,http://www.icheckmovies.com/movies/jumanji+welcome+to+the+jungle/,4081,150,36,2,58,,http://www.imdb.com/title/tt2283362/,"2018-06-27 22:08:34",no,no,no,no
+147,-1,"Toy Story",1995,http://www.icheckmovies.com/movies/toy+story/,131473,7363,256,24,885,,http://www.imdb.com/title/tt0114709/,"2018-01-10 16:56:55",no,no,no,no
+148,-1,"Dances with Wolves",1990,http://www.icheckmovies.com/movies/dances+with+wolves/,36504,1574,282,15,508,,http://www.imdb.com/title/tt0099348/,"2018-04-26 21:46:27",no,no,no,no
+149,-1,"An Officer and a Gentleman",1982,http://www.icheckmovies.com/movies/an+officer+and+a+gentleman/,5677,145,42,5,140,,http://www.imdb.com/title/tt0084434/,"2018-10-17 01:45:42",no,no,no,no
+150,-1,"Guardians of the Galaxy Vol. 2",2017,http://www.icheckmovies.com/movies/guardians+of+the+galaxy+vol.+2/,9796,570,99,2,183,,http://www.imdb.com/title/tt3896198/,"2018-04-28 15:46:03",no,no,no,no
+151,-1,"2001: A Space Odyssey",1968,http://www.icheckmovies.com/movies/2001+a+space+odyssey/,65079,7556,828,42,1443,,http://www.imdb.com/title/tt0062622/,"2018-01-10 16:56:52",no,no,no,no
+152,-1,"Rain Man",1988,http://www.icheckmovies.com/movies/rain+man/,58604,3039,149,14,478,,http://www.imdb.com/title/tt0095953/,"2018-04-26 21:45:52",no,no,no,no
+153,-1,"The Secret Life of Pets",2016,http://www.icheckmovies.com/movies/the+secret+life+of+pets/,5301,132,106,2,70,,http://www.imdb.com/title/tt2709768/,"2018-06-27 22:28:18",no,no,no,no
+154,-1,"Guess Who's Coming to Dinner",1967,http://www.icheckmovies.com/movies/guess+whos+coming+to+dinner/,5816,325,33,7,209,,http://www.imdb.com/title/tt0061735/,"2018-11-27 15:35:41",no,no,no,no
+155,-1,"Inside Out",2015,http://www.icheckmovies.com/movies/inside+out-2015/,24649,2326,95,13,462,,http://www.imdb.com/title/tt2096673/,"2018-01-10 16:57:57",no,no,no,no
+156,-1,"American Sniper",2014,http://www.icheckmovies.com/movies/american+sniper/,10911,326,308,5,214,,http://www.imdb.com/title/tt2179136/,"2018-10-17 01:49:36",no,no,no,no
+157,-1,"Kramer vs. Kramer",1979,http://www.icheckmovies.com/movies/kramer+vs.+kramer/,15667,885,42,8,336,,http://www.imdb.com/title/tt0079417/,"2018-04-26 21:41:23",no,no,no,no
+158,-1,Armageddon,1998,http://www.icheckmovies.com/movies/armageddon/,54863,1162,991,4,208,,http://www.imdb.com/title/tt0120591/,"2018-10-17 01:49:52",no,no,no,no
+159,-1,Psycho,1960,http://www.icheckmovies.com/movies/psycho/,68008,6069,125,38,1387,,http://www.imdb.com/title/tt0054215/,"2018-01-10 16:55:24",no,no,no,no
+160,-1,"Rocky III",1982,http://www.icheckmovies.com/movies/rocky+iii/,9235,212,95,1,131,,http://www.imdb.com/title/tt0084602/,"2018-11-08 01:20:44",no,no,no,no
+161,-1,"Harry Potter and the Order of the Phoenix",2007,http://www.icheckmovies.com/movies/harry+potter+and+the+order+of+the+phoenix/,83486,2496,402,4,438,,http://www.imdb.com/title/tt0373889/,"2018-04-28 15:51:30",no,no,no,no
+162,-1,"Rambo: First Blood Part II",1985,http://www.icheckmovies.com/movies/rambo+first+blood+part+ii/,20401,263,194,3,141,,http://www.imdb.com/title/tt0089880/,"2018-10-17 02:18:14",no,no,no,no
+163,-1,"Batman Forever",1995,http://www.icheckmovies.com/movies/batman+forever/,42463,347,891,3,207,,http://www.imdb.com/title/tt0112462/,"2018-10-17 21:54:22",no,no,no,no
+164,-1,Deadpool,2016,http://www.icheckmovies.com/movies/deadpool/,20407,1730,195,4,293,,http://www.imdb.com/title/tt1431045/,"2018-04-28 15:46:34",no,no,no,no
+165,-1,"Pretty Woman",1990,http://www.icheckmovies.com/movies/pretty+woman/,56936,1472,523,11,271,,http://www.imdb.com/title/tt0100405/,"2018-04-26 21:46:30",no,no,no,no
+166,-1,Earthquake,1974,http://www.icheckmovies.com/movies/earthquake/,799,13,24,1,95,,http://www.imdb.com/title/tt0071455/,"2018-11-08 01:16:44",no,no,no,no
+167,-1,"Alice in Wonderland",2010,http://www.icheckmovies.com/movies/alice+in+wonderland-2010/,61867,1209,1732,3,293,,http://www.imdb.com/title/tt1014759/,"2018-10-17 21:51:34",no,no,no,no
+168,-1,"The Incredibles",2004,http://www.icheckmovies.com/movies/the+incredibles/,111037,5077,386,11,667,,http://www.imdb.com/title/tt0317705/,"2018-01-31 08:53:12",no,no,no,no
+169,-1,"Cast Away",2000,http://www.icheckmovies.com/movies/cast+away/,63825,2727,297,4,281,,http://www.imdb.com/title/tt0162222/,"2018-04-28 15:56:21",no,no,no,no
+170,-1,"Home Alone 2: Lost in New York",1992,http://www.icheckmovies.com/movies/home+alone+2+lost+in+new+york/,66841,1108,583,3,195,,http://www.imdb.com/title/tt0104431/,"2018-10-17 02:12:10",no,no,no,no
+171,-1,"The Jungle Book",2016,http://www.icheckmovies.com/movies/the+jungle+book-2016/,8376,308,77,3,159,,http://www.imdb.com/title/tt3040964/,"2018-04-26 21:56:14",no,no,no,no
+172,-1,"3 Men and a Baby",1987,http://www.icheckmovies.com/movies/3+men+and+a+baby/,5845,80,75,2,55,,http://www.imdb.com/title/tt0094137/,no,no,no,no,no
+173,-1,"My Big Fat Greek Wedding",2002,http://www.icheckmovies.com/movies/my+big+fat+greek+wedding/,34548,679,464,2,118,,http://www.imdb.com/title/tt0259446/,"2018-11-08 00:24:42",no,no,no,no
+174,-1,"Guardians of the Galaxy",2014,http://www.icheckmovies.com/movies/guardians+of+the+galaxy/,32884,2549,265,10,485,,http://www.imdb.com/title/tt2015381/,"2018-04-26 21:55:43",no,no,no,no
+175,-1,"Furious Seven",2015,http://www.icheckmovies.com/movies/furious+seven/,7230,241,133,2,158,,http://www.imdb.com/title/tt2820852/,"2018-06-27 22:28:05",no,no,no,no
+176,-1,"Mission: Impossible",1996,http://www.icheckmovies.com/movies/mission+impossible/,55669,1058,268,4,251,,http://www.imdb.com/title/tt0117060/,"2018-10-17 22:28:05",no,no,no,no
+177,-1,"The Hunger Games: Mockingjay - Part 1",2014,http://www.icheckmovies.com/movies/the+hunger+games+mockingjay+-+part+1/,14791,355,223,2,204,,http://www.imdb.com/title/tt1951265/,no,no,no,no,no
+178,-1,Minions,2015,http://www.icheckmovies.com/movies/minions/,7155,141,197,2,91,,http://www.imdb.com/title/tt2293640/,"2018-06-27 22:08:16",no,no,no,no
+179,-1,"Saturday Night Fever",1977,http://www.icheckmovies.com/movies/saturday+night+fever/,20779,423,167,13,265,,http://www.imdb.com/title/tt0076666/,"2018-04-26 21:40:48",no,no,no,no
+180,-1,"On Golden Pond",1981,http://www.icheckmovies.com/movies/on+golden+pond/,3508,165,26,6,168,,http://www.imdb.com/title/tt0082846/,"2018-10-17 22:32:40",no,no,no,no
+181,-1,"Austin Powers: The Spy Who Shagged Me",1999,http://www.icheckmovies.com/movies/austin+powers+the+spy+who+shagged+me/,54272,880,593,4,161,,http://www.imdb.com/title/tt0145660/,"2018-11-26 00:40:29",no,no,no,no
+182,-1,"Harry Potter and the Half-Blood Prince",2009,http://www.icheckmovies.com/movies/harry+potter+and+the+half-blood+prince/,80674,2577,412,3,447,,http://www.imdb.com/title/tt0417741/,"2018-04-28 15:49:20",no,no,no,no
+183,-1,"Bruce Almighty",2003,http://www.icheckmovies.com/movies/bruce+almighty/,74318,1498,673,4,165,,http://www.imdb.com/title/tt0315327/,"2018-10-17 01:50:55",no,no,no,no
+184,-1,"Harry Potter and the Prisoner of Azkaban",2004,http://www.icheckmovies.com/movies/harry+potter+and+the+prisoner+of+azkaban/,92117,3857,362,9,571,,http://www.imdb.com/title/tt0304141/,"2018-06-14 00:52:33",no,no,no,no
+185,-1,"Funny Girl",1968,http://www.icheckmovies.com/movies/funny+girl/,4265,242,35,8,194,,http://www.imdb.com/title/tt0062994/,"2018-11-27 15:39:36",no,no,no,no
+186,-1,"Mission: Impossible II",2000,http://www.icheckmovies.com/movies/mission+impossible+ii/,43187,359,742,3,165,,http://www.imdb.com/title/tt0120755/,"2018-10-17 02:14:51",no,no,no,no
+187,-1,"Rush Hour 2",2001,http://www.icheckmovies.com/movies/rush+hour+2/,36682,477,340,3,108,,http://www.imdb.com/title/tt0266915/,"2018-10-17 02:19:46",no,no,no,no
+188,-1,"Apollo 13",1995,http://www.icheckmovies.com/movies/apollo+13/,46222,1469,142,5,334,,http://www.imdb.com/title/tt0112384/,"2018-04-28 16:06:33",no,no,no,no
+189,-1,Patton,1970,http://www.icheckmovies.com/movies/patton/,13432,740,54,13,435,,http://www.imdb.com/title/tt0066206/,"2018-04-26 21:37:53",no,no,no,no
+190,-1,"Fatal Attraction",1987,http://www.icheckmovies.com/movies/fatal+attraction/,16989,311,102,11,254,,http://www.imdb.com/title/tt0093010/,"2018-04-26 21:45:13",no,no,no,no
+191,-1,Zootopia,2016,http://www.icheckmovies.com/movies/zootopia/,16286,1410,55,8,262,,http://www.imdb.com/title/tt2948356/,"2018-01-31 08:54:25",no,no,no,no
+192,-1,"Liar Liar",1997,http://www.icheckmovies.com/movies/liar+liar/,56181,1281,376,4,150,,http://www.imdb.com/title/tt0119528/,"2018-10-17 22:24:17",no,no,no,no
+193,-1,"Robin Hood: Prince of Thieves",1991,http://www.icheckmovies.com/movies/robin+hood+prince+of+thieves/,27687,542,168,3,115,,http://www.imdb.com/title/tt0102798/,"2018-10-17 02:19:20",no,no,no,no
+194,-1,"Beverly Hills Cop II",1987,http://www.icheckmovies.com/movies/beverly+hills+cop+ii/,19792,226,138,2,91,,http://www.imdb.com/title/tt0092644/,"2018-10-30 22:20:22",no,no,no,no
+195,-1,"Iron Man 2",2010,http://www.icheckmovies.com/movies/iron+man+2/,60826,1465,670,3,372,,http://www.imdb.com/title/tt1228705/,"2018-10-17 02:12:49",no,no,no,no
+196,-1,Up,2009,http://www.icheckmovies.com/movies/up/,112779,9069,394,16,722,,http://www.imdb.com/title/tt1049413/,"2018-01-10 16:57:32",no,no,no,yes
+197,-1,"Batman Returns",1992,http://www.icheckmovies.com/movies/batman+returns/,54327,1235,261,7,318,,http://www.imdb.com/title/tt0103776/,"2018-06-14 00:50:47",no,no,no,no
+198,-1,Signs,2002,http://www.icheckmovies.com/movies/signs-2002-1/,48486,1088,906,5,198,,http://www.imdb.com/title/tt0286106/,"2018-10-17 01:46:37",no,no,no,no
+199,-1,"The Twilight Saga: Eclipse",2010,http://www.icheckmovies.com/movies/the+twilight+saga+eclipse/,27517,314,1492,2,163,,http://www.imdb.com/title/tt1325004/,no,no,no,no,no
+200,-1,"Superman II",1980,http://www.icheckmovies.com/movies/superman+ii/,12444,251,99,2,138,,http://www.imdb.com/title/tt0081573/,no,no,no,no,no
+201,-1,"The Twilight Saga: New Moon",2009,http://www.icheckmovies.com/movies/the+twilight+saga+new+moon/,34042,355,2289,2,168,,http://www.imdb.com/title/tt1259571/,no,no,no,no,no
+202,-1,"What's Up, Doc?",1972,http://www.icheckmovies.com/movies/whats+up+docquestion/,2904,248,29,8,144,,http://www.imdb.com/title/tt0069495/,"2018-10-17 01:29:53",no,no,no,no
+203,-1,"Nine to Five",1980,http://www.icheckmovies.com/movies/nine+to+five/,3413,131,23,2,99,"9 to 5",http://www.imdb.com/title/tt0080319/,"2018-11-08 00:27:02",no,no,no,no
+204,-1,"Batman v Superman: Dawn of Justice",2016,http://www.icheckmovies.com/movies/batman+v+superman+dawn+of+justice/,9365,219,517,2,168,,http://www.imdb.com/title/tt2975590/,"2018-06-27 22:28:19",no,no,no,no
+205,-1,"The Firm",1993,http://www.icheckmovies.com/movies/the+firm/,13722,224,86,2,110,,http://www.imdb.com/title/tt0106918/,no,no,no,no,no
+206,-1,"Suicide Squad",2016,http://www.icheckmovies.com/movies/suicide+squad-2016/,9686,193,627,2,167,,http://www.imdb.com/title/tt1386697/,"2018-11-08 00:27:38",no,no,no,no
+207,-1,"Who Framed Roger Rabbit",1988,http://www.icheckmovies.com/movies/who+framed+roger+rabbit/,58634,3034,193,14,459,,http://www.imdb.com/title/tt0096438/,"2018-04-26 21:45:52",no,no,no,no
+208,-1,Skyfall,2012,http://www.icheckmovies.com/movies/skyfall/,39600,2091,252,4,490,,http://www.imdb.com/title/tt1074638/,"2018-04-26 21:54:09",no,no,no,no
+209,-1,"The Hobbit: An Unexpected Journey",2012,http://www.icheckmovies.com/movies/the+hobbit+an+unexpected+journey/,44231,2454,532,4,470,,http://www.imdb.com/title/tt0903624/,"2018-04-28 15:48:34",no,no,no,no
+210,-1,Porky's,1981,http://www.icheckmovies.com/movies/porkys/,3574,71,82,2,70,,http://www.imdb.com/title/tt0084522/,"2018-11-08 00:27:12",no,no,no,no
+211,-1,"Air Force One",1997,http://www.icheckmovies.com/movies/air+force+one/,28254,415,240,2,111,,http://www.imdb.com/title/tt0118571/,"2018-04-28 16:00:03",no,no,no,no
+212,-1,"Stir Crazy",1980,http://www.icheckmovies.com/movies/stir+crazy/,1210,42,9,2,54,,http://www.imdb.com/title/tt0081562/,"2018-11-08 00:27:33",no,no,no,no
+213,-1,"A Star Is Born",1976,http://www.icheckmovies.com/movies/a+star+is+born-1976/,595,17,12,2,70,,http://www.imdb.com/title/tt0075265/,no,no,no,no,no
+214,-1,"There's Something About Mary",1998,http://www.icheckmovies.com/movies/theres+something+about+mary/,55024,1291,500,9,243,,http://www.imdb.com/title/tt0129387/,"2018-04-26 21:49:52",no,no,no,no
+215,-1,"Spider-Man: Homecoming",2017,http://www.icheckmovies.com/movies/spider-man+homecoming/,7876,442,59,3,135,,http://www.imdb.com/title/tt2250912/,"2018-04-28 15:45:57",no,no,no,no
+216,-1,Cars,2006,http://www.icheckmovies.com/movies/cars/,63519,1159,709,3,275,,http://www.imdb.com/title/tt0317219/,"2018-01-31 09:13:35",no,no,no,no
+217,-1,"The Hangover",2009,http://www.icheckmovies.com/movies/the+hangover/,91940,4478,1084,5,391,,http://www.imdb.com/title/tt1119646/,"2018-04-26 21:53:05",no,no,no,no
+218,-1,"Lethal Weapon 2",1989,http://www.icheckmovies.com/movies/lethal+weapon+2/,24170,405,99,4,131,,http://www.imdb.com/title/tt0097733/,"2018-10-17 22:23:39",no,no,no,no
+219,-1,"Night at the Museum",2006,http://www.icheckmovies.com/movies/night+at+the+museum/,60417,663,811,3,170,,http://www.imdb.com/title/tt0477347/,"2018-10-17 22:30:53",no,no,no,no
+220,-1,"Harry Potter and the Deathly Hallows: Part 1",2010,http://www.icheckmovies.com/movies/harry+potter+and+the+deathly+hallows+part+1/,74151,3005,364,4,474,,http://www.imdb.com/title/tt0926084/,"2018-04-28 15:49:00",no,no,no,no
+221,-1,Inception,2010,http://www.icheckmovies.com/movies/inception/,124912,15646,867,17,1209,,http://www.imdb.com/title/tt1375666/,"2018-01-10 16:54:57",no,no,no,yes
+222,-1,"I Am Legend",2007,http://www.icheckmovies.com/movies/i+am+legend/,71629,2129,859,5,259,,http://www.imdb.com/title/tt0480249/,"2018-10-17 01:44:04",no,no,no,no
+223,-1,"Austin Powers in Goldmember",2002,http://www.icheckmovies.com/movies/austin+powers+in+goldmember/,48346,598,707,2,132,,http://www.imdb.com/title/tt0295178/,"2018-11-26 00:32:04",no,no,no,no
+224,-1,It,2017,http://www.icheckmovies.com/movies/it-2017/,6030,340,68,3,133,,http://www.imdb.com/title/tt1396484/,"2018-10-17 22:17:41",no,no,no,no
+225,-1,"War of the Worlds",2005,http://www.icheckmovies.com/movies/war+of+the+worlds/,54865,810,1184,5,236,,http://www.imdb.com/title/tt0407304/,"2018-10-17 01:39:26",no,no,no,no
+226,-1,"Every Which Way But Loose",1978,http://www.icheckmovies.com/movies/every+which+way+but+loose/,1218,37,27,1,54,,http://www.imdb.com/title/tt0077523/,"2018-11-08 01:18:04",no,no,no,no
+227,-1,"The Twilight Saga: Breaking Dawn - Part 2",2012,http://www.icheckmovies.com/movies/the+twilight+saga+breaking+dawn+-+part+2/,11389,146,518,2,138,,http://www.imdb.com/title/tt1673434/,no,no,no,no,no
+228,-1,"The Love Bug",1968,http://www.icheckmovies.com/movies/the+love+bug/,1531,33,15,2,42,,http://www.imdb.com/title/tt0064603/,"2018-11-19 21:32:57",no,no,no,no
+229,-1,"The Twilight Saga: Breaking Dawn - Part 1",2011,http://www.icheckmovies.com/movies/the+twilight+saga+breaking+dawn+-+part+1/,15833,199,802,2,159,,http://www.imdb.com/title/tt1324999/,no,no,no,no,no
+230,-1,"You Only Live Twice",1967,http://www.icheckmovies.com/movies/you+only+live+twice/,9808,167,56,2,134,,http://www.imdb.com/title/tt0062512/,"2018-10-30 22:10:56",no,no,no,no
+231,-1,"X-Men: The Last Stand",2006,http://www.icheckmovies.com/movies/x-men+the+last+stand/,57388,868,1016,3,267,,http://www.imdb.com/title/tt0376994/,"2018-10-17 02:24:07",no,no,no,no
+232,-1,"The Mummy Returns",2001,http://www.icheckmovies.com/movies/the+mummy+returns/,52802,648,771,3,135,,http://www.imdb.com/title/tt0209163/,"2018-10-17 02:15:17",no,no,no,no
+233,-1,X2,2003,http://www.icheckmovies.com/movies/x2/,49865,1500,214,6,267,,http://www.imdb.com/title/tt0290334/,"2018-04-28 15:55:24",no,no,no,no
+234,-1,Platoon,1986,http://www.icheckmovies.com/movies/platoon/,41523,2128,163,20,580,,http://www.imdb.com/title/tt0091763/,"2018-01-10 16:59:12",no,no,no,no
+235,-1,"Rocky IV",1985,http://www.icheckmovies.com/movies/rocky+iv/,23861,477,240,2,148,,http://www.imdb.com/title/tt0089927/,"2018-10-30 22:20:18",no,no,no,no
+236,-1,"Pearl Harbor",2001,http://www.icheckmovies.com/movies/pearl+harbor/,47764,885,1482,2,152,,http://www.imdb.com/title/tt0213149/,"2018-10-30 22:17:32",no,no,no,no
+237,-1,"True Lies",1994,http://www.icheckmovies.com/movies/true+lies/,29752,906,166,4,161,,http://www.imdb.com/title/tt0111503/,"2018-10-17 22:42:35",no,no,no,no
+238,-1,"Heaven Can Wait",1978,http://www.icheckmovies.com/movies/heaven+can+wait-1978-1/,1821,46,15,3,105,,http://www.imdb.com/title/tt0077663/,"2018-10-17 22:12:29",no,no,no,no
+239,-1,"Lethal Weapon 3",1992,http://www.icheckmovies.com/movies/lethal+weapon+3/,22478,289,121,3,87,,http://www.imdb.com/title/tt0104714/,"2018-10-17 02:14:09",no,no,no,no
+240,-1,"Look Who's Talking",1989,http://www.icheckmovies.com/movies/look+whos+talking/,25367,256,298,2,68,,http://www.imdb.com/title/tt0097778/,no,no,no,no,no
+241,-1,Gladiator,2000,http://www.icheckmovies.com/movies/gladiator/,106181,7266,693,23,781,,http://www.imdb.com/title/tt0172495/,"2018-01-10 16:55:47",no,no,no,no
+242,-1,"Man of Steel",2013,http://www.icheckmovies.com/movies/man+of+steel-2013-1/,19545,560,622,2,262,,http://www.imdb.com/title/tt0770828/,"2018-10-30 22:16:19",no,no,no,no
+243,-1,"Jaws 2",1978,http://www.icheckmovies.com/movies/jaws+2/,16606,86,204,2,101,,http://www.imdb.com/title/tt0077766/,"2018-11-08 00:26:28",no,no,no,no
+244,-1,"Star Trek",2009,http://www.icheckmovies.com/movies/star+trek/,69334,3740,457,7,427,,http://www.imdb.com/title/tt0796366/,"2018-04-28 15:49:33",no,no,no,no
+245,-1,"The Santa Clause",1994,http://www.icheckmovies.com/movies/the+santa+clause/,9229,184,118,1,89,,http://www.imdb.com/title/tt0111070/,"2018-11-08 01:30:21",no,no,no,no
+246,-1,"The Amityville Horror",1979,http://www.icheckmovies.com/movies/the+amityville+horror/,6685,93,100,2,126,,http://www.imdb.com/title/tt0078767/,"2018-11-08 00:27:40",no,no,no,no
+247,-1,"Thor: Ragnarok",2017,http://www.icheckmovies.com/movies/thor+ragnarok/,8488,616,71,2,157,,http://www.imdb.com/title/tt3501632/,"2018-04-28 15:45:49",no,no,no,no
+248,-1,"The Waterboy",1998,http://www.icheckmovies.com/movies/the+waterboy/,12093,224,275,1,78,,http://www.imdb.com/title/tt0120484/,"2018-11-08 01:34:28",no,no,no,no
+249,-1,"A Bug's Life",1998,http://www.icheckmovies.com/movies/a+bugs+life/,74544,1478,249,4,280,,http://www.imdb.com/title/tt0120623/,"2018-01-31 09:13:34",no,no,no,no
+250,-1,"A Few Good Men",1992,http://www.icheckmovies.com/movies/a+few+good+men/,23000,995,77,3,240,,http://www.imdb.com/title/tt0104257/,"2018-04-28 16:04:31",no,no,no,no
+251,2,"Deadpool 2",2018,http://www.icheckmovies.com/movies/deadpool+2/,5619,345,40,2,99,,http://www.imdb.com/title/tt5463162/,"2018-10-30 22:15:57",no,no,no,no
+252,-2,"The Odd Couple",1968,http://www.icheckmovies.com/movies/the+odd+couple/,4959,271,18,3,154,,http://www.imdb.com/title/tt0063374/,no,no,no,no,no
+253,-2,"Rocky II",1979,http://www.icheckmovies.com/movies/rocky+ii/,9860,265,71,1,128,,http://www.imdb.com/title/tt0079817/,"2018-11-08 01:18:26",no,no,no,no
+254,-2,"Jerry Maguire",1996,http://www.icheckmovies.com/movies/jerry+maguire/,33000,944,245,7,259,,http://www.imdb.com/title/tt0116695/,"2018-04-28 16:01:16",no,no,no,no
+255,-1,"The Perfect Storm",2000,http://www.icheckmovies.com/movies/the+perfect+storm/,24903,251,324,2,93,,http://www.imdb.com/title/tt0177971/,"2018-11-08 00:24:59",no,no,no,no
+256,-1,"King Kong",2005,http://www.icheckmovies.com/movies/king+kong-2005-1/,59557,1081,739,6,304,,http://www.imdb.com/title/tt0360717/,"2018-04-28 15:52:41",no,no,no,no
+257,-1,"The Matrix",1999,http://www.icheckmovies.com/movies/the+matrix/,128235,12132,701,26,1154,,http://www.imdb.com/title/tt0133093/,"2018-01-10 16:55:02",no,no,no,yes
+258,-1,"The Amazing Spider-Man",2012,http://www.icheckmovies.com/movies/the+amazing+spider-man-2012/,30874,992,466,2,310,,http://www.imdb.com/title/tt0948470/,"2018-06-27 22:28:38",no,no,no,no
+259,-1,Tarzan,1999,http://www.icheckmovies.com/movies/tarzan/,63040,1170,187,4,209,,http://www.imdb.com/title/tt0120855/,"2018-10-17 22:40:17",no,no,no,no
+260,-1,"Sister Act",1992,http://www.icheckmovies.com/movies/sister+act/,32244,490,257,3,88,,http://www.imdb.com/title/tt0105417/,"2018-10-17 02:20:44",no,no,no,no
+261,-1,Hooper,1978,http://www.icheckmovies.com/movies/hooper/,227,4,4,1,37,,http://www.imdb.com/title/tt0077696/,"2018-11-08 01:18:08",no,no,no,no
+262,-1,"The Blind Side",2009,http://www.icheckmovies.com/movies/the+blind+side/,31797,1478,442,4,183,,http://www.imdb.com/title/tt0878804/,"2018-10-17 21:56:06",no,no,no,no
+263,-1,"The Da Vinci Code",2006,http://www.icheckmovies.com/movies/the+da+vinci+code/,62519,950,1457,4,187,,http://www.imdb.com/title/tt0382625/,"2018-06-27 22:28:36",no,no,no,no
+264,-1,"Monsters University",2013,http://www.icheckmovies.com/movies/monsters+university/,22116,697,96,2,244,,http://www.imdb.com/title/tt1453405/,"2018-01-31 09:13:41",no,no,no,no
+265,-1,"All the President's Men",1976,http://www.icheckmovies.com/movies/all+the+presidents+men/,15730,1097,60,20,497,,http://www.imdb.com/title/tt0074119/,"2018-04-26 21:40:19",no,no,no,no
+266,-1,"What Women Want",2000,http://www.icheckmovies.com/movies/what+women+want/,39425,475,608,2,100,,http://www.imdb.com/title/tt0207201/,"2018-10-30 22:18:26",no,no,no,no
+267,-1,"The Bourne Ultimatum",2007,http://www.icheckmovies.com/movies/the+bourne+ultimatum/,73534,3185,283,9,422,,http://www.imdb.com/title/tt0440963/,"2018-01-10 17:00:23",no,no,no,no
+268,-1,Gravity,2013,http://www.icheckmovies.com/movies/gravity-2013/,35725,2477,504,9,644,,http://www.imdb.com/title/tt1454468/,"2018-04-26 21:55:31",no,no,no,no
+269,-1,"Honey, I Shrunk the Kids",1989,http://www.icheckmovies.com/movies/honey+i+shrunk+the+kids/,49854,551,317,2,109,,http://www.imdb.com/title/tt0097523/,"2018-11-08 00:25:01",no,no,no,no
+270,-1,"Terms of Endearment",1983,http://www.icheckmovies.com/movies/terms+of+endearment/,6771,276,77,7,236,,http://www.imdb.com/title/tt0086425/,"2018-04-26 21:43:08",no,no,no,no
+271,-1,"Men in Black II",2002,http://www.icheckmovies.com/movies/men+in+black+ii/,62203,620,816,3,172,,http://www.imdb.com/title/tt0120912/,"2018-10-17 02:14:41",no,no,no,no
+272,-1,"Star Trek: The Motion Picture",1979,http://www.icheckmovies.com/movies/star+trek+the+motion+picture/,4698,116,95,2,129,,http://www.imdb.com/title/tt0079945/,"2018-11-08 00:24:55",no,no,no,no
+273,-1,"Wedding Crashers",2005,http://www.icheckmovies.com/movies/wedding+crashers/,45284,1052,444,2,152,,http://www.imdb.com/title/tt0396269/,"2018-11-08 00:24:02",no,no,no,no
+274,-1,"Despicable Me",2010,http://www.icheckmovies.com/movies/despicable+me/,54259,2468,270,3,272,,http://www.imdb.com/title/tt1323594/,"2018-10-17 22:06:01",no,no,no,no
+275,-1,Pocahontas,1995,http://www.icheckmovies.com/movies/pocahontas/,64272,1243,306,3,208,,http://www.imdb.com/title/tt0114148/,"2018-10-17 02:17:24",no,no,no,no
+276,-1,Arthur,1981,http://www.icheckmovies.com/movies/arthur/,4562,141,43,4,124,,http://www.imdb.com/title/tt0082031/,"2018-06-14 00:50:11",no,no,no,no
+277,-1,"The Hunger Games: Mockingjay - Part 2",2015,http://www.icheckmovies.com/movies/the+hunger+games+mockingjay+-+part+2/,9066,172,165,2,142,,http://www.imdb.com/title/tt1951266/,"2018-11-08 00:28:00",no,no,no,no
+278,-1,"The Lego Movie",2014,http://www.icheckmovies.com/movies/the+lego+movie/,22252,1567,138,4,364,,http://www.imdb.com/title/tt1490017/,"2018-04-28 15:47:59",no,no,no,no
+279,-1,"Batman Begins",2005,http://www.icheckmovies.com/movies/batman+begins/,110345,6195,426,11,723,,http://www.imdb.com/title/tt0372784/,"2018-04-28 15:52:58",no,no,no,no
+280,-1,"Apocalypse Now",1979,http://www.icheckmovies.com/movies/apocalypse+now/,60458,6186,339,36,1234,,http://www.imdb.com/title/tt0078788/,"2018-01-10 16:55:57",no,no,no,no
+281,-1,"Charlie and the Chocolate Factory",2005,http://www.icheckmovies.com/movies/charlie+and+the+chocolate+factory/,78163,1564,1260,4,261,,http://www.imdb.com/title/tt0367594/,"2018-10-17 21:58:53",no,no,no,no
+282,-1,"Big Daddy",1999,http://www.icheckmovies.com/movies/big+daddy/,32164,595,359,2,103,,http://www.imdb.com/title/tt0142342/,no,no,no,no,no
+283,-1,"Ocean's Eleven",2001,http://www.icheckmovies.com/movies/oceans+eleven/,81211,3819,310,5,369,,http://www.imdb.com/title/tt0240772/,"2018-01-31 08:54:43",no,no,no,no
+284,-1,"Jurassic Park III",2001,http://www.icheckmovies.com/movies/jurassic+park+iii/,41172,318,752,2,159,,http://www.imdb.com/title/tt0163025/,"2018-10-30 22:18:40",no,no,no,no
+285,-1,"Teenage Mutant Ninja Turtles",1990,http://www.icheckmovies.com/movies/teenage+mutant+ninja+turtles/,28855,576,193,3,111,,http://www.imdb.com/title/tt0100758/,"2018-10-17 02:21:59",no,no,no,no
+286,-1,"Planet of the Apes",2001,http://www.icheckmovies.com/movies/planet+of+the+apes-2001-1/,35717,249,1049,2,141,,http://www.imdb.com/title/tt0133152/,"2018-11-08 00:27:11",no,no,no,no
+287,-1,Alien,1979,http://www.icheckmovies.com/movies/alien/,78748,6748,248,27,1208,,http://www.imdb.com/title/tt0078748/,"2018-01-10 16:55:57",no,no,no,no
+288,-1,Hancock,2008,http://www.icheckmovies.com/movies/hancock/,54316,702,1136,3,167,,http://www.imdb.com/title/tt0448157/,"2018-10-17 02:11:36",no,no,no,no
+289,-1,"As Good as It Gets",1997,http://www.icheckmovies.com/movies/as+good+as+it+gets/,32566,1646,144,8,266,,http://www.imdb.com/title/tt0119822/,"2018-04-28 15:59:32",no,no,no,no
+290,-1,"The Hangover Part II",2011,http://www.icheckmovies.com/movies/the+hangover+part+ii/,33059,549,735,2,207,,http://www.imdb.com/title/tt1411697/,"2018-11-08 00:24:25",no,no,no,no
+291,-1,"Midnight Cowboy",1969,http://www.icheckmovies.com/movies/midnight+cowboy/,13480,1025,77,22,514,,http://www.imdb.com/title/tt0064665/,"2018-04-26 21:37:34",no,no,no,no
+292,-1,"The Hobbit: The Desolation of Smaug",2013,http://www.icheckmovies.com/movies/the+hobbit+the+desolation+of+smaug/,26403,1152,325,3,357,,http://www.imdb.com/title/tt1170358/,"2018-04-28 15:48:03",no,no,no,no
+293,-1,"The French Connection",1971,http://www.icheckmovies.com/movies/the+french+connection/,15128,892,77,19,528,,http://www.imdb.com/title/tt0067116/,"2018-04-26 21:38:15",no,no,no,no
+294,-1,"The Flintstones",1994,http://www.icheckmovies.com/movies/the+flintstones/,34949,155,711,2,57,,http://www.imdb.com/title/tt0109813/,"2018-11-08 00:27:52",no,no,no,no
+295,-1,"Captain America: The Winter Soldier",2014,http://www.icheckmovies.com/movies/captain+america+the+winter+soldier/,21319,1201,136,3,340,,http://www.imdb.com/title/tt1843866/,"2018-04-28 15:47:54",no,no,no,no
+296,-1,"Coming to America",1988,http://www.icheckmovies.com/movies/coming+to+america/,23475,790,150,2,144,,http://www.imdb.com/title/tt0094898/,no,no,no,no,no
+297,-1,"National Treasure: Book of Secrets",2007,http://www.icheckmovies.com/movies/national+treasure+book+of+secrets/,37381,446,574,2,123,,http://www.imdb.com/title/tt0465234/,"2018-11-08 00:23:48",no,no,no,no
+298,-1,WALL·E,2008,http://www.icheckmovies.com/movies/walle/,113346,9528,554,22,863,,http://www.imdb.com/title/tt0910970/,"2018-01-10 16:56:11",no,no,no,yes
+299,-1,"The Hobbit: The Battle of the Five Armies",2014,http://www.icheckmovies.com/movies/the+hobbit+the+battle+of+the+five+armies/,15348,480,341,2,261,,http://www.imdb.com/title/tt2310332/,"2018-06-27 22:08:35",no,no,no,no
+300,-1,"The Silence of the Lambs",1991,http://www.icheckmovies.com/movies/the+silence+of+the+lambs/,101099,9061,244,33,1229,,http://www.imdb.com/title/tt0102926/,"2018-01-10 16:55:07",no,no,no,yes

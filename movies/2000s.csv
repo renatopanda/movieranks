@@ -1,0 +1,51 @@
+rank,rankdifference,title,year,url,checkedcount,favouritecount,dislikedcount,officialtoplistcount,usertoplistcount,akatitle,imdburl,checked,favorite,disliked,watchlist,owned
+1,0,"The Dark Knight",2008,http://www.icheckmovies.com/movies/the+dark+knight/,134591,16209,763,23,1294,,http://www.imdb.com/title/tt0468569/,"2018-04-26 21:52:46",no,no,no,yes
+2,0,"The Lord of the Rings: The Return of the King",2003,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+return+of+the+king/,123782,12152,686,26,1323,,http://www.imdb.com/title/tt0167260/,"2018-01-10 16:54:47",no,no,no,yes
+3,0,"The Lord of the Rings: The Fellowship of the Ring",2001,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+fellowship+of+the+ring/,129276,12045,699,26,1353,,http://www.imdb.com/title/tt0120737/,"2018-01-10 16:54:51",no,no,no,yes
+4,0,"The Lord of the Rings: The Two Towers",2002,http://www.icheckmovies.com/movies/the+lord+of+the+rings+the+two+towers/,123757,10354,572,22,1161,,http://www.imdb.com/title/tt0167261/,"2018-01-10 16:54:57",no,no,no,yes
+5,1,"Sen to Chihiro no kamikakushi",2001,http://www.icheckmovies.com/movies/sen+to+chihiro+no+kamikakushi/,61527,8810,264,36,1096,"Spirited Away",http://www.imdb.com/title/tt0245429/,"2018-01-10 16:55:14",no,no,no,yes
+6,-1,"Cidade de Deus",2002,http://www.icheckmovies.com/movies/cidade+de+deus/,50611,6571,204,20,859,"City of God",http://www.imdb.com/title/tt0317248/,"2018-04-28 15:55:34",no,no,no,yes
+7,5,Gladiator,2000,http://www.icheckmovies.com/movies/gladiator/,106181,7266,693,23,781,,http://www.imdb.com/title/tt0172495/,"2018-01-10 16:55:47",no,no,no,no
+8,3,Memento,2000,http://www.icheckmovies.com/movies/memento/,90360,10650,419,24,1060,,http://www.imdb.com/title/tt0209144/,"2018-01-10 16:55:51",no,no,no,no
+9,1,"The Pianist",2002,http://www.icheckmovies.com/movies/the+pianist/,64883,5238,211,19,687,,http://www.imdb.com/title/tt0253474/,"2018-04-26 21:50:57",no,no,no,no
+10,-1,"La meglio gioventù",2003,http://www.icheckmovies.com/movies/la+meglio+gioventu/,2782,519,32,9,219,"The Best of Youth",http://www.imdb.com/title/tt0346336/,"2018-04-26 21:51:25",no,no,no,no
+11,-3,"The Departed",2006,http://www.icheckmovies.com/movies/the+departed/,85885,7843,418,16,833,,http://www.imdb.com/title/tt0407887/,"2018-04-26 21:52:12",no,no,no,no
+12,-5,"The Prestige",2006,http://www.icheckmovies.com/movies/the+prestige/,84834,8614,382,13,729,,http://www.imdb.com/title/tt0482571/,"2018-04-26 21:51:55",no,no,no,no
+13,5,Oldeuboi,2003,http://www.icheckmovies.com/movies/oldeuboi/,42168,6083,299,27,912,Oldboy,http://www.imdb.com/title/tt0364569/,"2018-04-26 21:51:13",no,no,no,no
+14,3,"Das Leben der Anderen",2006,http://www.icheckmovies.com/movies/das+leben+der+anderen/,28885,3714,101,16,637,"The Lives of Others",http://www.imdb.com/title/tt0405094/,"2018-04-26 21:51:56",no,no,no,no
+15,1,"Babam ve Oglum",2005,http://www.icheckmovies.com/movies/babam+ve+oglum/,1890,132,35,5,66,"My Father and My Son",http://www.imdb.com/title/tt0476735/,"2018-11-08 00:22:08",no,no,no,no
+16,-1,WALL·E,2008,http://www.icheckmovies.com/movies/walle/,113346,9528,554,22,863,,http://www.imdb.com/title/tt0910970/,"2018-01-10 16:56:11",no,no,no,yes
+17,-3,"Taare Zameen Par",2007,http://www.icheckmovies.com/movies/taare+zameen+par/,3436,312,83,4,103,"Like Stars on Earth",http://www.imdb.com/title/tt0986264/,"2018-04-28 15:50:53",no,no,no,no
+18,-5,"3 Idiots",2009,http://www.icheckmovies.com/movies/3+idiots/,8945,931,176,4,149,,http://www.imdb.com/title/tt1187043/,"2018-04-28 15:49:17",no,no,no,no
+19,7,"Requiem for a Dream",2000,http://www.icheckmovies.com/movies/requiem+for+a+dream/,73764,7712,690,18,809,,http://www.imdb.com/title/tt0180093/,"2018-04-26 21:50:28",no,no,no,no
+20,5,Snatch,2000,http://www.icheckmovies.com/movies/snatch-2000/,67370,6634,306,11,540,,http://www.imdb.com/title/tt0208092/,"2018-04-28 15:56:20",no,no,no,no
+21,3,"Le fabuleux destin d'Amélie Poulain",2001,http://www.icheckmovies.com/movies/le+fabuleux+destin+damelie+poulain/,74518,10475,610,24,923,Amélie,http://www.imdb.com/title/tt0211915/,"2018-01-10 16:56:39",no,no,no,no
+22,1,"Eternal Sunshine of the Spotless Mind",2004,http://www.icheckmovies.com/movies/eternal+sunshine+of+the+spotless+mind/,93255,13133,748,25,1122,,http://www.imdb.com/title/tt0338013/,"2018-04-28 11:49:11",no,no,no,no
+23,-1,"Inglourious Basterds",2009,http://www.icheckmovies.com/movies/inglourious+basterds/,107893,12519,777,13,996,,http://www.imdb.com/title/tt0361748/,"2018-01-10 16:57:01",no,no,no,no
+24,-3,"Swades: We, the People",2004,http://www.icheckmovies.com/movies/swades+we+the+people/,1819,156,45,1,66,"Our Country",http://www.imdb.com/title/tt0367110/,"2018-11-08 00:30:19",no,no,no,no
+25,-5,"Batman Begins",2005,http://www.icheckmovies.com/movies/batman+begins/,110345,6195,426,11,723,,http://www.imdb.com/title/tt0372784/,"2018-04-28 15:52:58",no,no,no,no
+26,-7,Up,2009,http://www.icheckmovies.com/movies/up/,112779,9069,394,16,722,,http://www.imdb.com/title/tt1049413/,"2018-01-10 16:57:32",no,no,no,yes
+27,8,"Werckmeister harmóniák",2000,http://www.icheckmovies.com/movies/werckmeister+harmoniak/,2629,480,51,12,334,"Werckmeister Harmonies",http://www.imdb.com/title/tt0249241/,"2018-11-09 00:43:39",no,no,no,no
+28,6,"A Beautiful Mind",2001,http://www.icheckmovies.com/movies/a+beautiful+mind/,72034,4916,389,10,468,,http://www.imdb.com/title/tt0268978/,"2018-04-28 15:56:03",no,no,no,no
+29,4,"Dil Chahta Hai",2001,http://www.icheckmovies.com/movies/dil+chahta+hai/,2022,183,72,4,66,,http://www.imdb.com/title/tt0292490/,"2018-04-28 15:47:46",no,no,no,no
+30,2,"Hauru no ugoku shiro",2004,http://www.icheckmovies.com/movies/hauru+no+ugoku+shiro/,36832,4278,147,16,465,"Howl's Moving Castle",http://www.imdb.com/title/tt0347149/,"2018-01-31 09:14:37",no,no,no,no
+31,0,"Der Untergang",2004,http://www.icheckmovies.com/movies/der+untergang/,31134,2114,105,14,472,Downfall,http://www.imdb.com/title/tt0363163/,"2018-04-26 21:51:29",no,no,no,no
+32,-2,"Rang De Basanti",2006,http://www.icheckmovies.com/movies/rang+de+basanti/,2637,201,108,4,101,,http://www.imdb.com/title/tt0405508/,"2018-04-28 15:50:30",no,no,no,no
+33,-4,"V for Vendetta",2005,http://www.icheckmovies.com/movies/v+for+vendetta/,101473,9458,760,9,626,,http://www.imdb.com/title/tt0434409/,"2018-04-28 15:52:23",no,no,no,no
+34,-6,"El laberinto del fauno",2006,http://www.icheckmovies.com/movies/el+laberinto+del+fauno/,70260,7814,498,29,1016,"Pan's Labyrinth",http://www.imdb.com/title/tt0457430/,"2018-04-26 21:52:00",no,no,no,no
+35,-8,"El secreto de sus ojos",2009,http://www.icheckmovies.com/movies/el+secreto+de+sus+ojos/,15588,1933,102,9,326,"The Secret in Their Eyes",http://www.imdb.com/title/tt1305806/,"2018-04-28 15:49:05",no,no,no,no
+36,,"Faa yeung nin wa",2000,http://www.icheckmovies.com/movies/faa+yeung+nin+wa/,12528,2148,94,26,690,"In the Mood for Love",http://www.imdb.com/title/tt0118694/,"2018-01-31 08:54:55",no,no,no,no
+37,,"Lagaan: Once Upon a Time in India",2001,http://www.icheckmovies.com/movies/lagaan+once+upon+a+time+in+india/,4115,319,73,10,197,"Land Tax",http://www.imdb.com/title/tt0169102/,"2018-11-18 19:00:03",no,no,no,no
+38,,"Monsters, Inc.",2001,http://www.icheckmovies.com/movies/monsters+inc./,113935,5764,210,15,561,,http://www.imdb.com/title/tt0198781/,"2018-01-10 17:00:23",no,no,no,yes
+39,,"Yi yi",2000,http://www.icheckmovies.com/movies/yi+yi/,3802,576,40,19,366,"Yi Yi",http://www.imdb.com/title/tt0244316/,"2018-10-29 22:07:10",no,no,no,no
+40,,"Amores perros",2000,http://www.icheckmovies.com/movies/amores+perros/,23100,2181,138,15,458,"Love's a Bitch",http://www.imdb.com/title/tt0245712/,"2018-04-26 21:50:30",no,no,no,no
+41,,"Donnie Darko",2001,http://www.icheckmovies.com/movies/donnie+darko/,86525,9466,952,18,887,,http://www.imdb.com/title/tt0246578/,"2018-04-28 15:55:59",no,no,no,no
+42,,"Catch Me If You Can",2002,http://www.icheckmovies.com/movies/catch+me+if+you+can/,77854,5405,196,7,444,,http://www.imdb.com/title/tt0264464/,"2018-01-10 17:00:23",no,no,no,no
+43,,"Finding Nemo",2003,http://www.icheckmovies.com/movies/finding+nemo/,128146,6526,311,17,730,,http://www.imdb.com/title/tt0266543/,"2018-01-10 16:58:47",no,no,no,yes
+44,,"Kill Bill: Vol. 1",2003,http://www.icheckmovies.com/movies/kill+bill+vol.+1/,104433,8858,760,14,882,,http://www.imdb.com/title/tt0266697/,"2018-01-10 16:58:56",no,no,no,no
+45,,"Yeopgijeogin geunyeo",2001,http://www.icheckmovies.com/movies/yeopgijeogin+geunyeo/,4115,527,74,4,127,"My Sassy Girl",http://www.imdb.com/title/tt0293715/,"2018-04-28 15:52:44",no,no,no,no
+46,,"Mou gaan dou",2002,http://www.icheckmovies.com/movies/mou+gaan+dou/,9923,959,61,10,315,"Infernal Affairs",http://www.imdb.com/title/tt0338564/,"2018-04-28 15:52:04",no,no,no,no
+47,,"Tasogare Seibei",2002,http://www.icheckmovies.com/movies/tasogare+seibei/,1822,280,11,8,186,"The Twilight Samurai",http://www.imdb.com/title/tt0351817/,"2018-11-08 00:22:02",no,no,no,no
+48,,"Salinui chueok",2003,http://www.icheckmovies.com/movies/salinui+chueok/,7437,1177,40,13,384,"Memories of Murder",http://www.imdb.com/title/tt0353969/,"2018-04-28 15:48:43",no,no,no,no
+49,,"Bom yeoreum gaeul gyeoul geurigo bom",2003,http://www.icheckmovies.com/movies/bom+yeoreum+gaeul+gyeoul+geurigo+bom/,7693,1128,67,11,339,"Spring, Summer, Fall, Winter... and Spring",http://www.imdb.com/title/tt0374546/,"2018-11-16 13:56:01",no,no,no,no
+50,,"Before Sunset",2004,http://www.icheckmovies.com/movies/before+sunset/,20908,2579,140,15,513,,http://www.imdb.com/title/tt0381681/,"2018-04-28 15:54:57",no,no,no,no
